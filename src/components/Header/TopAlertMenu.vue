@@ -1,7 +1,7 @@
 <template >
   <div class="p-5 bg-black text-sm text-gray-50">
     <div class="container m-auto grid grid-cols-12">
-      <div class="col-span-5">
+      <div class="col-span-6">
         <span class="line-after">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +34,7 @@
           contact@roofingmendoza.com
         </a>
       </div>
-      <div class="col-span-5 ml-auto">
+      <div class="col-span-6 ml-auto">
         <a
           href="https://www.facebook.com/MendozaRoofingCompanyWilmington "
           target="_blanc"

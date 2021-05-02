@@ -5,7 +5,8 @@
 <script>
 export default {
   metaInfo: {
-    title: "Hello, world!",
+    title:
+      " Mendoza Roofing Wilmington - Best roofing company around the Brunswick County.",
   },
 };
 </script>
