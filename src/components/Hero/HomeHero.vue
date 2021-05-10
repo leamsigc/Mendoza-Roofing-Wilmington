@@ -2,16 +2,19 @@
   <div class="hero">
     <MainNav />
     <HeroMainText />
+    <CardContainerOverview />
   </div>
 </template>
 <script>
 import MainNav from "../Navigation/MainNav.vue";
 import HeroMainText from "./HeroMainText.vue";
+import CardContainerOverview from "../Card/CardContainerOverview.vue";
 export default {
   name: "HomeHero",
   components: {
     MainNav,
     HeroMainText,
+    CardContainerOverview,
   },
 };
 </script>
