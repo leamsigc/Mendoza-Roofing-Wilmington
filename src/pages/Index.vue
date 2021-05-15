@@ -1,13 +1,32 @@
 <template>
-  <Layout></Layout>
+  <Layout>
+    <HomeHero />
+    <CardContainerOverview />
+    <AboutUs/>
+    <HomeCallToActionContainer/>
+    <HomeServices/>
+    <HomeCallToActionContainer/>
+  </Layout>
 </template>
 
 <script>
+import HomeHero from "../components/Hero/HomeHero.vue";
+import CardContainerOverview from "../components/Card/CardContainerOverview.vue";
+import AboutUs from "../components/Home/AboutUs.vue";
+import HomeCallToActionContainer from "../components/Home/HomeCallToActionContainer.vue";
+import HomeServices from "../components/Home/HomeServices.vue";
 export default {
   metaInfo: {
     title:
       " Mendoza Roofing Wilmington - Best roofing company around the Brunswick County.",
   },
+  components:{
+    HomeHero,
+    CardContainerOverview,
+    AboutUs,
+    HomeCallToActionContainer,
+    HomeServices
+  }
 };
 </script>
 

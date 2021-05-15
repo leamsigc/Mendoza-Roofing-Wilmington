@@ -4,6 +4,7 @@
     <PageHeader />
     <slot />
     <!-- Footer -->
+    <PageFooter/>
   </div>
 </template>
 
@@ -16,9 +17,11 @@ query {
 </static-query>
 <script>
 import PageHeader from "../components/Header/PageHeader";
+import PageFooter from "../components/Footer/PageFooter";
 export default {
   components: {
     PageHeader,
+    PageFooter,
   },
 };
 </script>
