@@ -1,24 +1,26 @@
 <template  >
-  <button
-    class="bg-green-400 text-white py-5 px-10 mb-10 uppercase font-semibold text-lg rounded-md hover:bg-transparent hover:text-green-400 border-green-400 border-2 transition-all"
-  :class="extraClasses"
+  <a
+    href="tel:+910-367-7628"
+    class="py-5 px-10 uppercase inline-block font-semibold text-lg rounded-md border-green-400 border-2 transition-all cursor-pointer"
+    :class="extraClasses"
   >
-    {{text}}
-  </button>
+    {{ text }}
+  </a>
 </template>
 <script>
 export default {
   name: "CallToAction",
-  props:{
+  props: {
     text: {
       type: String,
-      default: "Get In Contact Now"
+      default: "Get In Contact Now",
     },
     extraClasses: {
       type: String,
-      default: ""
-    }
-  }
+      default:
+        "bg-green-400 text-white  hover:bg-transparent hover:text-green-400 mb-10",
+    },
+  },
 };
 </script>
 <style lang="">

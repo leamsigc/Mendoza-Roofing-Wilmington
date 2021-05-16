@@ -1,10 +1,10 @@
 <template>
-  <div class="font-body">
+  <div class="font-body relative overflow-x-hidden">
     <!-- Header -->
     <PageHeader />
     <slot />
     <!-- Footer -->
-    <PageFooter/>
+    <PageFooter />
   </div>
 </template>
 

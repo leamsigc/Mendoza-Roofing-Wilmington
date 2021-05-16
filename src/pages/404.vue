@@ -18,9 +18,9 @@
             craftsmanship to last for many years to come
           </p>
           <p>
-            We are a certified, dependable, licensed, and fully insured roofing
-            company. All Mendoza Roofing employees are fully covered by Workers
-            Compensation Insurance and Liability Insurance.
+            We are a certified, dependable, licensed, and <f></f>ully insured
+            roofing company. All Mendoza Roofing employees are fully covered by
+            Workers Compensation Insurance and Liability Insurance.
           </p>
         </div>
         <div class="col-span-1 grid content-center">
@@ -40,7 +40,7 @@ import SubTitle from "../components/Typography/SubTitle";
 import CallToAction from "../components/Btn/CallToAction";
 export default {
   metaInfo: {
-    title: "About us",
+    title: "Page not found please go back to the home page",
   },
   components: { MainNav, Title, SubTitle, CallToAction },
 };
