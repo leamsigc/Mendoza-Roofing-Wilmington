@@ -1,11 +1,11 @@
 <template  >
-  <div class="py-32 mt-20 call-to-action_container">
+  <div class="py-32 mt-20 px-5 md:px-0 call-to-action_container">
     <div class="container mx-auto grid grid-cols-6">
       <div class="col-span-6 grid place-items-center">
         <Title title="*Free estimates" extaClasess="text-gray-50 text-3xl" />
         <CallToAction
           text="Get Free Quote Now"
-          extraClasses="tracking-widest font-bold px-24 text-white"
+          extraClasses="tracking-widest font-bold px-24 text-white text-center"
         />
       </div>
     </div>

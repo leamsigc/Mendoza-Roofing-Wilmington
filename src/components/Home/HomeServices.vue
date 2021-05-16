@@ -1,8 +1,8 @@
 <template  >
   <div
-    class="container mx-auto grid grid-cols-2 py-10 text-gray-600 gap-8 my-20"
+    class="container mx-auto grid grid-cols-2 py-10 text-gray-600 gap-8 my-20 px-5 md:px-0"
   >
-    <div class="col-span-1">
+    <div class="col-span-2 md:col-span-1">
       <Title title="Our Services" />
       <SubTitle
         Subtitle="Mendoza Roofing is one of the most trusted roofing companies in Wilmington, serving in the Brunswick County."
@@ -19,7 +19,7 @@
         Compensation Insurance and Liability Insurance.
       </p>
     </div>
-    <div class="col-span-1">
+    <div class="col-span-2 md:col-span-1">
       <Title title="Checklist of a Good Roofing Company" />
 
       <div class="checklist__container mt-8">

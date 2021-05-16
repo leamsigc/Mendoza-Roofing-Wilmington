@@ -1,8 +1,8 @@
 <template  >
   <nav
-    class="container mx-auto grid grid-cols-12 text-white font-semibold uppercase"
+    class="container mx-auto grid grid-cols-12 text-white font-semibold uppercase px-4 md:p-0"
   >
-    <div class="logo col-span-4">
+    <div class="logo col-span-full md:col-span-4">
       <img
         height="80"
         width="120"
@@ -10,16 +10,16 @@
         alt="Mendoza roofing company"
       />
     </div>
-    <ul class="col-span-6 flex justify-evenly items-center">
+    <ul class="col-span-full md:col-span-6 flex justify-evenly items-center">
       <li>
         <router-link to="/" class="hover:text-green-300 transition-all">
           Home
         </router-link>
       </li>
       <li>
-        <router-link to="/about" class="hover:text-green-300 transition-all"
-          >About</router-link
-        >
+        <router-link to="/about" class="hover:text-green-300 transition-all">
+          About
+        </router-link>
       </li>
       <li>
         <router-link to="/" class="hover:text-green-300 transition-all">
@@ -32,7 +32,9 @@
         </router-link>
       </li>
     </ul>
-    <ul class="col-span-20 flex justify-between items-center">
+    <ul
+      class="col-span-full md:col-span-2 mt-4 md:mt-0 flex justify-between items-center"
+    >
       <li>
         <a
           href="tel:910-367-7628"

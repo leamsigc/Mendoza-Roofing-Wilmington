@@ -4,11 +4,11 @@
   >
     <div class="col-span-2"></div>
     <h1 class="col-span-8 text-center">
-      <small class="block font-extralight">
+      <small class="block font-extralight text-lg md:text-lg">
         The job is not done until you are satisfied!
       </small>
 
-      <span class="block font-black text-8xl uppercase my-10">
+      <span class="block font-black md:text-8xl uppercase my-10">
         We can restore Your roof to the original look!
       </span>
     </h1>

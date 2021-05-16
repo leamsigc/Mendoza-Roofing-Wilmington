@@ -1,14 +1,14 @@
 <template >
   <div class="p-5 bg-black text-sm text-gray-50">
     <div class="container m-auto grid grid-cols-12">
-      <div class="col-span-6">
-        <span class="line-after">
+      <div class="col-span-12 md:col-span-6">
+        <span class="line-after text-xs inline-block">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
             height="16"
             fill="currentColor"
-            class="bi bi-map-fill inline-block"
+            class="bi bi-map-fill inline-block w-2 md:w-4 h-2 md:h-4"
             viewBox="0 0 16 16"
           >
             <path
@@ -18,13 +18,16 @@
           </svg>
           P.O Box 952 Supply NC 28462
         </span>
-        <a href="mailto:contact@roofingmendoza.com" class="ml-5">
+        <a
+          href="mailto:contact@roofingmendoza.com"
+          class="md:ml-5 ml-4 text-xs md:text-base"
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
             height="16"
             fill="currentColor"
-            class="bi bi-envelope inline-block"
+            class="bi bi-envelope inline-block w-2 md:w-4 h-2 md:h-4"
             viewBox="0 0 16 16"
           >
             <path
@@ -34,7 +37,7 @@
           contact@roofingmendoza.com
         </a>
       </div>
-      <div class="col-span-6 ml-auto">
+      <div class="col-span-12 md:col-span-6 ml-auto mt-4 md:mt-0">
         <a
           href="https://www.facebook.com/MendozaRoofingCompanyWilmington "
           target="_blanc"
@@ -131,5 +134,12 @@ export default {
   bottom: 0;
   right: -6px;
   transform: rotate(20deg);
+}
+@media only screen and (max-width: 800px) {
+  .line-after::after {
+    height: 30px;
+    top: -5px;
+    right: -8px;
+  }
 }
 </style>

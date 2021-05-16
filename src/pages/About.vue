@@ -7,8 +7,10 @@
         class="absolute top-0 bottom-0 left-0 right-0 h-full w-full opacity-10 pointer-events-none"
       />
       <MainNav />
-      <div class="container mx-auto py-24 text-gray-200 grid grid-cols-3">
-        <div class="col-span-2">
+      <div
+        class="container mx-auto py-24 text-gray-200 grid grid-cols-3 px-5 md:px-0"
+      >
+        <div class="col-span-3 md:col-span-2">
           <Title title=" Mendoza Roofing Wilmington " />
           <SubTitle extaClasess="text-gray-50 text-2xl mb-10" />
           <p class="mb-5">
@@ -23,7 +25,7 @@
             Compensation Insurance and Liability Insurance.
           </p>
         </div>
-        <div class="col-span-1 grid content-center">
+        <div class="col-span-3 mt-10 md:mt-0 md:col-span-1 grid content-center">
           <div class="text-center">
             <CallToAction />
           </div>

@@ -1,7 +1,7 @@
 <template >
   <footer class="p-5 bg-black text-gray-50">
     <div class="container mx-auto grid grid-cols-3 text-center py-10">
-      <div class="col-span-1 text-left">
+      <div class="col-span-3 md:col-span-1 text-center md:text-left">
         <g-image
           src="https://roofingmendoza.com/MendozaRoofingCompanyWilmingtonNortCarolinalog@2x.d153647d.png"
           height="80px"
@@ -9,8 +9,8 @@
           class="inline-block h-52"
         />
       </div>
-      <div class="col-span-1 grid grid-cols-5 gap-2">
-        <div class="col-span-1 grid content-center">
+      <div class="col-span-3 md:col-span-1 grid grid-cols-5 gap-2">
+        <div class="col-span-2 md:col-span-1 grid content-center">
           <span
             class="bg-green-400 flex justify-items-center items-center rounded-full w-20 h-20"
           >
@@ -29,14 +29,14 @@
             </svg>
           </span>
         </div>
-        <div class="col-span-4 text-left grid content-center">
+        <div class="col-span-3 md:col-span-4 text-left grid content-center">
           <div class="text-sm mb-4">Need help?</div>
-          <a href="tel:+910-367-7628" class="text-4xl font-bold">
+          <a href="tel:+910-367-7628" class="text-2xl md:text-4xl font-bold">
             Call Us : 910-367-7628
           </a>
         </div>
       </div>
-      <div class="col-span-1 grid content-center">
+      <div class="col-span-3 mt-5 md:mt-0 md:col-span-1 grid content-center">
         <div class="content-center flex justify-end">
           <a
             target="_blank"
@@ -159,10 +159,10 @@
       <hr class="border-gray-700" />
     </div>
     <div class="container mx-auto grid grid-cols-12 py-20">
-      <div class="col-span-4">
+      <div class="col-span-12 md:col-span-4">
         <TitleSecondary />
         <div class="footer-services__container grid grid-cols-2 text-gray-500">
-          <div class="col-span-1">
+          <div class="col-span-2 md:col-span-1">
             <div
               class="service mb-2 transition-all cursor-pointer transform hover:scale-105"
               v-for="(service, index) in optionsServices"
@@ -187,7 +187,7 @@
               <span>{{ service }}</span>
             </div>
           </div>
-          <div class="col-span-1">
+          <div class="col-span-2 md:col-span-1">
             <div class="col-span-1">
               <div
                 class="service mb-2 transition-all cursor-pointer transform hover:scale-105"
@@ -216,7 +216,7 @@
           </div>
         </div>
       </div>
-      <div class="col-span-4">
+      <div class="col-span-12 md:col-span-4">
         <TitleSecondary title="Working Hours" />
         <div
           class="hours mb-2 transition-all cursor-pointer transform hover:scale-105"
@@ -227,10 +227,10 @@
           <span class="time text-gray-500">{{ value }}</span>
         </div>
       </div>
-      <div class="col-span-4">
+      <div class="col-span-12 md:col-span-4">
         <TitleSecondary title="Contact" />
         <div class="grid grid-cols-5 gap-2">
-          <div class="col-span-1 grid content-center">
+          <div class="col-span-2 md:col-span-1 grid content-center">
             <span
               class="bg-green-400 flex justify-items-center items-center rounded-full w-20 h-20"
             >
@@ -249,16 +249,16 @@
               </svg>
             </span>
           </div>
-          <div class="col-span-4 text-left grid content-center">
+          <div class="col-span-3 md:col-span-4 text-left grid content-center">
             <div class="text-sm mb-4">Need help?</div>
-            <a href="tel:+910-367-7628" class="text-4xl font-bold">
+            <a href="tel:+910-367-7628" class="text-2xl md:text-4xl font-bold">
               Call Us : 910-367-7628
             </a>
           </div>
           <div class="col-span-5">
             <call-to-action
               text="Mendoza Roofing Wilmington"
-              extraClasses="text-green-400 bg-transparent mt-10 hover:text-white hover:border-white"
+              extraClasses="text-green-400 bg-transparent mt-10 hover:text-white hover:border-white text-center"
             />
           </div>
         </div>
