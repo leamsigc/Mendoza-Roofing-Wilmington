@@ -42,7 +42,8 @@ import SubTitle from "../components/Typography/SubTitle";
 import CallToAction from "../components/Btn/CallToAction";
 export default {
   metaInfo: {
-    title: "About us",
+    title:
+      "About || Mendoza Roofing Company Wilmington North Carolina|| Mendoza roofing wilmington Carolina del Norte",
   },
   components: { MainNav, Title, SubTitle, CallToAction },
 };

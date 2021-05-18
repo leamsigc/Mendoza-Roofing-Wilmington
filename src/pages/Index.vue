@@ -2,10 +2,10 @@
   <Layout>
     <HomeHero />
     <CardContainerOverview />
-    <AboutUs/>
-    <HomeCallToActionContainer/>
-    <HomeServices/>
-    <HomeCallToActionContainer/>
+    <AboutUs />
+    <HomeCallToActionContainer />
+    <HomeServices />
+    <HomeCallToActionContainer />
   </Layout>
 </template>
 
@@ -18,15 +18,21 @@ import HomeServices from "../components/Home/HomeServices.vue";
 export default {
   metaInfo: {
     title:
-      " Mendoza Roofing Wilmington - Best roofing company around the Brunswick County.",
+      "Home || Mendoza Roofing Wilmington - Best roofing company around the Brunswick County.",
+    meta: [
+      { name: "twitter:site", content: "@RoofingMendozaWilmington" },
+      { name: "twitter:image", content: "./img/MendozaRoofingCompany.png" },
+      { name: "og:image", content: "./img/MendozaRoofingCompany.png" },
+      { name: "twitter:creator", content: "@RoofingMendozaWilmington" },
+    ],
   },
-  components:{
+  components: {
     HomeHero,
     CardContainerOverview,
     AboutUs,
     HomeCallToActionContainer,
-    HomeServices
-  }
+    HomeServices,
+  },
 };
 </script>
 
