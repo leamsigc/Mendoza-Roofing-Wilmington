@@ -1,6 +1,6 @@
 <template  >
   <div
-    class="container mx-auto pb-10 px-5 md:px-0 grid grid-cols-12 text-gray-600 gap-8"
+    class="container mx-auto pb-10 px-1 md:px-2 grid grid-cols-12 text-gray-600 md:gap-8"
   >
     <div class="col-span-12 md:col-span-6 pr-4">
       <Title />
@@ -18,7 +18,7 @@
             v-for="(option, index) in aboutUsOptionsLeft"
             :key="index"
           >
-            <span class="icon inline-block mr-6">
+            <span class="icon inline-block mr-2 md:mr-6">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
@@ -42,7 +42,7 @@
             v-for="(option, index) in aboutUsOptionsRight"
             :key="index"
           >
-            <span class="icon inline-block mr-6">
+            <span class="icon inline-block mr-2 md:mr-6">
               <!-- Make a component for the list in the future  we are using the same patter in more than one component  -->
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -64,11 +64,13 @@
       </div>
     </div>
     <div class="col-span-12 md:col-span-6">
-      <div class="grid grid-cols-6 gap-4">
+      <div class="grid grid-cols-6 gap-1 md:gap-4">
         <div class="col-span-3 pt-12 text-gray-50">
           <div class="bg-green-400 text-center py-24 rounded-lg">
-            <div class="text-9xl font-black uppercase">50</div>
-            <div class="text-4xl uppercase font-bold">years of experience</div>
+            <div class="text-6xl md:text-9xl font-black uppercase">50</div>
+            <div class="text-xl md:text-4xl uppercase font-bold">
+              years of experience
+            </div>
           </div>
         </div>
         <div class="col-span-3 relative">

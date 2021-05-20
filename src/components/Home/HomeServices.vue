@@ -1,6 +1,6 @@
 <template  >
   <div
-    class="container mx-auto grid grid-cols-2 py-10 text-gray-600 gap-8 my-20 px-5 md:px-0"
+    class="container mx-auto grid grid-cols-2 py-10 text-gray-600 gap-8 my-20 px-5 md:px-2"
   >
     <div class="col-span-2 md:col-span-1">
       <Title title="Our Services" />
@@ -28,7 +28,7 @@
           v-for="(option, index) in checkList"
           :key="index"
         >
-          <span class="inline-block mr-4">
+          <span class="inline-block mr-2 md:mr-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"

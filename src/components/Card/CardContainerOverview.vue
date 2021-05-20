@@ -1,6 +1,6 @@
 <template  >
   <div
-    class="container mx-auto grid grid-cols-10 md:justify-between px-1 md:px-0"
+    class="container mx-auto grid grid-cols-10 md:justify-between px-1 md:px-2"
   >
     <Card class="col-span-10 md:col-span-4 relative">
       <template slot="image">

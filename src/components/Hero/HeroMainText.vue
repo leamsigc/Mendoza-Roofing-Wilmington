@@ -8,7 +8,7 @@
         The job is not done until you are satisfied!
       </small>
 
-      <span class="block font-black md:text-8xl uppercase my-10">
+      <span class="block font-black text-4xl md:text-8xl uppercase my-10">
         We can restore Your roof to the original look!
       </span>
     </h1>

@@ -3,10 +3,8 @@
     <div class="container mx-auto grid grid-cols-3 text-center py-10">
       <div class="col-span-3 md:col-span-1 text-center md:text-left">
         <g-image
-          src="https://roofingmendoza.com/MendozaRoofingCompanyWilmingtonNortCarolinalog@2x.d153647d.png"
-          height="80px"
-          fit="fit"
-          class="inline-block h-52"
+          src="/img/logoTransparent.png"
+          class="inline-block h-40 w-56"
         />
       </div>
       <div class="col-span-3 md:col-span-1 grid grid-cols-5 gap-2">
@@ -258,7 +256,7 @@
           <div class="col-span-5">
             <call-to-action
               text="Mendoza Roofing Wilmington"
-              extraClasses="text-green-400 bg-transparent mt-10 hover:text-white hover:border-white text-center"
+              extraClasses="text-green-400 bg-transparent mt-10 hover:text-white hover:border-white text-center p-2"
             />
           </div>
         </div>

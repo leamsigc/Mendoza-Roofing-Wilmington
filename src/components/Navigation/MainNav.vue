@@ -1,12 +1,11 @@
 <template  >
   <nav
-    class="container mx-auto grid grid-cols-12 text-white font-semibold uppercase px-4 md:p-0"
+    class="container mx-auto grid grid-cols-12 text-white font-semibold uppercase px-4 md:p-2"
   >
     <div class="logo col-span-full md:col-span-4">
-      <img
-        height="80"
-        width="120"
-        src="https://roofingmendoza.com/MendozaRoofingCompanyWilmingtonNortCarolinalog@2x.d153647d.png"
+      <g-image
+        class="inline-block h-28 w-52"
+        src="/img/logoTransparent.png"
         alt="Mendoza roofing company"
       />
     </div>
@@ -68,23 +67,24 @@
       class="side-information absolute grid grid-cols-3 transition-all transform-gpu"
     >
       <div
-        class="col-span-2 bg-green-900 bg-opacity-40 cursor-pointer"
+        class="col-span-1 md:col-span-2 bg-green-900 bg-opacity-40 cursor-pointer"
         @click="OpenSideInformation"
       ></div>
       <div
-        class="col-span-1 bg-gray-50 py-20 px-10 flex flex-col justify-content-center items-center"
+        class="col-span-2 md:col-span-1 bg-gray-50 py-20 px-10 flex flex-col justify-content-center items-center"
       >
         <div class="logo col-span-4">
-          <img
-            height="350"
-            width="350"
-            src="https://roofingmendoza.com/MendozaRoofingCompanyWilmingtonNortCarolinalog@2x.d153647d.png"
+          <g-image
+            class="inline-block h-20 w-40 md:h-28 md:w-52"
+            src="/img/logoBigTransparent.png"
             alt="Mendoza roofing company"
           />
         </div>
-        <Title extaClasess="text-2xl text-green-400" />
-        <SubTitle extaClasess="text-normal mb-10 text-gray-800" />
-        <CallToAction />
+        <Title extaClasess="text-md md:text-2xl text-green-400" />
+        <SubTitle extaClasess="text-xs md:text-normal mb-10 text-gray-800 " />
+        <CallToAction
+          extraClasses="bg-green-400 text-center text-white  hover:bg-transparent hover:text-green-400 mb-10 text-xs p-2"
+        />
       </div>
     </div>
   </nav>
