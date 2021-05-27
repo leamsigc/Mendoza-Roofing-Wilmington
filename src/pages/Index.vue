@@ -3,6 +3,7 @@
     <HomeHero />
     <CardContainerOverview />
     <AboutUs />
+    <MainForm />
     <HomeCallToActionContainer />
     <HomeServices />
     <HomeCallToActionContainer />
@@ -15,6 +16,7 @@ import CardContainerOverview from "../components/Card/CardContainerOverview.vue"
 import AboutUs from "../components/Home/AboutUs.vue";
 import HomeCallToActionContainer from "../components/Home/HomeCallToActionContainer.vue";
 import HomeServices from "../components/Home/HomeServices.vue";
+import MainForm from "../components/Forms/MainForm.vue";
 export default {
   metaInfo: {
     title:
@@ -32,6 +34,7 @@ export default {
     AboutUs,
     HomeCallToActionContainer,
     HomeServices,
+    MainForm,
   },
 };
 </script>
