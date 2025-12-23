@@ -28,10 +28,8 @@ const props = withDefaults(defineProps<Props>(), {
     <section class="relative bg-navy-900 text-white min-h-[85vh] flex items-center overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <NuxtImg
-                src="https://images.unsplash.com/photo-1632759145351-1d592919f522?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
-                alt="Roofing Construction Detail" class="w-full h-full object-cover opacity-30 mix-blend-luminosity"
-                loading="eager" />
+            <NuxtImg src="/img/heroImage.png" alt="Roofing Construction Detail"
+                class="w-full h-full object-cover opacity-30 mix-blend-luminosity" loading="eager" />
             <div class="absolute inset-0 bg-gradient-to-r from-navy-950 via-navy-900/90 to-transparent"></div>
         </div>
 

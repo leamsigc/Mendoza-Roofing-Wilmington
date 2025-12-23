@@ -23,13 +23,14 @@ const toggleTheme = () => {
 
 <template>
     <header
-        class="sticky top-0 z-50 w-full border-b border-gray-200 dark:border-gray-800 bg-white/75 dark:bg-gray-900/75 backdrop-blur-md">
+        class="sticky top-0 z-50 w-full border-b border-gray-200 dark:border-gray-800 bg-gray-100/10 dark:bg-gray-900/75 backdrop-blur-md">
         <UContainer class="flex items-center justify-between h-16">
             <div class="flex items-center gap-1.5">
                 <NuxtLink :to="'/'"
-                    class="flex items-center gap-1 font-oswald text-xl font-bold text-navy-900 dark:text-white">
-                    <UIcon name="i-heroicons-home-modern" class="w-8 h-8 text-gold-500" />
-                    <span>M. Mendoza</span>
+                    class="flex items-center gap-1 font-oswald text-xl font-bold text-navy-900 dark:text-white overflow-hidden">
+                    <NuxtImg :src="colorMode.preference === 'dark' ? '/img/logoTransparent.png' : '/img/logoWhite.jpg'"
+                        alt="Mendoza Roofing"
+                        :class="colorMode.preference === 'dark' ? 'w-14 h-12 object-contain' : 'w-24 h-16 object-contain'" />
                 </NuxtLink>
             </div>
 

@@ -2,7 +2,7 @@
 title: 'Frequently Asked Questions'
 description: 'Common questions about Mendoza Roofing services.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'FAQ'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Frequently Asked Questions'
     description: 'Common questions about Mendoza Roofing services.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'FAQ'
 ---
 

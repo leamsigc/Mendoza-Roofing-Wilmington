@@ -2,7 +2,7 @@
 title: 'Mendoza Roofing - Premier Solutions'
 description: 'Premier Roofing Contractor in Wilmington & Supply, NC. 50+ Years Experience.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'Mendoza Roofing Home'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Mendoza Roofing - Premier Solutions'
     description: 'Premier Roofing Contractor in Wilmington & Supply, NC. 50+ Years Experience.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'Mendoza Roofing'
 ---
 

@@ -2,7 +2,7 @@
 title: 'About Mendoza Roofing - 50+ Years'
 description: 'Trusted roofing company in Wilmington and Brunswick County with 50 years experience.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/MendozaRoofingShallotte.png'
   alt: 'About Mendoza Roofing'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'About Mendoza Roofing - 50+ Years'
     description: 'Trusted roofing company in Wilmington and Brunswick County with 50 years experience.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'About Us'
 ---
 

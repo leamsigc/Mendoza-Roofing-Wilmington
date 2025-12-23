@@ -2,7 +2,7 @@
 title: 'Our Services'
 description: 'Full range of residential and commercial roofing services in Wilmington & Supply, NC.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'Roofing Services'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Our Services'
     description: 'Full range of residential and commercial roofing services in Wilmington & Supply, NC.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'Services'
 ---
 

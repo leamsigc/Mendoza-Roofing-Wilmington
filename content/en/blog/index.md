@@ -2,7 +2,7 @@
 title: 'Blog'
 description: 'Latest roofing news and updates from Mendoza Roofing.'
 image:
-  src: '/img/blog-cover.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'Blog'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Blog'
     description: 'Latest roofing news and updates from Mendoza Roofing.'
-    image: '/img/blog-cover.jpg'
+    image: '/img/logoWhite.jpg'
     headline: 'Blog'
 ---
 

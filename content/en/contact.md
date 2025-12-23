@@ -2,7 +2,7 @@
 title: 'Contact Us - Free Estimate'
 description: 'Get a free roofing estimate from Mendoza Roofing. Serving Supply, NC and Wilmington.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'Contact Mendoza Roofing'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Contact Us - Free Estimate'
     description: 'Get a free roofing estimate from Mendoza Roofing. Serving Supply, NC and Wilmington.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'Get in Touch'
 ---
 

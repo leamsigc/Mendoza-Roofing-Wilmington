@@ -2,7 +2,7 @@
 title: 'Homeowner Tools'
 description: 'Free roof cost calculator and storm damage checklist for homeowners in Wilmington and Supply, NC.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'Homeowner Tools'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Homeowner Tools'
     description: 'Free roof cost calculator and storm damage checklist for homeowners in Wilmington and Supply, NC.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'Tools'
 ---
 
