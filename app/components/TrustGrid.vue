@@ -1,10 +1,31 @@
-<script setup lang="ts">
-const trustItems = [
-    { icon: 'i-heroicons-trophy', title: 'Credibility', desc: 'Respected members of the local community and business groups.' },
-    { icon: 'i-heroicons-users', title: 'Local Crews', desc: 'We are a local company with local crews. We don\'t outsource.' },
-    { icon: 'i-heroicons-shield-check', title: 'Fully Insured', desc: 'Required Liability and Workman’s Comp Insurance on all employees.' },
-    { icon: 'i-heroicons-check-circle', title: 'Dependable', desc: 'We keep our word. Contract terms are clear with no hidden costs.' }
-]
+<script lang="ts" setup>
+/**
+ *
+ * Component Description:Desc
+ *
+ * @author Reflect-Media <reflect.media GmbH>
+ * @version 0.0.1
+ *
+ * @todo [ ] Test the component
+ * @todo [ ] Integration test.
+ * @todo [✔] Update the typescript.
+ */
+interface TrustItem {
+    icon: string;
+    title: string;
+    desc: string;
+}
+interface Props {
+    trustItems: TrustItem[];
+}
+const {
+    trustItems = [
+        { icon: 'i-heroicons-trophy', title: 'Credibility', desc: 'Respected members of the local community and business groups.' },
+        { icon: 'i-heroicons-users', title: 'Local Crews', desc: 'We are a local company with local crews. We don\'t outsource.' },
+        { icon: 'i-heroicons-shield-check', title: 'Fully Insured', desc: 'Required Liability and Workman’s Comp Insurance on all employees.' },
+        { icon: 'i-heroicons-check-circle', title: 'Dependable', desc: 'We keep our word. Contract terms are clear with no hidden costs.' }
+    ]
+} = defineProps<Props>();
 </script>
 
 <template>

@@ -33,7 +33,45 @@ subtitle: Soluciones Expertas
 ::
 
 ::ServiceGrid
+---
+services:
+  - id: 1
+    title: Nuevas Construcciones
+    description: Si, también hacemos nuevas construcciones. Usamos solo los productos de la mejor calidad para asegurar que su techado nuevo se construya con la integridad y la maestría para durar muchos años.
+    iconName: i-heroicons-wrench-screwdriver
+    link: /contact
+  - id: 2
+    title: Metal & Especiales
+    description: Instalación experta de techos de metal, techos de ladrillos, techos de ladrillos y techos de ladrillos y techos de ladrillos.
+    iconName: i-heroicons-shield-check
+    link: /contact
+  - id: 3
+    title: Techos Planos Comerciales
+    description: Especialistas en techos planos y instaladores aprobados para techos planos y techos planos y techos planos.
+    iconName: i-heroicons-clipboard-document-check
+    link: /contact
+  - id: 4
+    title: Reparaciones & Mantenimiento
+    description: Reparaciones de techos, punteadas, reparaciones de techos, limpieza de techos, y techos de techos.
+    iconName: i-heroicons-wrench-screwdriver
+    link: /contact
+  - id: 5
+    title: Gutter, Fascia & Soffits
+    description: Protección exterior completa incluyendo fascia, soffits, y techos de techos.
+    iconName: i-heroicons-home-modern
+    link: /contact
+  - id: 6
+    title: Inspecciones & Informes
+    description: Evaluaciones detalladas de techos y informes para transacciones inmobiliarias, reclamaciones de seguros, o mantenimiento preventivo.
+    iconName: i-heroicons-clipboard-document-list
+    link: /contact
+---
 ::
 
 ::AppCta
+---
+title: "¿Necesita ayuda?"
+description: "Déjenos ayudarlo a obtener un presupuesto personalizado."
+link: /contact
+---
 ::

@@ -62,6 +62,21 @@ subtitle: 50+ Años de Experiencia
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
 :::TrustGrid
+---
+trustItems:
+    - icon: 'i-heroicons-trophy'
+      title: 'Credibilidad'
+      desc: 'Miembros respetados de la comunidad local y grupos empresariales.'
+    - icon: 'i-heroicons-users'
+      title: 'Personal Local'
+      desc: "Somos una empresa local con equipos locales. No contratamos."
+    - icon: 'i-heroicons-shield-check'
+      title: 'Totalmente Seguro'
+      desc: 'Seguro de Responsabilidad Civil y Seguro de Compensación Laboral en todos los empleados.'
+    - icon: 'i-heroicons-check-circle'
+      title: 'Dependable'
+      desc: 'Nos comprometemos a cumplir con nuestras promesas. Los términos del contrato son claros con ningún costo oculto.'
+---
 :::
 
 
