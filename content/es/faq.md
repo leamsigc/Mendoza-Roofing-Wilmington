@@ -2,7 +2,7 @@
 title: 'Preguntas Frecuentes'
 description: 'Preguntas comunes sobre los servicios de Mendoza Roofing.'
 image:
-  src: '/img/home-hero-bg.jpg'
+  src: '/img/logoWhite.jpg'
   alt: 'FAQ'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Preguntas Frecuentes'
     description: 'Preguntas comunes sobre los servicios de Mendoza Roofing.'
-    image: '/img/home-hero-bg.jpg'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'FAQ'
 ---
 
@@ -32,13 +32,18 @@ subtitle: Respuestas
 ---
 ::
 
+<div class="container mx-auto px-4 py-24">
+
 ## Preguntas Comunes
 
-1. **¿Ofrecen presupuestos gratuitos?**
-   Sí, proporcionamos presupuestos gratuitos y sin compromiso para todos los proyectos de techado.
+1. **¿Ofrecen estimados gratis?**
+   Sí, proporcionamos estimados gratis y sin compromiso para todos los proyectos de techado.
 
-2. **¿Están licenciados y asegurados?**
-   Absolutamente. Estamos totalmente licenciados en NC y tenemos seguro de Responsabilidad Civil y Compensación Laboral.
+2. **¿Tienen licencia y seguro?**
+   Absolutamente. Estamos completamente licenciados en NC y contamos con Seguro de Responsabilidad Civil y Compensación Laboral.
 
-3. **¿Qué áreas atienden?**
-   Atendemos Wilmington, Supply y el área metropolitana del condado de Brunswick.
+3. **¿Qué áreas sirven?**
+   Servimos Wilmington, Supply y el área del condado de Brunswick.
+
+
+</div>

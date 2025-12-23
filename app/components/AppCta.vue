@@ -47,10 +47,10 @@ const displayTitle = computed(() => props.title || t('common.need_help'))
                     class="bg-navy-900 text-white px-10 py-5 rounded-sm font-display font-bold text-2xl hover:bg-navy-800 transition-colors shadow-hard border-2 border-navy-900 uppercase flex items-center justify-center gap-2">
                     Call {{ COMPANY_INFO.phone }}
                 </a>
-                <NuxtLink to="/contact"
+                <NuxtLinkLocale to="/contact"
                     class="bg-white text-teal-800 px-10 py-5 rounded-sm font-display font-bold text-2xl hover:bg-gray-100 transition-colors shadow-hard uppercase flex items-center justify-center gap-2">
                     {{ t('common.cta_quote') }}
-                </NuxtLink>
+                </NuxtLinkLocale>
             </div>
         </div>
     </section>

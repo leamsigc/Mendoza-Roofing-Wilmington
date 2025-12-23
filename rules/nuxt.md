@@ -738,8 +738,8 @@ const { list } = toRefs(props);
 
     <h3 class="font-medium mt-4">
       Still have questions?
-      <NuxtLink href="/" class="text-muted-foreground underline" aria-label="Contact us" title="Contact us">Contact us
-      </NuxtLink>
+      <NuxtLinkLocale href="/" class="text-muted-foreground underline" aria-label="Contact us" title="Contact us">Contact us
+      </NuxtLinkLocale>
     </h3>
   </section>
 </template>

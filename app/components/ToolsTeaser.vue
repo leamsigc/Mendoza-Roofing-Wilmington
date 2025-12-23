@@ -24,14 +24,14 @@
                     professional. Empowering homeowners is our priority.
                 </p>
                 <div class="flex gap-4">
-                    <NuxtLink to="/tools"
+                    <NuxtLinkLocale to="/tools"
                         class="bg-teal-700 dark:bg-teal-600 text-white px-6 py-3 rounded-sm font-bold uppercase shadow-hard hover:bg-teal-800 dark:hover:bg-teal-700 flex items-center gap-2 transition-colors">
                         <UIcon name="i-heroicons-calculator" class="w-5 h-5" /> Cost Estimator
-                    </NuxtLink>
-                    <NuxtLink to="/tools"
+                    </NuxtLinkLocale>
+                    <NuxtLinkLocale to="/tools"
                         class="bg-white dark:bg-navy-800 text-navy-900 dark:text-white border border-gray-300 dark:border-navy-600 px-6 py-3 rounded-sm font-bold uppercase shadow-sm hover:bg-gray-50 dark:hover:bg-navy-700 flex items-center gap-2 transition-colors">
                         <UIcon name="i-heroicons-clipboard-document-check" class="w-5 h-5" /> Safety Checklist
-                    </NuxtLink>
+                    </NuxtLinkLocale>
                 </div>
             </div>
             <div class="relative h-64 md:h-80 bg-navy-900 rounded-sm overflow-hidden shadow-hard">

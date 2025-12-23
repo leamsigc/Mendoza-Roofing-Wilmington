@@ -1,15 +1,15 @@
 ---
 title: 'Herramientas para Propietarios'
-description: 'Calculadora de costos de techo gratuita y lista de verificación de daños por tormenta para propietarios en Wilmington y Supply, NC.'
+description: 'Calculadora de costos de techo gratis y lista de verificación de daños por tormenta para propietarios en Wilmington y Supply, NC.'
 image:
-  src: '/img/home-hero-bg.jpg'
-  alt: 'Herramientas Propietario'
+  src: '/img/logoWhite.jpg'
+  alt: 'Herramientas para Propietarios'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
 head:
   meta:
     - name: 'keywords'
-      content: 'calculadora techos, estimador costos, lista verificación, daños tormenta'
+      content: 'calculadora de techo, estimador de costos, lista de verificación de techo, daños por tormenta'
 category: 'Herramientas'
 author:
   name: 'Equipo Mendoza'
@@ -20,15 +20,15 @@ ogImage:
   component: 'BlogOgImage'
   props:
     title: 'Herramientas para Propietarios'
-    description: 'Calculadora de costos de techo gratuita y lista de verificación de daños por tormenta para propietarios en Wilmington y Supply, NC.'
-    image: '/img/home-hero-bg.jpg'
+    description: 'Calculadora de costos de techo gratis y lista de verificación de daños por tormenta para propietarios en Wilmington y Supply, NC.'
+    image: '/img/MendozaRoofingShallotte.png'
     headline: 'Herramientas'
 ---
 
 ::PageHero
 ---
-title: Herramientas Útiles
-subtitle: Planificar y Proteger
+title: Herramientas para Propietarios
+subtitle: Planifique y Proteja
 ---
 ::
 

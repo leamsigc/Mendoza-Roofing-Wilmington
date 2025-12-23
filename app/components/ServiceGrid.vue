@@ -25,7 +25,7 @@ interface Props {
 }
 const props = defineProps<Props>()
 
-const displayedServices = computed(() => props.services || SERVICES.slice(1, 4))
+const displayedServices = computed(() => props.services || SERVICES)
 
 </script>
 <template>
@@ -78,17 +78,17 @@ const displayedServices = computed(() => props.services || SERVICES.slice(1, 4))
                                 years
                                 to come.
                             </p>
-                            <NuxtLink to="/contact"
+                            <NuxtLinkLocale to="/contact"
                                 class="text-gold-500 font-bold uppercase tracking-wider flex items-center gap-2 hover:gap-4 transition-all">
                                 Start Project
                                 <UIcon name="i-heroicons-arrow-right" class="w-5 h-5" />
-                            </NuxtLink>
+                            </NuxtLinkLocale>
                         </div>
                     </div>
                 </div>
 
                 <!-- Service Cards -->
-                <div v-for="(service, idx) in SERVICES.slice(1, 4)" :key="service.id"
+                <div v-for="(service, idx) in displayedServices" :key="service.id"
                     class="bg-white dark:bg-navy-900 border border-gray-200 dark:border-navy-800 p-8 rounded-sm hover:border-gold-500 transition-colors group flex flex-col justify-between shadow-sm hover:shadow-hard min-h-[300px]">
                     <div class="flex justify-between items-start">
                         <UIcon :name="service.iconName"
@@ -104,10 +104,10 @@ const displayedServices = computed(() => props.services || SERVICES.slice(1, 4))
                         <p class="text-gray-500 dark:text-gray-400 text-sm line-clamp-3 mb-4">
                             {{ service.description }}
                         </p>
-                        <NuxtLink :to="service.link"
+                        <NuxtLinkLocale :to="service.link"
                             class="inline-flex items-center justify-center p-2 bg-gray-100 dark:bg-navy-800 rounded-full hover:bg-gold-500 hover:text-navy-900 transition-colors">
                             <UIcon name="i-heroicons-arrow-right" class="w-4 h-4" />
-                        </NuxtLink>
+                        </NuxtLinkLocale>
                     </div>
                 </div>
 
@@ -117,10 +117,10 @@ const displayedServices = computed(() => props.services || SERVICES.slice(1, 4))
                     <UIcon name="i-heroicons-shield-check" class="w-12 h-12 text-white mb-4" />
                     <h3 class="text-2xl font-display font-bold text-white mb-2">EDS Waterproofing</h3>
                     <p class="text-teal-100 mb-6">Approved Installers for high-performance membranes.</p>
-                    <NuxtLink to="/contact"
+                    <NuxtLinkLocale to="/contact"
                         class="bg-white text-teal-800 px-6 py-2 rounded-sm font-bold uppercase text-sm hover:bg-navy-900 hover:text-white transition-colors">
                         Learn More
-                    </NuxtLink>
+                    </NuxtLinkLocale>
                 </div>
             </div>
 

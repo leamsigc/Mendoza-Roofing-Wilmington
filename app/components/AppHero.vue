@@ -60,10 +60,10 @@ const props = withDefaults(defineProps<Props>(), {
                         class="bg-gold-500 text-navy-900 px-8 py-4 rounded-sm font-display font-bold text-xl hover:bg-white transition-all shadow-hard flex justify-center items-center gap-3 uppercase tracking-wider">
                         <UIcon name="i-heroicons-phone" class="w-6 h-6" /> {{ t('common.cta_call') }}
                     </a>
-                    <NuxtLink to="/contact"
+                    <NuxtLinkLocale to="/contact"
                         class="bg-transparent border-2 border-white text-white px-8 py-4 rounded-sm font-display font-bold text-xl hover:bg-white hover:text-navy-900 transition-all flex justify-center items-center gap-3 uppercase tracking-wider">
                         {{ t('common.cta_quote') }}
-                    </NuxtLink>
+                    </NuxtLinkLocale>
                 </div>
             </div>
         </div>
