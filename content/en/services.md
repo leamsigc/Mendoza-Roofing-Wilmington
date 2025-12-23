@@ -35,5 +35,5 @@ subtitle: Expert Solutions
 ::ServiceGrid
 ::
 
-::AppCTA
+::AppCta
 ::

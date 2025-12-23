@@ -57,7 +57,7 @@ const { t } = useI18n()
                         </li>
                         <li>
                             <NuxtLink :to="useLocalePath()('contact')" class="hover:text-gold-500">{{ t('nav.contact')
-                                }}</NuxtLink>
+                            }}</NuxtLink>
                         </li>
                     </ul>
                 </div>

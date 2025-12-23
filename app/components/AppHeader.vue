@@ -42,11 +42,11 @@ const toggleTheme = () => {
             </nav>
 
             <div class="flex items-center gap-2">
-                <UButton color="neutral" variant="ghost" icon="i-heroicons-language" @click="toggleLanguage"
+                <UButton color="secondary" variant="ghost" icon="i-heroicons-language" @click="toggleLanguage"
                     class="hidden md:flex" />
-                <UButton color="neutral" variant="ghost"
+                <UButton color="secondary" variant="ghost"
                     :icon="colorMode.value === 'dark' ? 'i-heroicons-moon' : 'i-heroicons-sun'" @click="toggleTheme" />
-                <UButton to="/contact" color="primary" variant="solid" class="hidden md:flex font-oswald font-bold">
+                <UButton to="/contact" color="neutral" variant="solid" class="hidden md:flex font-oswald font-bold">
                     910-367-7628
                 </UButton>
                 <!-- Mobile Menu Button Placeholder -->
