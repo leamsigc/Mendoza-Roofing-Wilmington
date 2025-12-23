@@ -5,6 +5,7 @@ import type { NuxtPage } from 'nuxt/schema'
 
 const currentDir = dirname(fileURLToPath(import.meta.url))
 export default defineNuxtConfig({
+  css: ['~/assets/css/main.css'],
 
   /* 
     Developer options
@@ -50,24 +51,36 @@ export default defineNuxtConfig({
       }
     }
   },
+
+  app: {
+    head: {
+      link: [
+        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Oswald:wght@400;500;700&display=swap' }
+      ]
+    }
+  },
+
   site: {
     url: 'https://roofingmendoza.com/',
-    name: 'Roofing Mendoza  LLC - North Carolina Roofing Contractor'
+    name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor'
   },
+
   schemaOrg: {
     identity: {
       type: 'Organization',
-      name: 'Roofing Mendoza  LLC - North Carolina Roofing Contractor',
+      name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
       logo: '/logo.png',
       sameAs: ['https://twitter.com/roofingmendoza']
     }
   },
+
   i18n: {
-    vueI18n: join(currentDir, './translations/i18n.config.ts'),
-    baseUrl: process.env.NUXT_APP_URL,
+    langDir: '',
     locales: [
-      { code: 'en', language: 'en-US', name: 'English' },
-      { code: 'es', language: 'es-ES', name: 'Español' },
+      { code: 'en', language: 'en-US', name: 'English', file: 'en.json' },
+      { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' },
     ],
     defaultLocale: 'en',
     strategy: 'prefix_except_default',
@@ -79,6 +92,7 @@ export default defineNuxtConfig({
     autoTrack: true,
     ignoreLocalhost: true
   },
+
   /* Hooks */
   hooks: {
     'pages:extend': function (pages) {

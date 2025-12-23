@@ -1,0 +1,17 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "about": "Nosotros",
+        "services": "Servicios",
+        "tools": "Herramientas",
+        "insights": "Artículos",
+        "contact": "Contacto"
+    },
+    "common": {
+        "cta_quote": "Cotizar",
+        "cta_call": "Llamar Ahora",
+        "licensed_insured": "Con Licencia y Asegurados",
+        "language": "Idioma",
+        "theme": "Tema"
+    }
+}

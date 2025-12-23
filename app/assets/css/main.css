@@ -1,0 +1,92 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme {
+  /* Colors */
+  --color-navy-50: #f0f4f8;
+  --color-navy-100: #d9e2ec;
+  --color-navy-200: #bcccdc;
+  --color-navy-300: #9fb3c8;
+  --color-navy-400: #829ab1;
+  --color-navy-500: #627d98;
+  --color-navy-600: #486581;
+  --color-navy-700: #334e68;
+  --color-navy-800: #243b53;
+  --color-navy-900: #102a43;
+
+  --color-gold-50: #fffbeb;
+  --color-gold-100: #fef3c7;
+  --color-gold-200: #fde68a;
+  --color-gold-300: #fcd34d;
+  --color-gold-400: #fbbf24;
+  --color-gold-500: #f59e0b;
+  --color-gold-600: #d97706;
+  --color-gold-700: #b45309;
+  --color-gold-800: #92400e;
+  --color-gold-900: #78350f;
+
+  --color-teal-50: #f0fdfa;
+  --color-teal-100: #ccfbf1;
+  --color-teal-200: #99f6e4;
+  --color-teal-300: #5eead4;
+  --color-teal-400: #2dd4bf;
+  --color-teal-500: #14b8a6;
+  --color-teal-600: #0d9488;
+  --color-teal-700: #0f766e;
+  --color-teal-800: #115e59;
+  --color-teal-900: #134e4a;
+
+  --color-concrete-50: #f8fafc;
+  --color-concrete-100: #f1f5f9;
+  --color-concrete-200: #e2e8f0;
+  --color-concrete-300: #cbd5e1;
+  --color-concrete-400: #94a3b8;
+  --color-concrete-500: #64748b;
+
+  /* Typography */
+  --font-oswald: 'Oswald', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+
+  /* Radii */
+  --radius-sm: 0.125rem;
+  --radius-md: 0.25rem;
+  --radius-lg: 0.5rem;
+}
+
+:root {
+  /* Nuxt UI / General Design Tokens mapped to theme colors */
+  --ui-primary: var(--color-gold-500);
+  --ui-primary-foreground: var(--color-navy-900);
+
+  --ui-bg: var(--color-concrete-50);
+  --ui-bg-accent: var(--color-navy-50);
+
+  --ui-text: var(--color-navy-900);
+  --ui-text-muted: var(--color-navy-600);
+
+  /* Shadows - Hard Industrial Feel */
+  --shadow-hard-sm: 2px 2px 0px 0px rgba(16, 42, 67, 0.1);
+  --shadow-hard-md: 4px 4px 0px 0px rgba(16, 42, 67, 0.1);
+  --shadow-hard-lg: 6px 6px 0px 0px rgba(16, 42, 67, 0.1);
+
+  font-family: var(--font-inter);
+  background-color: var(--ui-bg);
+  color: var(--ui-text);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-oswald);
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.hard-shadow {
+  box-shadow: var(--shadow-hard-md);
+  border: 1px solid var(--color-navy-200);
+}

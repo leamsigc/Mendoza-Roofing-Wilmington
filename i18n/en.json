@@ -1,0 +1,17 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "tools": "Tools",
+        "insights": "Insights",
+        "contact": "Contact"
+    },
+    "common": {
+        "cta_quote": "Get Quote",
+        "cta_call": "Call Now",
+        "licensed_insured": "Licensed & Fully Insured",
+        "language": "Language",
+        "theme": "Theme"
+    }
+}

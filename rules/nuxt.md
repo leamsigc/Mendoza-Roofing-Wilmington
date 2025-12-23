@@ -622,5 +622,125 @@ Nuxt have auto import , if you need to import use '~~/' from import example
 import { getAllStates } from '~~/server/service/listing.service';
 ```
 
-###IMPORTAT ###
+###IMPORTANT ###
 Avoid comments in the code
+
+when using content module here is a example of a page in markdown file  that use frontmatter when the project have a cache all route in the 
+pages folder you can create index.md will be the home page and others like about.md will be the about page
+
+```md
+---
+layout: default
+title: Automate Your Social Media. Grow Your Business.
+description: Save 10+ hours weekly managing social media. Schedule posts, engage customers, and track results across all platforms with MagicSync—the all-in-one platform built for small businesses.
+
+ogImage:
+  component: BlogOgImage
+  props:
+    title: Automate Your Social Media. Grow Your Business.
+    description: The all-in-one social media management platform for small businesses
+    headline: MagicSync - Social Media Made Simple
+    imageUrl: "/img/home-dark.png"
+
+head:
+  htmlAttrs:
+    lang: en
+  bodyAttrs:
+    class: ""
+---
+
+::BaseHero
+---
+badge:
+  label: New!
+  content: AI-Powered Content Generation
+actions:
+  - label: Start Free Trial
+    href: /register
+    icon: "lucide:arrow-right"
+  - label: Watch Demo
+    href: /demo
+    variant: secondary
+heroImage:
+  light: "/img/home-light.png"
+  dark: "/img/home-dark.png"
+  alt: "MagicSync Dashboard - Social Media Management Made Simple"
+
+---
+#title
+Automate Your Social Media. </br>
+<span class="gradient-text">Grow Your Business.</span>
+
+#description
+Save 10+ hours every week managing social media. Schedule posts, engage customers, and track results across all platforms—without the hassle or high costs.
+::
+```
+
+Between the component props 
+
+```
+::ComponentName
+---
+propsExpectedFromComponent: 'Text array or any other '
+---
+#slotName
+Slot content override here
+::
+```
+
+
+and the components will need to use slots so the content can be overrrided from the frontmatter file example
+
+```vue
+<script setup lang="ts">
+/**
+ *
+ * Component Description:Desc
+ *
+ * @author Reflect-Media <reflect.media GmbH>
+ * @version 0.0.1
+ *
+ * @todo [ ] Test the component
+ * @todo [ ] Integration test.
+ * @todo [✔] Update the typescript.
+ */
+interface Props {
+  list?: {
+    label: string;
+    content: string;
+  }[];
+}
+
+const props = withDefaults(defineProps<Props>(), {
+  list: () => [
+    {
+      label: "What is SmallBusinessSocialMediaTools?",
+      content: "It's an all-in-one platform designed for small businesses to manage their social media, Google My Business, and content creation efficiently.",
+    },
+  ],
+});
+const { list } = toRefs(props);
+</script>
+
+<template>
+  <section id="faq" class="container mx-auto md:w-[700px] py-24 sm:py-32" v-motion-fade-visible-once :delay="200"
+    :duration="1200">
+    <div class="text-center mb-8">
+      <h2 class="text-lg text-primary text-center mb-2 tracking-wider">
+        <slot name="title" mdc-unwrap="p"> FAQS </slot>
+      </h2>
+      <h3 class="text-3xl md:text-4xl text-center font-bold">
+        <slot name="subtitle" mdc-unwrap="p"> Common Questions </slot>
+      </h3>
+    </div>
+
+    <UAccordion :items="list" type="single" collapsible class="AccordionRoot" />
+
+    <h3 class="font-medium mt-4">
+      Still have questions?
+      <NuxtLink href="/" class="text-muted-foreground underline" aria-label="Contact us" title="Contact us">Contact us
+      </NuxtLink>
+    </h3>
+  </section>
+</template>
+```

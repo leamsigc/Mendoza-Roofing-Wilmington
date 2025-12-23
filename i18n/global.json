@@ -1,0 +1,38 @@
+{
+    "en": {
+        "nav": {
+            "home": "Home",
+            "about": "About Us",
+            "services": "Services",
+            "tools": "Tools",
+            "insights": "Insights",
+            "contact": "Contact"
+        },
+        "common": {
+            "cta_quote": "Get Quote",
+            "cta_call": "Call Now",
+            "licensed_insured": "Licensed & Fully Insured",
+            "language": "Language",
+            "theme": "Theme",
+            "need_help": "Need Help?"
+        }
+    },
+    "es": {
+        "nav": {
+            "home": "Inicio",
+            "about": "Nosotros",
+            "services": "Servicios",
+            "tools": "Herramientas",
+            "insights": "Artículos",
+            "contact": "Contacto"
+        },
+        "common": {
+            "cta_quote": "Cotizar",
+            "cta_call": "Llamar Ahora",
+            "licensed_insured": "Con Licencia y Asegurados",
+            "language": "Idioma",
+            "theme": "Tema",
+            "need_help": "¿Necesitas ayuda?"
+        }
+    }
+}

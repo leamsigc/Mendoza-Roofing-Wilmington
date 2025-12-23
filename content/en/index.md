@@ -1,30 +1,41 @@
-# Welcome to Nuxt Content Starter
+---
+title: 'Mendoza Roofing - Premier Solutions'
+description: 'Premier Roofing Contractor in Wilmington & Supply, NC. 50+ Years Experience.'
+image:
+  src: '/img/home-hero-bg.jpg'
+  alt: 'Mendoza Roofing Home'
+date: '2024-01-01'
+publishedAt: '2024-01-01'
+head:
+  meta:
+    - name: 'keywords'
+      content: 'roofing, wilmington, nc, supply, contractor'
+category: 'Home'
+author:
+  name: 'Mendoza Team'
+  role: 'Admin'
+  avatar: '/img/logo.png'
+  social: 'https://twitter.com/roofingmendoza'
+ogImage:
+  component: 'BlogOgImage'
+  props:
+    title: 'Mendoza Roofing - Premier Solutions'
+    description: 'Premier Roofing Contractor in Wilmington & Supply, NC. 50+ Years Experience.'
+    image: '/img/home-hero-bg.jpg'
+    headline: 'Mendoza Roofing'
+---
 
-This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
-
-Move to [about](/about) page.
-
-## Manage your Contents
-
-Create new pages or modify the existing ones in `content/` directory.
-
-## Query & Render Pages
-
-You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/nuxt/starter/blob/content/app/pages/%5B...slug%5D.vue)
-
-## Integrate Vue Component
-
-::alert{color="green"}
-The current [alert](https://github.com/nuxt/starter/blob/content/app/components/Alert.vue) and the [counter](https://github.com/nuxt/starter/blob/content/app/components/Counter.vue) below are `Vue` components integrated into the Markdown.
+::AppHero
 ::
-
-::counter
+::TrustStats
 ::
-
-Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
-
-About [about](/about)
-
-Contact [contact](/contact)
-
-FAQ [faq](/faq)
+::ServiceGrid
+::
+::ToolsTeaser
+::
+::ChecklistSection
+::
+::Testimonials
+::
+::AppCta
+::
