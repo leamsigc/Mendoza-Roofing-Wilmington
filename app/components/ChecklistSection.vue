@@ -1,10 +1,44 @@
+<script setup lang="ts">
+/**
+ *
+ * Component Description: Checklist section highlighting company standards.
+ *
+ * @author Mendoza Roofing <contact@roofingmendoza.com>
+ * @version 0.0.1
+ *
+ * @todo [ ] Test the component
+ * @todo [ ] Integration test.
+ * @todo [✔] Update the typescript.
+ */
+interface ChecklistItem {
+    title: string;
+    desc: string;
+}
+
+interface Props {
+    list?: ChecklistItem[];
+}
+
+const props = withDefaults(defineProps<Props>(), {
+    list: () => [
+        { title: "Fully Insured", desc: "Required Liability and Workman’s Comp Insurance on all employees." },
+        { title: "State Licensed", desc: "In good current standing with all local and state regulations." },
+        { title: "Local Crews", desc: "Brunswick County natives. We know the local weather and architecture." },
+        { title: "Clear Contracts", desc: "Transparent pricing. No hidden costs. We keep our word." },
+        { title: "Established Reputation", desc: "Credibility in the community with references of previous work." },
+        { title: "Free Estimates", desc: "Detailed inspections and reports before we start." }
+    ]
+})
+</script>
+
 <template>
-    <section class="py-24 bg-navy-950 text-white relative border-y border-navy-800">
+    <section class="py-24 bg-concrete-50 dark:bg-navy-900 text-white relative border-y border-navy-800">
         <div class="max-w-7xl mx-auto px-4 md:px-8 flex flex-col lg:flex-row gap-20">
 
             <div class="lg:w-1/2">
                 <div class="sticky top-32">
-                    <h2 class="text-4xl md:text-6xl font-display font-bold mb-8 uppercase leading-none">
+                    <h2
+                        class="text-4xl md:text-6xl font-display font-bold mb-8 text-gray-600 dark:text-white uppercase leading-none">
                         <slot name="title" mdc-unwrap="p">
                             The Mendoza <br />
                             <span class="text-gold-500">Standard</span>
@@ -41,8 +75,9 @@
                         </div>
                         <div class="pb-8">
                             <h3
-                                class="text-2xl font-display font-bold text-white mb-2 group-hover:text-gold-500 transition-colors">
-                                {{ item.title }}</h3>
+                                class="text-2xl font-display font-bold text-gray-600 dark:text-white mb-2 group-hover:text-gold-500 transition-colors">
+                                {{ item.title }}
+                            </h3>
                             <p class="text-gray-400 leading-relaxed">{{ item.desc }}</p>
                         </div>
                     </div>
@@ -52,36 +87,3 @@
         </div>
     </section>
 </template>
-
-<script setup lang="ts">
-/**
- *
- * Component Description: Checklist section highlighting company standards.
- *
- * @author Mendoza Roofing <contact@roofingmendoza.com>
- * @version 0.0.1
- *
- * @todo [ ] Test the component
- * @todo [ ] Integration test.
- * @todo [✔] Update the typescript.
- */
-interface ChecklistItem {
-    title: string;
-    desc: string;
-}
-
-interface Props {
-    list?: ChecklistItem[];
-}
-
-const props = withDefaults(defineProps<Props>(), {
-    list: () => [
-        { title: "Fully Insured", desc: "Required Liability and Workman’s Comp Insurance on all employees." },
-        { title: "State Licensed", desc: "In good current standing with all local and state regulations." },
-        { title: "Local Crews", desc: "Brunswick County natives. We know the local weather and architecture." },
-        { title: "Clear Contracts", desc: "Transparent pricing. No hidden costs. We keep our word." },
-        { title: "Established Reputation", desc: "Credibility in the community with references of previous work." },
-        { title: "Free Estimates", desc: "Detailed inspections and reports before we start." }
-    ]
-})
-</script>
