@@ -22,3 +22,9 @@ The current [alert](https://github.com/nuxt/starter/blob/content/app/components/
 ::
 
 Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
+
+About [about](/about)
+
+Contact [contact](/contact)
+
+FAQ [faq](/faq)
