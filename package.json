@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxt generate",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview"
@@ -20,6 +20,15 @@
     "better-sqlite3": "^12.5.0",
     "eslint": "^9.39.2",
     "nuxt": "^4.2.2",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "ufo": "^1.6.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/i18n": "^10.2.1",
+    "@nuxtjs/seo": "^3.3.0",
+    "@pinia/nuxt": "^0.11.3",
+    "nuxt-seo-utils": "^7.0.19",
+    "nuxt-umami": "^3.2.1",
+    "nuxt-vitalizer": "^2.0.0"
   }
 }
