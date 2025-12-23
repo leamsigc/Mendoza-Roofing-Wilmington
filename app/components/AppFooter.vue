@@ -11,6 +11,7 @@
  * @todo [✔] Update the typescript.
  */
 const { t } = useI18n()
+const { preference } = useColorMode()
 </script>
 
 <template>
@@ -19,8 +20,7 @@ const { t } = useI18n()
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div>
                     <div class="flex items-center gap-2 mb-4">
-                        <UIcon name="i-heroicons-home-modern" class="w-6 h-6 text-gold-500" />
-                        <h3 class="font-oswald text-xl font-bold text-white">M. Mendoza</h3>
+                        <NuxtImg src="/img/logoTransparent.png" alt="Mendoza Roofing Logo" class="w-24 h-16" />
                     </div>
                     <p class="text-gray-400 text-sm leading-relaxed mb-4">
                         {{ t('common.licensed_insured') }}
@@ -28,6 +28,15 @@ const { t } = useI18n()
                     <div class="text-gray-400 text-sm">
                         <p>Wilmington, Supply, Brunswick County</p>
                         <p class="mt-2 text-gold-400 font-bold">910-367-7628</p>
+                    </div>
+                    <!-- Social Links -->
+                    <div class="flex items-center gap-2 mt-4">
+                        <UButton icon="logos:facebook" variant="ghost" size="sm" color="neutral"
+                            to="https://www.facebook.com/MendozaRoofingCompanyWilmington" />
+                        <UButton icon="logos:twitter" variant="ghost" size="sm" color="neutral"
+                            to="https://twitter.com/MendozaRoofingCompanyWilmington" />
+                        <UButton icon="logos:instagram" variant="ghost" size="sm" color="success"
+                            to="https://www.instagram.com/mendozaroofingnc" />
                     </div>
                 </div>
 
@@ -56,17 +65,17 @@ const { t } = useI18n()
                             </NuxtLink>
                         </li>
                         <li>
-                            <NuxtLink :to="useLocalePath()('contact')" class="hover:text-gold-500">{{ t('nav.contact')
-                            }}</NuxtLink>
+                            <NuxtLink :to="useLocalePath()('contact')" class="hover:text-gold-500">
+                                {{ t('nav.contact') }}
+                            </NuxtLink>
                         </li>
                     </ul>
                 </div>
-
             </div>
             <div
                 class="mt-12 pt-8 border-t border-navy-800 text-center text-gray-400 text-sm flex flex-col md:flex-row justify-between items-center">
                 <span>&copy; {{ new Date().getFullYear() }} Mendoza Roofing LLC.</span>
-                <span class="mt-2 md:mt-0">Built with Nuxt 4 & Tailwind v4</span>
+                <span class="mt-2 md:mt-0">Leamsigc</span>
             </div>
         </UContainer>
     </footer>
