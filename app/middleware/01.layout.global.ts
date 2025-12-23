@@ -1,7 +1,7 @@
 
 export default defineNuxtRouteMiddleware(async (to) => {
     const routeStart = to.path
-    const isBlog = routeStart.startsWith('/blogs/');
+    const isBlog = routeStart.startsWith('/blog/');
     const isTools = routeStart.includes('/tools');
 
     let layout = 'default';

@@ -39,6 +39,12 @@
                 </div>
             </UContainer>
         </main>
+        <UContainer class='mx-auto p-24'>
+            <NuxtLinkLocale to="/blog">
+                <UButton variant="ghost"> Back </UButton>
+            </NuxtLinkLocale>
+
+        </UContainer>
         <AppFooter />
     </div>
 </template>

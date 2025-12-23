@@ -27,6 +27,13 @@ ogImage:
 layout: 'blog'
 ---
 
+::PageHero
+---
+title: New Construction Roofing Standards
+subtitle: Yes, we also do new constructions.
+---
+::
+
 ## Building a New Home?
 
 Mendoza Roofing isn't just for repairs. We specialize in new construction roofing for both Residential and Commercial properties.
@@ -34,3 +41,5 @@ Mendoza Roofing isn't just for repairs. We specialize in new construction roofin
 We use only the highest quality products to insure that your new roof is built with the integrity and craftsmanship to last for many years to come.
 
 From **Metal** to **Asphalt**, we can handle any material specification your architect requires.
+
+

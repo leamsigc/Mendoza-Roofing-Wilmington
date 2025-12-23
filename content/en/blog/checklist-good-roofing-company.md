@@ -27,6 +27,13 @@ ogImage:
 layout: 'blog'
 ---
 
+::PageHero
+---
+title: 'The Mendoza Checklist: Choosing a Roofer'
+subtitle: 'Avoid scams and poor workmanship.'
+---
+::
+
 ## Choosing the Right Roofer
 
 Hiring a roofer is a big decision. Here is the Mendoza Roofing checklist to ensure you are protected:

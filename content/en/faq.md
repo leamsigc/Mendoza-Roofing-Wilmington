@@ -32,6 +32,8 @@ subtitle: Answers
 ---
 ::
 
+<div class="container mx-auto px-4 py-24">
+
 ## Common Questions
 
 1. **Do you offer free estimates?**
@@ -42,3 +44,6 @@ subtitle: Answers
 
 3. **What areas do you serve?**
    We serve Wilmington, Supply, and the greater Brunswick County area.
+
+
+</div>
