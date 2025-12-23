@@ -27,6 +27,7 @@
     "@nuxtjs/i18n": "^10.2.1",
     "@nuxtjs/seo": "^3.3.0",
     "@pinia/nuxt": "^0.11.3",
+    "@vueuse/nuxt": "^14.1.0",
     "nuxt-seo-utils": "^7.0.19",
     "nuxt-umami": "^3.2.1",
     "nuxt-vitalizer": "^2.0.0"

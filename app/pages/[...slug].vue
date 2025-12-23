@@ -41,9 +41,15 @@ const { data: page } = await useAsyncData(`page-${slug.value}`, async () => {
 useHead(page.value?.meta || {})
 
 useSeoMeta(page.value?.seo || {})
-if (page.value?.ogImage) {
-  defineOgImage(page.value?.ogImage)
-}
+
+defineOgImageComponent('BlogOgImage',
+  {
+    title: page.value?.ogImage?.props.title || 'Roofing Mendoza LLC',
+    description: page.value?.ogImage?.props.description || 'Most affordable roofing contractor in North Carolina,wilmington',
+    imageUrl: page.value?.ogImage?.props.image || 'https://roofingmendoza.com/img/HomeHeroBg.png',
+    headline: page.value?.ogImage?.props.headline || 'Roofing',
+  }
+)
 </script>
 
 <template>

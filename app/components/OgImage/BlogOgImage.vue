@@ -12,7 +12,7 @@
  */
 import { computed } from 'vue'
 
-const { title = 'title', description = 'description', imageUrl = "https://raw.githubusercontent.com/leamsigc/MagicSync/refs/heads/main/images/HomePage.png", headline = 'headline' } = defineProps<{ title?: string, description?: string, headline?: string, imageUrl?: string }>();
+const { title = 'title', description = 'description', imageUrl = "https://roofingmendoza.com/img/HomeHeroBg.png", headline = 'headline' } = defineProps<{ title?: string, description?: string, headline?: string, imageUrl?: string }>();
 
 const titleTrim = computed(() => title.slice(0, 60))
 </script>
@@ -35,9 +35,10 @@ const titleTrim = computed(() => title.slice(0, 60))
                 {{ description }}
             </p>
         </div>
-        <div class="w-[600px] absolute top-40 -right-2 -bottom-2 rounded-4xl ">
-            <img :src="imageUrl" alt="Blog Image" height="500px" width="900px"
-                :style="{ aspectRatio: '900/500', borderRadius: '10px', }" class="rounded-4xl mt-auto">
+        <div class="w-[600px] absolute top-40 -right-8 -bottom-2 rounded-4xl ">
+            <img :src="imageUrl" :alt="title" height="500" width="900"
+                :style="{ aspectRatio: '900/500', borderRadius: '10px', }"
+                class="rounded-4xl mt-auto object-cover w-[550px] h-[900px]">
         </div>
 
     </div>

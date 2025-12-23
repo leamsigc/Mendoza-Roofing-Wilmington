@@ -39,7 +39,8 @@ const blogSchema = z.object({
     props: z.object({
       title: z.string(),
       description: z.string(),
-      image: z.string()
+      image: z.string(),
+      headline: z.string()
     })
   })
 });

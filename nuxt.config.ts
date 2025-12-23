@@ -1,4 +1,3 @@
-
 import { dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
@@ -26,9 +25,9 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
     '@nuxt/hints',
+    '@nuxtjs/seo',
     '@nuxtjs/i18n',
     'nuxt-seo-utils',
-    '@nuxtjs/seo',
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/test-utils',
@@ -37,6 +36,7 @@ export default defineNuxtConfig({
     'nuxt-vitalizer',
     'nuxt-umami',
     '@nuxt/content',
+    '@vueuse/nuxt',
   ],
   routeRules: {
     '/blog/**': {
