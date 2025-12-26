@@ -32,16 +32,12 @@ const handleSubmit = async () => {
             })
         })
         if (response.ok) {
-            status.value = 'SUCCESS'
-            form.name = ''
-            form.email = ''
-            form.message = ''
+            navigateTo('/success')
         } else {
             throw new Error('Submission failed')
         }
     } catch (error) {
         console.error('Form submission error:', error)
-        // Optionally show error message
         status.value = 'IDLE'
     }
 }
@@ -63,8 +59,11 @@ const handleSubmit = async () => {
             </button>
         </div>
 
-        <form v-else @submit.prevent="handleSubmit" class="space-y-6" data-netlify="true" name="contact">
+        <form v-else @submit.prevent="handleSubmit" class="space-y-6" data-netlify="true" data-netlify-honeypot="bot-field" name="contact" action="/success/">
             <input type="hidden" name="form-name" value="contact" />
+            <div style="display: none;">
+                <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+            </div>
             <h3 class="text-3xl font-display font-black text-navy-900 dark:text-white mb-10 uppercase">{{
                 t('common.cta_quote') }}</h3>
 
