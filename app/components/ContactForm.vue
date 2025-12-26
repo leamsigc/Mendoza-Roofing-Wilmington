@@ -20,12 +20,30 @@ const form = reactive({
 
 const handleSubmit = async () => {
     status.value = 'SENDING'
-    // Simulate API call
-    await new Promise(resolve => setTimeout(resolve, 1500))
-    status.value = 'SUCCESS'
-    form.name = ''
-    form.email = ''
-    form.message = ''
+    try {
+        const response = await fetch('/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: new URLSearchParams({
+                'form-name': 'contact',
+                name: form.name,
+                email: form.email,
+                message: form.message
+            })
+        })
+        if (response.ok) {
+            status.value = 'SUCCESS'
+            form.name = ''
+            form.email = ''
+            form.message = ''
+        } else {
+            throw new Error('Submission failed')
+        }
+    } catch (error) {
+        console.error('Form submission error:', error)
+        // Optionally show error message
+        status.value = 'IDLE'
+    }
 }
 </script>
 
@@ -45,14 +63,15 @@ const handleSubmit = async () => {
             </button>
         </div>
 
-        <form v-else @submit.prevent="handleSubmit" class="space-y-6">
+        <form v-else @submit.prevent="handleSubmit" class="space-y-6" data-netlify="true" name="contact">
+            <input type="hidden" name="form-name" value="contact" />
             <h3 class="text-3xl font-display font-black text-navy-900 dark:text-white mb-10 uppercase">{{
                 t('common.cta_quote') }}</h3>
 
             <div>
                 <label
                     class="block text-sm font-bold text-gray-600 dark:text-gray-400 mb-2 uppercase tracking-wider">Name</label>
-                <input v-model="form.name" required type="text"
+                <input v-model="form.name" name="name" required type="text"
                     class="w-full px-5 py-4 rounded-sm bg-gray-50 dark:bg-navy-900 border-2 border-gray-200 dark:border-navy-700 focus:border-gold-500 focus:outline-none transition-colors text-lg text-navy-900 dark:text-white placeholder-gray-400"
                     placeholder="John Doe" />
             </div>
@@ -60,7 +79,7 @@ const handleSubmit = async () => {
             <div>
                 <label
                     class="block text-sm font-bold text-gray-600 dark:text-gray-400 mb-2 uppercase tracking-wider">E-Mail</label>
-                <input v-model="form.email" required type="email"
+                <input v-model="form.email" name="email" required type="email"
                     class="w-full px-5 py-4 rounded-sm bg-gray-50 dark:bg-navy-900 border-2 border-gray-200 dark:border-navy-700 focus:border-gold-500 focus:outline-none transition-colors text-lg text-navy-900 dark:text-white placeholder-gray-400"
                     placeholder="name@example.com" />
             </div>
@@ -68,7 +87,7 @@ const handleSubmit = async () => {
             <div>
                 <label
                     class="block text-sm font-bold text-gray-600 dark:text-gray-400 mb-2 uppercase tracking-wider">Message</label>
-                <textarea v-model="form.message" required rows="5"
+                <textarea v-model="form.message" name="message" required rows="5"
                     class="w-full px-5 py-4 rounded-sm bg-gray-50 dark:bg-navy-900 border-2 border-gray-200 dark:border-navy-700 focus:border-gold-500 focus:outline-none transition-colors text-lg text-navy-900 dark:text-white placeholder-gray-400 resize-none"
                     placeholder="I need a roof inspection..."></textarea>
             </div>
