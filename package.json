@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@nuxtjs/i18n": "^10.2.1",
+    "@nuxt/fonts": "^0.12.1",
     "@nuxtjs/seo": "^3.3.0",
     "@pinia/nuxt": "^0.11.3",
     "@vueuse/nuxt": "^14.1.0",

@@ -51,15 +51,24 @@ export default defineNuxtConfig({
       }
     }
   },
-
-  app: {
-    head: {
-      link: [
-        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Oswald:wght@400;500;700&display=swap' }
+  fonts: {
+    defaults: {
+      weights: [400, 500, 600, 700,],
+      styles: ['normal', 'italic'],
+      subsets: [
+        'cyrillic-ext',
+        'cyrillic',
+        'greek-ext',
+        'greek',
+        'vietnamese',
+        'latin-ext',
+        'latin'
       ]
-    }
+    },
+    families: [
+      { name: 'Inter', provider: 'google' },
+      { name: 'Oswald', provider: 'google' }
+    ]
   },
 
   site: {
