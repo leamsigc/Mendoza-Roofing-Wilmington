@@ -28,7 +28,8 @@ const toggleTheme = () => {
             <div class="flex items-center gap-1.5">
                 <NuxtLinkLocale to="/"
                     class="flex items-center gap-1 font-oswald text-xl font-bold text-navy-900 dark:text-white overflow-hidden">
-                    <NuxtImg :src="colorMode.preference === 'dark' ? '/img/logoTransparent.png' : '/img/logoWhite.jpg'"
+                    <NuxtImg
+                        :src="colorMode.preference === 'dark' ? '/img/logoTransparent-1-5-exact.png' : '/img/logoWhite.jpg'"
                         alt="Mendoza Roofing"
                         :class="colorMode.preference === 'dark' ? 'w-14 h-12 object-contain' : 'w-24 h-16 object-contain'" />
                 </NuxtLinkLocale>
