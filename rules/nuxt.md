@@ -744,3 +744,10 @@ const { list } = toRefs(props);
   </section>
 </template>
 ```
+
+### Before the deployment you can check that all static routes that are open to the public need to be SEO friendly
+
+
+```bash
+npx unlighthouse --site http://localhost:3000 
+```
