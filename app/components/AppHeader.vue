@@ -44,14 +44,16 @@ const toggleTheme = () => {
 
             <div class="flex items-center gap-2">
                 <UButton color="secondary" variant="ghost" icon="i-heroicons-language" @click="toggleLanguage"
-                    class="hidden md:flex" />
+                    class="hidden md:flex" title="Language toggle" />
                 <UButton color="secondary" variant="ghost"
-                    :icon="colorMode.value === 'dark' ? 'i-heroicons-moon' : 'i-heroicons-sun'" @click="toggleTheme" />
+                    :icon="colorMode.value === 'dark' ? 'i-heroicons-moon' : 'i-heroicons-sun'" @click="toggleTheme"
+                    title="Theme toggle" />
                 <UButton to="/contact" color="neutral" variant="solid" class="hidden md:flex font-oswald font-bold">
                     910-367-7628
                 </UButton>
                 <!-- Mobile Menu Button Placeholder -->
-                <UButton icon="i-heroicons-bars-3" color="neutral" variant="ghost" class="md:hidden" />
+                <UButton icon="i-heroicons-bars-3" color="neutral" variant="ghost" class="md:hidden"
+                    title="Menu toggle" />
             </div>
         </UContainer>
     </header>

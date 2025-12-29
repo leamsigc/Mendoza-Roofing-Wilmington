@@ -31,12 +31,12 @@ const { preference } = useColorMode()
                     </div>
                     <!-- Social Links -->
                     <div class="flex items-center gap-2 mt-4">
-                        <UButton icon="logos:facebook" variant="ghost" size="sm" color="neutral"
+                        <UButton icon="logos:facebook" variant="ghost" size="sm" color="neutral" title="Facebook"
                             to="https://www.facebook.com/MendozaRoofingCompanyWilmington" />
-                        <UButton icon="logos:twitter" variant="ghost" size="sm" color="neutral"
+                        <UButton icon="logos:twitter" variant="ghost" size="sm" color="neutral" title="Twitter"
                             to="https://twitter.com/MendozaRoofingCompanyWilmington" />
                         <UButton icon="logos:instagram" variant="ghost" size="sm" color="success"
-                            to="https://www.instagram.com/mendozaroofingnc" />
+                            to="https://www.instagram.com/mendozaroofingnc" title="Instagram" />
                     </div>
                 </div>
 
