@@ -64,7 +64,8 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://roofingmendoza.com/',
-    name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor'
+    name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
+    trailingSlash: true
   },
 
   schemaOrg: {
