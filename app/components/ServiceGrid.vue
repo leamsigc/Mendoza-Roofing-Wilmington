@@ -117,9 +117,9 @@ const displayedServices = computed(() => props.services || SERVICES)
                     <UIcon name="i-heroicons-shield-check" class="w-12 h-12 text-white mb-4" />
                     <h3 class="text-2xl font-display font-bold text-white mb-2">EDS Waterproofing</h3>
                     <p class="text-teal-100 mb-6">Approved Installers for high-performance membranes.</p>
-                    <NuxtLinkLocale to="/contact"
+                    <NuxtLinkLocale to="/contact/"
                         class="bg-white text-teal-800 px-6 py-2 rounded-sm font-bold uppercase text-sm hover:bg-navy-900 hover:text-white transition-colors">
-                        Learn More
+                        Contact Us
                     </NuxtLinkLocale>
                 </div>
             </div>
