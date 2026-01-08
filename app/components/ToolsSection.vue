@@ -2,23 +2,23 @@
 import { SEO_KEYWORDS } from '~/utils/constants'
 
 // Calculator State
-const sqFt = ref(2000)
+const sqFt = ref(4000)
 const material = ref('asphalt')
 const complexity = ref('average')
 
 const estimate = computed(() => {
     let baseRate = 0
     switch (material.value) {
-        case 'asphalt': baseRate = 4.50; break;
-        case 'metal': baseRate = 12.00; break;
-        case 'tile': baseRate = 18.00; break;
+        case 'asphalt': baseRate = 5; break;
+        case 'metal': baseRate = 8; break;
+        case 'tile': baseRate = 9; break;
     }
 
     let complexityMultiplier = 1
     switch (complexity.value) {
-        case 'simple': complexityMultiplier = 1; break;
-        case 'average': complexityMultiplier = 1.2; break;
-        case 'complex': complexityMultiplier = 1.5; break;
+        case 'simple': complexityMultiplier = 0.75; break;
+        case 'average': complexityMultiplier = 1; break;
+        case 'complex': complexityMultiplier = 1.15; break;
     }
 
     const min = Math.round(sqFt.value * baseRate * complexityMultiplier)
@@ -67,10 +67,10 @@ const checklistResult = computed(() => {
                                 <label class="block font-bold text-navy-900 dark:text-white mb-2">Home Size (Square
                                     Feet)</label>
                                 <div class="flex items-center gap-4">
-                                    <input type="range" min="800" max="5000" step="100" v-model.number="sqFt"
+                                    <input type="range" min="100" max="5000" step="100" v-model.number="sqFt"
                                         class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-teal-600" />
-                                    <span class="font-mono font-bold w-20 text-right text-navy-900 dark:text-white">{{
-                                        sqFt }} sqft</span>
+                                    <span class="font-mono font-bold w-20 text-right text-navy-900 dark:text-white">
+                                        {{ sqFt }} sqft</span>
                                 </div>
                             </div>
 

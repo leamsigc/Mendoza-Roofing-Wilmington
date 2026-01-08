@@ -7,6 +7,8 @@
         <AppHeader />
         <main class="grow">
             <slot />
+            <ContactSection />
+
         </main>
         <AppFooter />
     </div>

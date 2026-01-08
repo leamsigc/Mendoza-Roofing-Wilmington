@@ -67,5 +67,8 @@ subtitle: Latest roofing news and updates from Mendoza Roofing.
 3. [How Much Does Roof Repair Cost in Wilmington, NC?](/blog/roof-repair-cost-wilmington-nc)
 > See average roof repair costs in Wilmington, NC, what affects price, and how to avoid overpaying.
 
+4. [Finding the Right Roofing Contractor in Wilmington, NC & Surrounding Brunswick County](/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
+> Learn the most important questions to ask, what to look for, and how to avoid scams when hiring a roofing contractor in the Wilmington, Supply, and Brunswick County areas.
+
 </div>
 

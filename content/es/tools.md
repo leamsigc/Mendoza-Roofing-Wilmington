@@ -34,3 +34,20 @@ subtitle: Planifique y Proteja
 
 ::ToolsSection
 ::
+
+<div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
+
+1. [La Lista de Verificación Mendoza: Elegir un Roofero](/es/blog/checklist-good-roofing-company)
+> Le ayudaremos a elegir el contratista de Roofing adecuado para sus necesidades. 
+
+2. [Roofing para Nuevas Construcciones](/es/blog/new-construction-roofing)
+> Puede esperar que un techo de nueva construcción dure muchos años. 
+
+3. [Cuánto Costa el Reparación de Roofing en Wilmington, NC?](/es/blog/roof-repair-cost-wilmington-nc)
+> Puede obtener una estimación gratuita de la reparación de Roofing en Wilmington, NC.
+
+4. [Encuentre el Mejor Contratista de Roofing en Wilmington, NC y el Condado de Brunswick](/es/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
+> Puede obtener una estimación gratuita de la reparación de Roofing en Wilmington, NC.
+
+
+</div>
