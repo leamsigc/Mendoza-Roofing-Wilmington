@@ -58,11 +58,14 @@ subtitle: Últimas noticias y actualizaciones de techado de Mendoza Roofing.
 ## Últimas Noticias
 
 
-1. [La Lista de Verificación Mendoza: Elegir un Techador](/blog/checklist-good-roofing-company)
+1. [La Lista de Verificación Mendoza: Elegir un Techador](/es/blog/checklist-good-roofing-company)
 > Le ayudaremos a elegir el contratista de techado adecuado para sus necesidades. 
 
-2. [Techado para Nuevas Construcciones](/blog/new-construction-roofing)
+2. [Techado para Nuevas Construcciones](/es/blog/new-construction-roofing)
 > Puede esperar que un techo de nueva construcción dure muchos años. 
+
+3. [Cuánto Costa el Reparación de Techado en Wilmington, NC?](/es/blog/roof-repair-cost-wilmington-nc)
+> Puede obtener una estimación gratuita de la reparación de techado en Wilmington, NC.
 
 
 </div>

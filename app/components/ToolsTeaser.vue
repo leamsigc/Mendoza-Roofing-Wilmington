@@ -35,10 +35,9 @@
                 </div>
             </div>
             <div class="relative h-64 md:h-80 bg-navy-900 rounded-sm overflow-hidden shadow-hard">
-                <NuxtImg
-                    src="https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-                    alt="Roof Inspection" class="w-full h-full object-cover opacity-80" />
-                <div class="absolute bottom-0 left-0 w-full p-4 bg-gradient-to-t from-black/80 to-transparent">
+                <NuxtImg src="/img/roofingMendozaSolarPanels.png" alt="Roof Inspection"
+                    class="w-full h-full object-cover opacity-80" />
+                <div class="absolute bottom-0 left-0 w-full p-4 bg-linear-to-t from-black/80 to-transparent">
                     <p class="text-white font-bold flex items-center gap-2">
                         <UIcon name="i-heroicons-wrench" class="w-4 h-4 text-gold-500" /> Free Tools Available
                     </p>

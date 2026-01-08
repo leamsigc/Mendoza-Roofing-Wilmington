@@ -12,13 +12,13 @@ const links = computed(() => [
     { label: t('nav.contact'), to: '/contact' }
 ])
 
+
 const toggleLanguage = () => {
     setLocale(locale.value === 'en' ? 'es' : 'en')
 }
-
-const toggleTheme = () => {
-    colorMode.preference = colorMode.value === 'dark' ? 'light' : 'dark'
-}
+definePageMeta({
+    colorMode: 'dark',
+})
 </script>
 
 <template>
@@ -29,7 +29,7 @@ const toggleTheme = () => {
                 <NuxtLinkLocale to="/"
                     class="flex items-center gap-1 font-oswald text-xl font-bold text-navy-900 dark:text-white overflow-hidden">
                     <NuxtImg
-                        :src="colorMode.preference === 'dark' ? '/img/logoTransparent-1-5-exact.png' : '/img/logoWhite.jpg'"
+                        :src="colorMode.preference !== 'dark' ? '/img/logoWhite.jpg' : '/img/logoTransparent-1-5-exact.png'"
                         alt="Mendoza Roofing"
                         :class="colorMode.preference === 'dark' ? 'w-14 h-12 object-contain' : 'w-24 h-16 object-contain'" />
                 </NuxtLinkLocale>
@@ -47,7 +47,8 @@ const toggleTheme = () => {
                 <UButton color="secondary" variant="ghost" icon="i-heroicons-language" @click="toggleLanguage"
                     class="hidden md:flex" title="Language toggle" />
                 <UButton color="secondary" variant="ghost"
-                    :icon="colorMode.value === 'dark' ? 'i-heroicons-moon' : 'i-heroicons-sun'" @click="toggleTheme"
+                    :icon="colorMode.preference === 'dark' ? 'i-heroicons-moon' : 'i-heroicons-sun'"
+                    @click="$colorMode.preference = colorMode.preference === 'dark' ? 'light' : 'dark'"
                     title="Theme toggle" />
                 <UButton to="/contact" color="neutral" variant="solid" class="hidden md:flex font-oswald font-bold">
                     910-367-7628

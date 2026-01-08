@@ -39,3 +39,19 @@ ogImage:
 ::
 ::AppCta
 ::
+
+
+<div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
+
+## Latest Blogs
+
+1. [The Mendoza Checklist: Choosing a Roofer](/blog/checklist-good-roofing-company)
+> We will help you choose the right roofing contractor for your needs. 
+
+2. [New Construction Roofing](/blog/new-construction-roofing)
+> You can expect a new construction roof to last for many years to come. 
+
+3. [How Much Does Roof Repair Cost in Wilmington, NC?](/blog/roof-repair-cost-wilmington-nc)
+> See average roof repair costs in Wilmington, NC, what affects price, and how to avoid overpaying.
+
+</div>

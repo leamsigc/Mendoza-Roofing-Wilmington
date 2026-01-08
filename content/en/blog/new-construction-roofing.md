@@ -2,7 +2,7 @@
 title: 'New Construction Roofing Standards'
 description: 'Yes, we also do new constructions. Learn about our rigorous process for new homes.'
 image:
-  src: 'https://images.unsplash.com/photo-1594818379496-da1e345b0ded'
+  src: '/img/roofingMendozaSolarPanels.png'
   alt: 'New Construction Roofing'
 tags: ['New Construction', 'Residential', 'Commercial']
 date: '2024-01-15'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'New Construction Roofing Standards'
     description: 'Yes, we also do new constructions. Learn about our rigorous process for new homes.'
-    image: 'https://images.unsplash.com/photo-1594818379496-da1e345b0ded'
+    image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Standards'
 layout: 'blog'
 ---

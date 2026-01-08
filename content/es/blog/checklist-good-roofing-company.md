@@ -1,8 +1,8 @@
 ---
-title: 'La Lista de Mendoza: Eligiendo un techador'
-description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un techador en el condado de Brunswick.'
+title: 'La Lista de Mendoza: Eligiendo un Roofero'
+description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un Roofero en el condado de Brunswick.'
 image:
-  src: 'https://images.unsplash.com/photo-1632759145351-1d592919f522'
+  src: '/img/heroImage.png'
   alt: 'Lista Verificación Techado'
 tags: ['Consejos', 'Confianza', 'Guía Contratación']
 date: '2024-02-10'
@@ -10,7 +10,7 @@ publishedAt: '2024-02-10'
 head:
   meta:
     - name: 'keywords'
-      content: 'elegir techador, lista verificación techado, guía contratación'
+      content: 'elegir Roofing, lista verificación techado, guía contratación'
 category: 'Educación'
 author:
   name: 'Equipo Mendoza'
@@ -20,16 +20,16 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'La Lista de Mendoza: Eligiendo un techador'
-    description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un techador.'
-    image: 'https://images.unsplash.com/photo-1632759145351-1d592919f522'
+    title: 'La Lista de Mendoza: Eligiendo un Roofing'
+    description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un Roofing.'
+    image: '/img/heroImage.png'
     headline: 'Guía de Contratación'
 layout: 'blog'
 ---
 
-## Eligiendo al techador adecuado
+## Eligiendo al Roofing adecuado
 
-Contratar a un techador es una gran decisión. Aquí está la lista de verificación de Mendoza Roofing para asegurar que esté protegido:
+Contratar a un Roofing es una gran decisión. Aquí está la lista de verificación de Mendoza Roofing para asegurar que esté protegido:
 
 1. **Seguro de Responsabilidad Civil y Compensación Laboral Requerido:** Nunca contrate a una compañía que no cubra a sus empleados.
 2. **Licencia Estatal:** Asegúrese de que tengan una buena reputación actual con el estado.

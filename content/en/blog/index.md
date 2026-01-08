@@ -64,6 +64,8 @@ subtitle: Latest roofing news and updates from Mendoza Roofing.
 2. [New Construction Roofing](/blog/new-construction-roofing)
 > You can expect a new construction roof to last for many years to come. 
 
+3. [How Much Does Roof Repair Cost in Wilmington, NC?](/blog/roof-repair-cost-wilmington-nc)
+> See average roof repair costs in Wilmington, NC, what affects price, and how to avoid overpaying.
 
 </div>
 

@@ -2,7 +2,7 @@
 title: 'The Mendoza Checklist: Choosing a Roofer'
 description: 'Avoid scams and poor workmanship. Here is what you need to look for before hiring a roofer in Brunswick County.'
 image:
-  src: 'https://images.unsplash.com/photo-1632759145351-1d592919f522'
+  src: '/img/heroImage.png'
   alt: 'Roofing Checklist'
 tags: ['Tips', 'Trust', 'Hiring Guide']
 date: '2024-02-10'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'The Mendoza Checklist: Choosing a Roofer'
     description: 'Avoid scams and poor workmanship. Here is what you need to look for before hiring a roofer in Brunswick County.'
-    image: 'https://images.unsplash.com/photo-1632759145351-1d592919f522'
+    image: '/img/heroImage.png'
     headline: 'Hiring Guide'
 layout: 'blog'
 ---

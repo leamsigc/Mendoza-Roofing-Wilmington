@@ -2,7 +2,7 @@
 title: 'Estándares de Techado para Nuevas Construcciones'
 description: 'Sí, también hacemos nuevas construcciones. Conozca nuestro riguroso proceso para nuevas viviendas.'
 image:
-  src: 'https://images.unsplash.com/photo-1594818379496-da1e345b0ded'
+  src: '/img/roofingMendozaSolarPanels.png'
   alt: 'Techado Nueva Construcción'
 tags: ['Nueva Construcción', 'Residencial', 'Comercial']
 date: '2024-01-15'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Estándares de Techado para Nuevas Construcciones'
     description: 'Conozca nuestro riguroso proceso para nuevas viviendas.'
-    image: 'https://images.unsplash.com/photo-1594818379496-da1e345b0ded'
+    image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Estándares'
 layout: 'blog'
 ---

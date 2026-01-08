@@ -75,6 +75,97 @@ export const SERVICES = [
         description: 'Detailed roof evaluations and reports for real estate transactions, insurance claims, or preventative maintenance.',
         iconName: 'i-heroicons-clipboard-document-list',
         link: '/contact'
+    },
+    {
+        id: '7',
+        title: 'Roofing Contractor Wilmington NC',
+        description: 'Licensed roofing contractor in Wilmington NC providing expert roof installation, repair, and replacement services. With over 50 years of combined experience, Mendoza Roofing Company delivers high-quality workmanship using premium materials for both residential and commercial properties in the Wilmington area.',
+        iconName: 'i-heroicons-home',
+        link: '/contact'
+    },
+    {
+        id: '8',
+        title: 'Roof Repair Wilmington NC',
+        description: 'Professional roof repair services in Wilmington NC specializing in leak fixes, storm damage restoration, and emergency repairs. Our certified technicians respond quickly to assess and repair roof issues, preventing further damage and extending the life of your roofing system.',
+        iconName: 'i-heroicons-wrench-screwdriver',
+        link: '/contact'
+    },
+    {
+        id: '9',
+        title: 'Roof Replacement Wilmington NC',
+        description: 'Complete roof replacement services in Wilmington NC using top-quality shingles, metal, and flat roofing materials. Mendoza Roofing Company offers free estimates and financing options, ensuring your new roof provides superior protection and energy efficiency for years to come.',
+        iconName: 'i-heroicons-home-modern',
+        link: '/contact'
+    },
+    {
+        id: '10',
+        title: 'Roofing Company Wilmington NC',
+        description: 'Trusted roofing company in Wilmington NC with a reputation for excellence in residential and commercial roofing. We handle everything from minor repairs to full re-roofing projects, backed by our satisfaction guarantee and commitment to customer service.',
+        iconName: 'i-heroicons-shield-check',
+        link: '/contact'
+    },
+    {
+        id: '11',
+        title: 'Commercial Roofing Wilmington NC',
+        description: 'Specialized commercial roofing services in Wilmington NC for businesses, warehouses, and industrial properties. Our team is experienced with flat roofs, metal panels, and waterproof membranes, providing durable solutions that minimize downtime and protect your investment.',
+        iconName: 'i-heroicons-clipboard-document-check',
+        link: '/contact'
+    },
+    {
+        id: '12',
+        title: 'Residential Roofing Wilmington NC',
+        description: 'Comprehensive residential roofing services in Wilmington NC for homeowners seeking reliable contractors. From asphalt shingles to tile roofs, we provide expert installation, maintenance, and repair services tailored to the unique needs of your home.',
+        iconName: 'i-heroicons-home',
+        link: '/contact'
+    },
+    {
+        id: '13',
+        title: 'Flat Roof Repair Wilmington NC',
+        description: 'Expert flat roof repair in Wilmington NC using advanced waterproofing techniques and materials. Mendoza Roofing Company specializes in EPDM, TPO, and modified bitumen systems, offering long-term solutions for flat roof maintenance and restoration.',
+        iconName: 'i-heroicons-wrench-screwdriver',
+        link: '/contact'
+    },
+    {
+        id: '14',
+        title: 'Metal Roofing Wilmington NC',
+        description: 'Premium metal roofing installation and repair services in Wilmington NC. We work with steel, aluminum, and copper panels, providing energy-efficient, low-maintenance roofing solutions that withstand harsh coastal weather conditions.',
+        iconName: 'i-heroicons-shield-check',
+        link: '/contact'
+    },
+    {
+        id: '15',
+        title: 'Emergency Roof Repair Wilmington NC',
+        description: '24/7 emergency roof repair services in Wilmington NC for urgent storm damage, leaks, and structural issues. Our rapid response team is equipped to handle emergency situations, providing temporary fixes and comprehensive repairs to protect your property.',
+        iconName: 'i-heroicons-exclamation-triangle',
+        link: '/contact'
+    },
+    {
+        id: '16',
+        title: 'Roofing Contractor Supply NC',
+        description: 'Reliable roofing contractor in Supply NC serving Brunswick County with quality roofing services. Mendoza Roofing Company brings our expertise to the Supply area, offering residential and commercial roofing solutions backed by local knowledge and professional standards.',
+        iconName: 'i-heroicons-home',
+        link: '/contact'
+    },
+    {
+        id: '17',
+        title: 'Roofing Company Supply NC',
+        description: 'Established roofing company in Supply NC providing comprehensive roofing services for the local community. Our experienced team handles all types of roofing projects, from minor repairs to complete installations, ensuring customer satisfaction and long-lasting results.',
+        iconName: 'i-heroicons-shield-check',
+        link: '/contact'
+    },
+    {
+        id: '18',
+        title: 'Roofing Contractor Brunswick County NC',
+        description: 'Professional roofing contractor serving all of Brunswick County NC, including Supply, Calabash, and surrounding areas. Mendoza Roofing Company offers expert roofing services with a focus on quality materials, skilled craftsmanship, and exceptional customer service.',
+        iconName: 'i-heroicons-home',
+        link: '/contact'
+    },
+    {
+        id: '19',
+        title: 'Roof Repair Brunswick County NC',
+        description: 'Expert roof repair services throughout Brunswick County NC. We specialize in diagnosing and fixing roof issues quickly and effectively, using proven techniques to restore roof integrity and prevent future problems for homeowners and businesses.',
+        iconName: 'i-heroicons-wrench-screwdriver',
+        link: '/contact'
     }
 ];
 

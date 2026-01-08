@@ -30,7 +30,7 @@ const props = withDefaults(defineProps<Props>(), {
         <div class="absolute inset-0 z-0">
             <NuxtImg src="/img/heroImage.png" alt="Roofing Construction Detail"
                 class="w-full h-full object-cover opacity-30 mix-blend-luminosity" loading="eager" />
-            <div class="absolute inset-0 bg-gradient-to-r from-navy-950 via-navy-900/90 to-transparent"></div>
+            <div class="absolute inset-0 bg-linear-to-r from-navy-950 via-navy-900/90 to-transparent"></div>
         </div>
 
         <div class="max-w-7xl mx-auto px-4 md:px-8 relative z-10 w-full pt-10">
