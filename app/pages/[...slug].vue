@@ -42,7 +42,7 @@ const { data: page } = await useAsyncData(`page-${slug.value}`, async () => {
   watch: [locale],
 })
 
-useHead(page.value?.meta || {})
+useHead(page.value?.head || {})
 
 useSeoMeta(page.value?.seo || {})
 

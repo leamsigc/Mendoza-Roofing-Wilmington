@@ -25,6 +25,30 @@ ogImage:
     image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Repair'
 layout: 'blog'
+schemaOrg:
+  - "@type": "BlogPosting"
+    headline: "How Much Does Roof Repair Cost in Wilmington, NC?"
+    author:
+      "@type": "Person"
+      name: "Mendoza Team"
+    datePublished: "2024-01-15"
+  - type: FaqPage
+    mainEntity:
+      - "@type": "Question"
+        name: "How long does a typical roof repair take?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Most small to medium repairs can be completed in **a few hours to one day**. Larger repairs or partial replacements can take **1-3 days**, depending on weather and roof size."
+      - "@type": "Question"
+        name: "Is roof repair covered by homeowners insurance?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "If the damage was caused by a **sudden event** like wind or hail, many policies will help cover repairs. If the problem is due to **age or lack of maintenance**, it may not be covered. We can help you understand what's typically considered \"storm damage\" and provide documentation for your claim."
+      - "@type": "Question"
+        name: "Can I delay a roof repair to save money?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Delaying rarely saves money. Small leaks grow, wood rots, and mold can develop. In most cases, **fixing the problem early** is far cheaper than waiting."
 ---
 
 ::PageHero

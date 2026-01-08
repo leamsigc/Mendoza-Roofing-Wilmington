@@ -25,6 +25,31 @@ ogImage:
     image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Reparación'
 layout: 'blog-layout'
+schemaOrg:
+  - "@type": "BlogPosting"
+    headline: "¿Cuánto Cuesta Reparar un Techo en Wilmington, NC?"
+    author:
+      "@type": "Person"
+      name: "Equipo Mendoza"
+    datePublished: "2024-01-15"
+  - type: FaqPage
+    mainEntity:
+      - "@type": "Question"
+        name: "¿Cuánto tiempo toma una reparación típica de techo?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "La mayoría de las reparaciones pequeñas a medianas se pueden completar en **unas pocas horas a un día**. Las reparaciones más grandes o reemplazos parciales pueden tomar **1-3 días**, dependiendo del clima y el tamaño del techo."
+      - "@type": "Question"
+        name: "¿Está cubierta la reparación de techo por el seguro de propietarios?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Si el daño fue causado por un **evento repentino** como viento o granizo, muchas pólizas ayudarán a cubrir las reparaciones. Si el problema se debe a **edad o falta de mantenimiento**, puede no estar cubierto. Podemos ayudarlo a entender qué se considera típicamente \"daño por tormenta\" y proporcionar documentación para su reclamo."
+      - "@type": "Question"
+        name: "¿Puedo retrasar una reparación de techo para ahorrar dinero?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Retrasar rara vez ahorra dinero. Las fugas pequeñas crecen, la madera se pudre y puede desarrollarse moho. En la mayoría de los casos, **arreglar el problema temprano** es mucho más barato que esperar."
+
 ---
 
 ::PageHero
