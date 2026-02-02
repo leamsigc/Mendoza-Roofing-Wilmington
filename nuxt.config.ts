@@ -39,18 +39,18 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@vueuse/nuxt',
   ],
-  routeRules: {
-    '/blog/**': {
-      seoMeta: {
-        ogType: 'article'
-      }
-    },
-    '/tools/**': {
-      seoMeta: {
-        ogType: 'tools'
-      }
-    }
-  },
+  // routeRules: {
+  //   '/blog/**': {
+  //     seoMeta: {
+  //       ogType: 'article'
+  //     }
+  //   },
+  //   '/tools/**': {
+  //     seoMeta: {
+  //       ogType: 'tools'
+  //     }
+  //   }
+  // },
   fonts: {
     defaults: {
       weights: [400, 500, 600, 700,],
@@ -74,7 +74,18 @@ export default defineNuxtConfig({
   site: {
     url: 'https://roofingmendoza.com/',
     name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
-    trailingSlash: true
+    defaultLocale: 'en',
+    // trailingSlash: true
+  },
+  content: {
+    build: {
+
+    }
+  },
+  robots: {
+    disallow: [
+      "/app/**"
+    ]
   },
 
   schemaOrg: {
@@ -87,13 +98,18 @@ export default defineNuxtConfig({
   },
 
   i18n: {
-    langDir: '',
+    baseUrl: process.env.NUXT_PUBLIC_BASE_URL,
     locales: [
       { code: 'en', language: 'en-US', name: 'English', file: 'en.json' },
       { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' },
     ],
     defaultLocale: 'en',
     strategy: 'prefix_except_default',
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root'
+    }
   },
 
   umami: {
