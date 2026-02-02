@@ -22,14 +22,13 @@ const slug = computed(() => {
   return Array.isArray(params) ? withLeadingSlash(params.join('/')) : withLeadingSlash(String(params))
 })
 
+const collection = (`${collectionType}_${locale.value}`) as keyof Collections
 
-const { data: page } = await useAsyncData(`page-${slug.value}`, async () => {
+const { data: page, refresh } = await useAsyncData(`page-${collection}-${slug.value}`, async () => {
 
-  const collection = (`${collectionType}_${locale.value}`) as keyof Collections
-  const path = collectionType === 'blog' ? `${route.path.replace('/blogs', '')}` : slug.value
-
-
+  const path = collectionType === 'blog' ? `${route.path.replace('/blogs', '')}` : route.path
   let content = await queryCollection(collection).path(`${path}`).first()
+
 
   // Fallback to default locale if content is missing
   if (!content && locale.value !== 'en') {
@@ -54,6 +53,9 @@ defineOgImageComponent('BlogOgImage',
     headline: page.value?.ogImage?.props.headline || 'Roofing',
   }
 )
+watch(locale, () => {
+  refresh()
+})
 </script>
 
 <template>

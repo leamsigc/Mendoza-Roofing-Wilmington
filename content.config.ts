@@ -52,7 +52,7 @@ export default defineContentConfig({
       asSeoCollection({
         type: 'page',
         source: {
-          include: 'en/**',
+          include: 'en/**/**.md',
           prefix: '',
         },
         schema: blogSchema
@@ -62,10 +62,10 @@ export default defineContentConfig({
       asSeoCollection({
         type: 'page',
         source: {
-          include: 'es/**',
-          prefix: '',
+          include: 'es/**/**.md',
+          prefix: 'es',
         },
-        schema: blogSchema
+        schema: blogSchema,
       })
     ),
   },

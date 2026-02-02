@@ -21,6 +21,12 @@ export default defineNuxtConfig({
   nitro: {
     experimental: {
       openAPI: true,
+    },
+    prerender: {
+      // enabled by default with nuxt generate, not required
+      crawlLinks: true,
+      // add any routes to prerender
+      routes: ['/']
     }
   },
   modules: [
