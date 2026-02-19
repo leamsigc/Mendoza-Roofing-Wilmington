@@ -60,6 +60,12 @@ ogImage:
 - [Supply NC Roofing](/supply-nc-roofing)
 - [Leland NC Roofing](/leland-nc-roofing)
 - [Oak Island NC Roofing](/oak-island-nc-roofing)
+- [Shallotte NC Roofing](/shallotte-nc-roofing)
+- [Southport NC Roofing](/southport-nc-roofing)
+
+## Free Homeowner Tools
+
+- [Roof Cost Estimator & Storm Damage Checklist](/tools) — Free interactive tools for Wilmington homeowners
 
 ## Latest From Our Blog
 

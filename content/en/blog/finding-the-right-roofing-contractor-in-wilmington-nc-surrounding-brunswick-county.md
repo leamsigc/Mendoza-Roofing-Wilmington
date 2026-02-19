@@ -14,7 +14,7 @@ head:
 category: 'Construction'
 author:
   name: 'Equipo Mendoza'
-  role: 'Administrador'
+  role: 'Admin'
   avatar: '/img/logo.png'
   social: 'https://twitter.com/roofingmendoza'
 ogImage:

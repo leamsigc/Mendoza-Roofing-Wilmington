@@ -70,6 +70,11 @@ services:
     description: Seamless aluminum gutter installation and fascia/soffit repair.
     iconName: i-heroicons-home-modern
     link: /gutters-wilmington-nc
+  - id: 8
+    title: Roof Maintenance & Inspections
+    description: Annual inspections, chimney repair, pressure cleaning, and real estate reports.
+    iconName: i-heroicons-magnifying-glass
+    link: /roof-maintenance-wilmington-nc
 ---
 ::
 
@@ -87,6 +92,12 @@ Our commercial team handles flat roof systems for businesses, warehouses, and in
 
 ### Storm Damage & Emergency Repairs
 When a hurricane or major storm hits, you need a local contractor who answers the phone. We offer 24/7 tarping and emergency stabilization to prevent further damage to your property. [Emergency services →](/emergency-roof-repair-wilmington-nc)
+
+### Roof Maintenance & Inspections
+Prevention is always cheaper than replacement. Our certified technicians perform thorough roof inspections — including chimney flashing, pressure cleaning, and real estate or insurance reports. We also offer **annual maintenance contracts** for residential and commercial properties. [Learn more →](/roof-maintenance-wilmington-nc)
+
+### Shallotte & Southport Service Areas
+Our crews serve all of Brunswick County — including [Shallotte](/shallotte-nc-roofing), [Southport](/southport-nc-roofing), Oak Island, Ocean Isle Beach, and Sunset Beach. No need to search for a separate local contractor.
 
 </div>
 

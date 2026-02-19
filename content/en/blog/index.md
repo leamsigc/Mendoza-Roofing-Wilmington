@@ -66,4 +66,10 @@ subtitle: Expert Advice for Wilmington & Brunswick County Homeowners
 10. [Roofing Contractor in Shallotte, NC](/blog/roofing-contractor-shallotte-nc)
 > Local service and community roots in the Shallotte area.
 
+11. [How to File a Roof Insurance Claim in Wilmington, NC](/blog/roof-insurance-claims-wilmington-nc)
+> Step-by-step guide to getting your storm damage insurance claim approved in Wilmington.
+
+12. [Flat Roof Systems in Wilmington NC: TPO, EPDM & Modified Bitumen](/blog/flat-roof-systems-wilmington-nc)
+> Compare flat roofing systems for commercial and residential buildings in coastal North Carolina.
+
 </div>
