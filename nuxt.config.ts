@@ -96,10 +96,50 @@ export default defineNuxtConfig({
 
   schemaOrg: {
     identity: {
-      type: 'Organization',
-      name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
-      logo: '/logo.png',
-      sameAs: ['https://twitter.com/roofingmendoza']
+      type: 'LocalBusiness',
+      name: 'Mendoza Roofing LLC',
+      logo: '/img/logo.png',
+      image: '/img/MendozaRoofingShallotte.png',
+      description: 'Licensed roofing contractors in Wilmington, Supply, and Brunswick County NC with 50+ years of experience. Expert roof repair, replacement, commercial roofing, and emergency services.',
+      telephone: '910-367-7628',
+      email: 'contact@roofingmendoza.com',
+      url: 'https://roofingmendoza.com',
+      address: {
+        streetAddress: 'P.O. Box 952',
+        addressLocality: 'Supply',
+        addressRegion: 'NC',
+        postalCode: '28462',
+        addressCountry: 'US'
+      },
+      geo: {
+        latitude: 33.9416,
+        longitude: -78.2733
+      },
+      openingHoursSpecification: [
+        {
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+          opens: '07:00',
+          closes: '18:00'
+        }
+      ],
+      areaServed: [
+        { type: 'City', name: 'Wilmington', containedInPlace: { type: 'State', name: 'North Carolina' } },
+        { type: 'City', name: 'Supply', containedInPlace: { type: 'State', name: 'North Carolina' } },
+        { type: 'County', name: 'Brunswick County', containedInPlace: { type: 'State', name: 'North Carolina' } },
+        { type: 'City', name: 'Shallotte', containedInPlace: { type: 'State', name: 'North Carolina' } },
+        { type: 'City', name: 'Oak Island', containedInPlace: { type: 'State', name: 'North Carolina' } },
+        { type: 'City', name: 'Leland', containedInPlace: { type: 'State', name: 'North Carolina' } }
+      ],
+      priceRange: '$$',
+      aggregateRating: {
+        ratingValue: '5.0',
+        reviewCount: '50'
+      },
+      sameAs: [
+        'https://twitter.com/roofingmendoza',
+        'https://www.facebook.com/mendozaRoofingCompanyWilmington',
+        'https://www.instagram.com/mendozaroofingnc'
+      ]
     }
   },
 

@@ -122,23 +122,32 @@ link: /contact
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
+## Nuestros Servicios de Techado
+
+- [Contratistas de Techos Wilmington NC](/es/wilmington-nc-roofing) — Techadores locales de confianza
+- [Reparación de Techos Wilmington NC](/es/reparacion-de-techos-wilmington-nc) — Respuesta rápida para goteras y tormentas
+- [Reemplazo de Techo Wilmington NC](/es/reemplazo-de-techo-wilmington-nc) — Todos los materiales, estimados gratis
+- [Reparación de Emergencia 24/7](/es/reparacion-de-emergencia-wilmington-nc) — Disponibles toda la noche
+
+## Áreas de Servicio
+
+- [Techos en el Condado de Brunswick](/es/brunswick-county-roofing) — Supply, Shallotte, Leland, Southport, Oak Island
+
 ## Artículos Recientes
 
+1. [¿Cuánto Cuesta la Reparación de Techos en Wilmington, NC?](/es/blog/roof-repair-cost-wilmington-nc)
+> Costos reales de reparación de techos en Wilmington, NC y qué factores afectan el precio.
 
-1. [La Lista de Verificación Mendoza: Elegir un Roofero](/es/blog/checklist-good-roofing-company)
-> Le ayudaremos a elegir el contratista de Roofing adecuado para sus necesidades. 
+2. [La Lista de Verificación Mendoza: Elegir un Contratista](/es/blog/checklist-good-roofing-company)
+> Le ayudaremos a elegir el contratista de techado adecuado para sus necesidades.
 
-2. [Roofing para Nuevas Construcciones](/es/blog/new-construction-roofing)
-> Puede esperar que un techo de nueva construcción dure muchos años. 
+3. [Encuentre el Mejor Contratista de Techos en Wilmington, NC](/es/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
+> Las preguntas más importantes que debe hacer antes de contratar un techador en Wilmington o el Condado de Brunswick.
 
-3. [Cuánto Costa el Reparación de Roofing en Wilmington, NC?](/es/blog/roof-repair-cost-wilmington-nc)
-> Puede obtener una estimación gratuita de la reparación de Roofing en Wilmington, NC.
+4. [Contratista de Techos en Shallotte, NC](/es/blog/contratista-de-techos-shallotte-nc)
+> Servicios de techado locales en Shallotte y el Condado de Brunswick costero.
 
-4. [Encuentre el Mejor Contratista de Roofing en Wilmington, NC y el Condado de Brunswick](/es/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
-> Puede obtener una estimación gratuita de la reparación de Roofing en Wilmington, NC.
-
-5. [ Contratista de Techos en Shallotte, NC - Local, Confiable y Asequible](/es/blog/contratista-de-techos-shallotte-nc)
-> Aprenda cómo elegir al contratista de techos adecuado en Shallotte, NC, qué esperar del proceso y cuánto cuestan normalmente los servicios de techado en la zona costera de Carolina del Norte
-
+5. [Techado para Nuevas Construcciones](/es/blog/new-construction-roofing)
+> Puede esperar que un techo de nueva construcción dure muchos años.
 
 </div>
