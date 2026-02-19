@@ -1,6 +1,6 @@
 ---
 title: 'Blog'
-description: 'Latest roofing news and updates from Mendoza Roofing.'
+description: 'Latest roofing news, guides, and updates from Mendoza Roofing in Wilmington NC.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Blog'
@@ -9,7 +9,7 @@ publishedAt: '2024-01-01'
 head:
   meta:
     - name: 'keywords'
-      content: 'blog, roofing news, updates, Mendoza Roofing'
+      content: 'roofing blog, wilmington nc roofing news, roof repair guides, roof replacement cost, coastal roofing nc'
 category: 'Blog'
 author:
   name: 'Mendoza Team'
@@ -25,53 +25,45 @@ ogImage:
     headline: 'Blog'
 ---
 
-
 ::PageHero
 ---
-title: Blog
-subtitle: Latest roofing news and updates from Mendoza Roofing.
+title: Roofing Insights & News
+subtitle: Expert Advice for Wilmington & Brunswick County Homeowners
 ---
 ::
 
-
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
-  <p class="lead font-bold text-2xl mb-8 text-navy-900 dark:text-white">
-    Mendoza Roofing is one of the most trusted roofing companies in Wilmington, serving in the Brunswick County.
- </p>
 
- <p class="mb-6 text-gray-600 dark:text-gray-300">
-    We do both residential and commercial roofing for all types of roofs. At Mendoza Roofing we use only the highest quality products to insure that your new roof is built with the integrity and craftsmanship to last for many years to come.
- </p>
+## Latest Roofing Articles
 
- <p class="mb-8 text-gray-600 dark:text-gray-300">
-    We are a certified, dependable, licensed, and fully insured roofing company. All Mendoza Roofing employees are fully covered by Workers Compensation Insurance and Liability Insurance.
- </p>
+1. [Roof Replacement Cost in Wilmington NC (2026 Guide)](/blog/roof-replacement-cost-wilmington-nc)
+> A detailed breakdown of new roof costs in 2026, including material comparisons and labor factors.
 
- <div class="bg-navy-50 dark:bg-navy-900 border-l-8 border-navy-900 dark:border-navy-400 p-8 my-12 rounded-r-sm">
-    <h3 class="text-2xl font-bold text-navy-900 dark:text-white mb-4 font-display">Our Guarantee</h3>
-    <p class="text-xl font-medium italic text-gray-700 dark:text-gray-300">"The job is not done until you are satisfied!"</p>
-    <p class="mt-4 font-bold text-gold-600 dark:text-gold-400">We can restore Your roof to the original look.</p>
- </div>
+2. [Complete Guide to Roofing Materials in Wilmington NC](/blog/roofing-materials-guide-wilmington-nc)
+> Comparing asphalt shingles, metal, and tile for the coastal North Carolina environment.
 
- <h3 class="text-3xl font-display font-black text-navy-900 dark:text-white mt-16 mb-8 text-center uppercase">Why Neighbors Trust Us</h3>
+3. [Storm Damage Roof Repair: What to Do After a Hurricane](/blog/storm-damage-roof-repair-brunswick-county)
+> Step-by-step guide for homeowners in Brunswick County after a major storm event.
 
-## Latest News
+4. [Coastal Roofing Challenges in North Carolina](/blog/coastal-roofing-challenges-north-carolina)
+> Why roofing near the ocean is different: Salt air, high winds, and moisture management.
 
+5. [Metal Roofing Benefits for Coastal NC](/blog/metal-roofing-nc-guide)
+> Why metal is the fastest-growing roofing choice for hurricane-prone areas.
 
-1. [The Mendoza Checklist: Choosing a Roofer](/blog/checklist-good-roofing-company)
-> We will help you choose the right roofing contractor for your needs. 
+6. [Commercial Roofing Guide for Wilmington Business Owners](/blog/commercial-roofing-guide-wilmington-nc)
+> Maintenance, inspections, and repair strategies for TPO and flat roof systems.
 
-2. [New Construction Roofing](/blog/new-construction-roofing)
-> You can expect a new construction roof to last for many years to come. 
+7. [50 Years of Mendoza Roofing in Brunswick County](/blog/mendoza-roofing-50-years-brunswick-county)
+> Our history, our team, and our commitment to serving the community since 1974.
 
-3. [How Much Does Roof Repair Cost in Wilmington, NC?](/blog/roof-repair-cost-wilmington-nc)
-> See average roof repair costs in Wilmington, NC, what affects price, and how to avoid overpaying.
+8. [How Much Does Roof Repair Cost in Wilmington, NC?](/blog/roof-repair-cost-wilmington-nc)
+> Average costs for leaks, small repairs, and emergency services.
 
-4. [Finding the Right Roofing Contractor in Wilmington, NC & Surrounding Brunswick County](/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
-> Learn the most important questions to ask, what to look for, and how to avoid scams when hiring a roofing contractor in the Wilmington, Supply, and Brunswick County areas.
+9. [The Mendoza Checklist: Choosing a Roofer](/blog/checklist-good-roofing-company)
+> How to vet a contractor and ensure you're protected.
 
-5. [Roofing Contractor in Shallotte, NC - Local, Reliable & Affordable](/blog/roofing-contractor-shallotte-nc)
-> Looking for a trusted roofing contractor in Shallotte, NC? Learn how to choose the right roofer, what to expect from the process, and how much roofing services typically cost in the Shallotte and Brunswick County area.
+10. [Roofing Contractor in Shallotte, NC](/blog/roofing-contractor-shallotte-nc)
+> Local service and community roots in the Shallotte area.
 
 </div>
-

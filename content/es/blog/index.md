@@ -1,6 +1,6 @@
 ---
 title: 'Blog'
-description: 'Últimas noticias y actualizaciones de Roofing de Mendoza Roofing.'
+description: 'Últimas noticias, guías y actualizaciones de techado de Mendoza Roofing en Wilmington NC.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Blog'
@@ -9,7 +9,7 @@ publishedAt: '2024-01-01'
 head:
   meta:
     - name: 'keywords'
-      content: 'blog, noticias de Roofing, actualizaciones, Mendoza Roofing'
+      content: 'blog de techado, noticias de techos wilmington nc, guías de reparación de techos, costo de reemplazo de techo, techado costero nc'
 category: 'Blog'
 author:
   name: 'Equipo Mendoza'
@@ -20,58 +20,50 @@ ogImage:
   component: 'BlogOgImage'
   props:
     title: 'Blog'
-    description: 'Últimas noticias y actualizaciones de Roofing de Mendoza Roofing.'
+    description: 'Últimas noticias y actualizaciones de Mendoza Roofing.'
     image: '/img/logoWhite.jpg'
     headline: 'Blog'
 ---
 
-
 ::PageHero
 ---
-title: Blog
-subtitle: Últimas noticias y actualizaciones de Roofing de Mendoza Roofing.
+title: Noticias y Consejos de Techado
+subtitle: Consejos de Expertos para Propietarios en Wilmington y el Condado de Brunswick
 ---
 ::
 
-
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
-  <p class="lead font-bold text-2xl mb-8 text-navy-900 dark:text-white">
-    Mendoza Roofing es una de las compañías de Roofing más confiables en Wilmington, sirviendo en el Condado de Brunswick.
- </p>
 
- <p class="mb-6 text-gray-600 dark:text-gray-300">
-    Hacemos Roofing residencial y comercial para todo tipo de techos. En Mendoza Roofing usamos solo productos de la más alta calidad para asegurar que su nuevo techo esté construido con la integridad y artesanía para durar muchos años.
- </p>
+## Artículos Recientes
 
- <p class="mb-8 text-gray-600 dark:text-gray-300">
-    Somos una compañía de Roofing certificada, confiable, con licencia y totalmente asegurada. Todos los empleados de Mendoza Roofing están completamente cubiertos por Seguro de Compensación de Trabajadores y Seguro de Responsabilidad Civil.
- </p>
+1. [Costo de Reemplazo de Techo en Wilmington (Guía 2026)](/es/blog/costo-reemplazo-techo-wilmington-nc)
+> Desglose detallado de los precios de un techo nuevo según el material y la mano de obra.
 
- <div class="bg-navy-50 dark:bg-navy-900 border-l-8 border-navy-900 dark:border-navy-400 p-8 my-12 rounded-r-sm">
-    <h3 class="text-2xl font-bold text-navy-900 dark:text-white mb-4 font-display">Nuestra Garantía</h3>
-    <p class="text-xl font-medium italic text-gray-700 dark:text-gray-300">"¡El trabajo no está terminado hasta que usted esté satisfecho!"</p>
-    <p class="mt-4 font-bold text-gold-600 dark:text-gold-400">Podemos restaurar su techo a su apariencia original.</p>
- </div>
+2. [Guía de Materiales de Techado para Wilmington NC](/es/blog/guia-materiales-techado-wilmington-nc)
+> Comparativa entre tejas asfálticas, metal y teja para el clima costero de NC.
 
- <h3 class="text-3xl font-display font-black text-navy-900 dark:text-white mt-16 mb-8 text-center uppercase">Por Qué Los Vecinos Confían En Nosotros</h3>
+3. [¿Daños por Tormenta? Guía para Propietarios en Brunswick](/es/blog/reparacion-de-danos-por-tormenta-condado-brunswick)
+> Qué pasos seguir después de un huracán para proteger su hogar y su seguro.
 
-## Últimas Noticias
+4. [Desafíos del Techado Costero en Carolina del Norte](/es/blog/desafios-techado-costero-carolina-del-norte)
+> Por qué el aire salado y el sol de Wilmington requieren técnicas de instalación especiales.
 
+5. [La Guía Definitiva de Techos de Metal en NC](/es/blog/guia-techos-de-metal-carolina-del-norte)
+> Por qué el metal es la opción más duradera y eficiente contra huracanes.
 
-1. [La Lista de Verificación Mendoza: Elegir un Roofero](/es/blog/checklist-good-roofing-company)
-> Le ayudaremos a elegir el contratista de Roofing adecuado para sus necesidades. 
+6. [Mendoza Roofing: 50+ Años de Excelencia Local](/es/blog/mendoza-roofing-50-anos-condado-brunswick)
+> Nuestra historia sirviendo a la comunidad de Supply y Wilmington desde 1974.
 
-2. [Roofing para Nuevas Construcciones](/es/blog/new-construction-roofing)
-> Puede esperar que un techo de nueva construcción dure muchos años. 
+7. [Guía de Techado Comercial para Negocios en Wilmington](/es/blog/guia-techado-comercial-wilmington-nc)
+> Cómo maximizar la vida útil de su techo comercial plano (TPO y EPDM).
 
-3. [Cuánto Costa el Reparación de Roofing en Wilmington, NC?](/es/blog/roof-repair-cost-wilmington-nc)
-> Puede obtener una estimación gratuita de la reparación de Roofing en Wilmington, NC.
+8. [¿Cuánto Cuesta la Reparación de Techos en Wilmington, NC?](/es/blog/roof-repair-cost-wilmington-nc) (Próximamente versión expandida)
+> Costos reales de reparación de techos en Wilmington, NC.
 
-4. [Encuentre el Mejor Contratista de Roofing en Wilmington, NC y el Condado de Brunswick](/es/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
-> Puede obtener una estimación gratuita de la reparación de Roofing en Wilmington, NC.
+9. [La Lista de Verificación Mendoza: Elegir un Contratista](/es/blog/checklist-good-roofing-company)
+> Le ayudaremos a elegir el contratista de techado adecuado para sus necesidades.
 
-5. [ Contratista de Techos en Shallotte, NC - Local, Confiable y Asequible](/es/blog/contratista-de-techos-shallotte-nc)
-> Aprenda cómo elegir al contratista de techos adecuado en Shallotte, NC, qué esperar del proceso y cuánto cuestan normalmente los servicios de techado en la zona costera de Carolina del Norte
+10. [Encuentre el Mejor Contratista de Techos en Wilmington, NC](/es/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
+> Las preguntas más importantes que debe hacer antes de contratar un techador.
 
 </div>
-

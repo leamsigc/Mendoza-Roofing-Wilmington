@@ -1,6 +1,6 @@
 ---
 title: 'Nuestros Servicios'
-description: 'Gama completa de servicios de techado residencial y comercial en Wilmington y Supply, NC.'
+description: 'Gama completa de servicios de techado residencial y comercial en Wilmington y Supply, NC. Desde reparaciones hasta techos nuevos.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Servicios de Techado'
@@ -9,7 +9,7 @@ publishedAt: '2024-01-01'
 head:
   meta:
     - name: 'keywords'
-      content: 'servicios de techado, reparación, instalación, comercial, residencial'
+      content: 'servicios de techado wilmington nc, reparacion de techos, reemplazo de techo, techado comercial, techado residencial, techos de metal, canaletas'
 category: 'Servicios'
 author:
   name: 'Equipo Mendoza'
@@ -28,7 +28,7 @@ ogImage:
 ::PageHero
 ---
 title: Nuestros Servicios Principales
-subtitle: Soluciones Expertas
+subtitle: Soluciones Expertas para Cada Techo — Sirviendo a Wilmington y el Condado de Brunswick desde 1974
 ---
 ::
 
@@ -36,37 +36,59 @@ subtitle: Soluciones Expertas
 ---
 services:
   - id: 1
-    title: Nuevas Construcciones
-    description: Si, también hacemos nuevas construcciones. Usamos solo los productos de la mejor calidad para asegurar que su techado nuevo se construya con la integridad y la maestría para durar muchos años.
-    iconName: i-heroicons-wrench-screwdriver
-    link: /contact
+    title: Reemplazo de Techo
+    description: Instalación profesional de techos nuevos usando tejas asfálticas, metal y teja.
+    iconName: i-heroicons-home
+    link: /es/reemplazo-de-techo-wilmington-nc
   - id: 2
-    title: Metal & Especiales
-    description: Instalación experta de techos de metal, techos de ladrillos, techos de ladrillos y techos de ladrillos y techos de ladrillos.
-    iconName: i-heroicons-shield-check
-    link: /contact
-  - id: 3
-    title: Techos Planos Comerciales
-    description: Especialistas en techos planos y instaladores aprobados para techos planos y techos planos y techos planos.
-    iconName: i-heroicons-clipboard-document-check
-    link: /contact
-  - id: 4
-    title: Reparaciones & Mantenimiento
-    description: Reparaciones de techos, punteadas, reparaciones de techos, limpieza de techos, y techos de techos.
+    title: Reparación de Techos
+    description: Respuesta rápida para goteras, daños por tormentas y mantenimiento general.
     iconName: i-heroicons-wrench-screwdriver
-    link: /contact
+    link: /es/reparacion-de-techos-wilmington-nc
+  - id: 3
+    title: Techado Comercial
+    description: Sistemas especializados de techo plano incluyendo TPO, EPDM y membranas impermeables.
+    iconName: i-heroicons-building-office
+    link: /es/techado-comercial-wilmington-nc
+  - id: 4
+    title: Reparación de Emergencia
+    description: Respuesta de emergencia 24/7 para daños por tormentas y problemas urgentes.
+    iconName: i-heroicons-bolt
+    link: /es/reparacion-de-emergencia-wilmington-nc
   - id: 5
-    title: Gutter, Fascia & Soffits
-    description: Protección exterior completa incluyendo fascia, soffits, y techos de techos.
-    iconName: i-heroicons-home-modern
-    link: /contact
+    title: Techado Residencial
+    description: Soluciones enfocadas para propietarios, desde inspecciones hasta techado completo.
+    iconName: i-heroicons-user-group
+    link: /es/techado-residencial-wilmington-nc
   - id: 6
-    title: Inspecciones & Informes
-    description: Evaluaciones detalladas de techos y informes para transacciones inmobiliarias, reclamaciones de seguros, o mantenimiento preventivo.
-    iconName: i-heroicons-clipboard-document-list
-    link: /contact
+    title: Techos de Metal
+    description: Sistemas de techado de metal duraderos y resistentes a huracanes para casas costeras.
+    iconName: i-heroicons-shield-check
+    link: /es/techos-de-metal-wilmington-nc
+  - id: 7
+    title: Canaletas y Fascia
+    description: Instalación de canaletas de aluminio sin costura y reparación de fascia/sofito.
+    iconName: i-heroicons-home-modern
+    link: /es/canaletas-wilmington-nc
 ---
 ::
+
+<div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
+
+## Servicios Especializados de Techado en Wilmington NC
+
+Mendoza Roofing LLC ofrece soluciones integrales de techado adaptadas a la costa de Carolina del Norte. Con más de **50 años de experiencia**, entendemos los desafíos únicos del aire salado, los vientos fuertes y el sol intenso.
+
+### Techado Residencial
+Cuidamos su hogar como si fuera el nuestro. Nuestros servicios residenciales incluyen reemplazos completos de techos, reparaciones de goteras e inspecciones expertas para asegurar que su familia esté seca y segura. [Más sobre techado residencial →](/es/techado-residencial-wilmington-nc)
+
+### Techado Comercial
+Nuestro equipo comercial maneja sistemas de techos planos para empresas, almacenes y propiedades industriales. Especialistas en instalaciones de TPO y EPDM que mejoran la eficiencia energética y la durabilidad a largo plazo. [Más sobre techado comercial →](/es/techado-comercial-wilmington-nc)
+
+### Daños por Tormentas y Reparaciones de Emergencia
+Cuando azota un huracán o una tormenta importante, necesita un contratista local que responda al teléfono. Ofrecemos estabilización de emergencia 24/7 para prevenir daños adicionales a su propiedad. [Servicios de emergencia →](/es/reparacion-de-emergencia-wilmington-nc)
+
+</div>
 
 ::AppCta
 ---

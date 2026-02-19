@@ -144,6 +144,43 @@ At **Mendoza Roofing**, we always explain both options so you can choose what ma
 
 ---
 
+---
+
+## 5. Emergency vs. Scheduled Repair Costs
+
+In Wilmington, the timing of your repair can impact the final bill. If you find a leak during a massive storm at 2 AM, you need **Emergency Roof Repair**.
+
+### Emergency Tarping and Stabilization
+Before a permanent fix can happen, we often need to "tarp" the roof to stop further water damage. 
+- **Tarping only:** Typically **\$250 - \$600** depending on the size and pitch of the roof.
+- **After-hours service fee:** Most contractors (including Mendoza Roofing) charge an additional dispatch or emergency fee for 24/7 response, usually ranging from **\$100 - \$300**.
+
+While emergency repairs are more expensive upfront, they save you thousands by preventing ceiling collapse, mold growth, and ruined insulation.
+
+---
+
+## 6. The Homeowners Insurance Claim Process for Roof Damage
+
+Since Wilmington and Brunswick County are frequently hit by hurricanes and tropical storms, many roof repairs are covered by insurance. Here is how the process works:
+
+1.  **Professional Inspection:** Call a local expert like **Mendoza Roofing** first. We document the damage with photos and provide an estimate.
+2.  **File the Claim:** Contact your insurance company with our report.
+3.  **Adjuster Meeting:** Most adjusters appreciate having a contractor present to point out specific wind or hail damage. We can meet your adjuster on-site.
+4.  **Approval & Work:** Once approved, you typically only pay your deductible, and the insurance covers the rest.
+
+**Crucial Tip:** Insurance generally covers *storm damage* but not *wear and tear*. If your 30-year-old roof is just leaking because it's old, insurance likely won't pay.
+
+---
+
+## 7. Seasonal Pricing and Hurricane Season Factors
+
+In Coastal NC, the "Busy Season" for roofing is **June through November** (Hurricane Season).
+
+- **The Demand Factor:** After a named storm, every roofing crew in the state will be booked. Prices can sometimes rise due to the scarcity of labor and materials.
+- **The "Off-Season" Advantage:** Scheduling repairs in the winter or early spring can often lead to faster turnarounds and sometimes more competitive pricing.
+
+---
+
 ## How to Save Money on Roof Repairs in Wilmington, NC
 
 Here are a few ways homeowners in Brunswick County and Wilmington can keep repair costs under control:
@@ -154,8 +191,8 @@ Here are a few ways homeowners in Brunswick County and Wilmington can keep repai
 2. **Schedule regular roof inspections.**  
    Having your roof inspected (especially after major storms) helps catch loose shingles, cracked flashing, and early damage before it spreads.
 
-3. **Clean gutters and check around chimneys and skylights.**  
-   Many leaks start where water backs up or where flashing fails. Basic maintenance can prevent costly repairs.
+3. **Check Your Deductible.**  
+   Some NC policies have a separate "Named Storm" or "Wind/Hail" deductible. Know your numbers before you file a claim.
 
 4. **Work with a trusted local roofing contractor.**  
    An experienced local roofer understands **coastal NC weather**, building codes, and the best materials to handle heat, humidity, and high winds.
