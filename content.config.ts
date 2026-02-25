@@ -66,6 +66,11 @@ export default defineContentConfig({
           prefix: 'es',
         },
         schema: blogSchema,
+      }, {
+        name: 'content_es',
+        onUrl(url) {
+          url.loc = `/es${url.loc}`
+        },
       })
     ),
   },
