@@ -15,6 +15,11 @@ export default defineNuxtConfig({
     viteEnvironmentApi: true,
     typescriptPlugin: true
   },
+  runtimeConfig: {
+    public: {
+      // trailingSlash: false,
+    }
+  },
   future: {
     compatibilityVersion: 5
   },
@@ -81,7 +86,7 @@ export default defineNuxtConfig({
     url: 'https://roofingmendoza.com/',
     name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
     defaultLocale: 'en',
-    // trailingSlash: true
+    trailingSlash: true
   },
   content: {
     build: {
