@@ -86,7 +86,7 @@ export default defineNuxtConfig({
     url: 'https://roofingmendoza.com/',
     name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
     defaultLocale: 'en',
-    trailingSlash: true
+    trailingSlash: false
   },
   content: {
     build: {
