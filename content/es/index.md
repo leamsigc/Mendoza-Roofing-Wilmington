@@ -132,6 +132,19 @@ link: /contact
 ## Áreas de Servicio
 
 - [Techos en el Condado de Brunswick](/es/brunswick-county-roofing) — Supply, Shallotte, Leland, Southport, Oak Island
+- [Techos en Wilmington NC](/es/wilmington-nc-roofing) — Servicios completos en la ciudad principal
+- [Techos en Supply NC](/es/techos-supply-nc) — Nuestra base local desde 1974
+- [Techos en Shallotte NC](/es/brunswick-county-roofing) — Comunidad costera del condado
+- [Techos en Leland NC](/es/techos-leland-nc) — Ciudad de rápido crecimiento
+- [Techos en Oak Island NC](/es/techos-oak-island-nc) — Propiedades costeras premium
+- [Techos en Southport NC](/es/brunswick-county-roofing) — Ciudad histórica costera
+
+## Otros Servicios
+
+- [Preguntas Frecuentes](/es/faq) — Respuestas a preguntas comunes sobre techos
+- [Nuestros Servicios](/es/services) — Lista completa de servicios de techado
+- [Contacto](/es/contact) — Solicite un estimado gratuito
+- [Herramientas para Propietarios](/es/tools) — Calculadora de costos y listas de verificación
 
 ## Artículos Recientes
 

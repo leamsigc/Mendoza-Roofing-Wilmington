@@ -56,12 +56,20 @@ ogImage:
 
 ## Service Areas
 
-- [Brunswick County Roofing](/brunswick-county-roofing)
-- [Supply NC Roofing](/supply-nc-roofing)
-- [Leland NC Roofing](/leland-nc-roofing)
-- [Oak Island NC Roofing](/oak-island-nc-roofing)
-- [Shallotte NC Roofing](/shallotte-nc-roofing)
-- [Southport NC Roofing](/southport-nc-roofing)
+- [Brunswick County Roofing](/brunswick-county-roofing) — Supply, Shallotte, Leland, Southport, Oak Island
+- [Wilmington NC Roofing](/wilmington-nc-roofing) — Complete services in Wilmington
+- [Supply NC Roofing](/supply-nc-roofing) — Our local base since 1974
+- [Shallotte NC Roofing](/shallotte-nc-roofing) — Coastal Brunswick County community
+- [Leland NC Roofing](/leland-nc-roofing) — Fast-growing city services
+- [Oak Island NC Roofing](/oak-island-nc-roofing) — Premium coastal properties
+- [Southport NC Roofing](/southport-nc-roofing) — Historic coastal town
+
+## Additional Services
+
+- [FAQ](/faq) — Answers to common roofing questions
+- [Our Services](/services) — Complete list of roofing services
+- [Contact](/contact) — Request a free estimate
+- [Homeowner Tools](/tools) — Cost calculator and checklists
 
 ## Free Homeowner Tools
 
