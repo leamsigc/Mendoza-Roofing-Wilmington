@@ -24,7 +24,7 @@ ogImage:
     description: 'Hurricane, wind & hail damage restoration. Fast emergency response nationwide. Call 910-367-7628!'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Storm Damage Repair'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Storm Damage Roof Repair in Brunswick County, NC"

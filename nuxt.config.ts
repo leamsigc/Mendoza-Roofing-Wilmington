@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      // trailingSlash: false,
+      trailingSlash: false,
     }
   },
   future: {
@@ -28,17 +28,13 @@ export default defineNuxtConfig({
       openAPI: true,
     },
     prerender: {
-      // enabled by default with nuxt generate, not required
       crawlLinks: true,
-      // add any routes to prerender
-      routes: ['/']
     }
   },
   modules: [
     '@nuxt/eslint',
     '@nuxt/hints',
     '@nuxtjs/seo',
-    '@nuxtjs/i18n',
     'nuxt-seo-utils',
     '@nuxt/image',
     '@nuxt/scripts',
@@ -48,6 +44,7 @@ export default defineNuxtConfig({
     'nuxt-vitalizer',
     'nuxt-umami',
     '@nuxt/content',
+    '@nuxtjs/i18n',
     '@vueuse/nuxt',
   ],
   // routeRules: {
@@ -161,8 +158,8 @@ export default defineNuxtConfig({
       { code: 'en', language: 'en-US', name: 'English', file: 'en.json' },
       { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' },
     ],
-    defaultLocale: 'en',
     strategy: 'prefix_except_default',
+    defaultLocale: 'en',
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: 'i18n_redirected',
@@ -190,6 +187,6 @@ export default defineNuxtConfig({
       pagesToRemove.forEach((page: NuxtPage) => {
         pages.splice(pages.indexOf(page), 1)
       })
-    }
+    },
   },
 })

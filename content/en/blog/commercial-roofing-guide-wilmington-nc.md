@@ -24,7 +24,7 @@ ogImage:
     description: 'Flat roof systems, costs, maintenance & choosing a commercial roofer in Wilmington NC. Expert advice from Mendoza Roofing.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Commercial Roofing Guide'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Commercial Roofing in Wilmington NC: A Business Owner Guide"

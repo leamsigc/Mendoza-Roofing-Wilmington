@@ -24,7 +24,7 @@ ogImage:
     description: 'How much does a new roof cost in Wilmington NC? Real price ranges for 2026 with expert guidance.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Roof Replacement Cost Guide'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "How Much Does Roof Replacement Cost in Wilmington NC? (2026 Guide)"

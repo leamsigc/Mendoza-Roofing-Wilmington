@@ -13,32 +13,26 @@ import type { Collections } from '@nuxt/content'
  */
 import { withLeadingSlash } from 'ufo'
 const route = useRoute()
-const collectionType = route.path.startsWith('/blogs/') ? 'blog' : 'content'
+const collectionType = 'content'
 const { locale, localeProperties } = useI18n()
 
-const slug = computed(() => {
-  const params = route.params.slug
-  if (!params) return '/'
-  return Array.isArray(params) ? withLeadingSlash(params.join('/')) : withLeadingSlash(String(params))
-})
+const slug = computed(() => Array.isArray(route.params.slug) ? withLeadingSlash(String(route.params.slug.join('/'))) : withLeadingSlash(String(route.params.slug)))
 
 const collection = (`${collectionType}_${locale.value}`) as keyof Collections
 
 const { data: page, refresh } = await useAsyncData(`page-${collection}-${slug.value}`, async () => {
-
-  const path = collectionType === 'blog' ? `${route.path.replace('/blogs', '')}` : route.path
-  let content = await queryCollection(collection).path(`${path}`).first()
-
-
-  // Fallback to default locale if content is missing
+  // Build collection name based on current locale
+  const collection = ('content_' + locale.value) as keyof Collections
+  const finalPath = `${locale.value === 'en' ? '' : `/${locale.value}`}${slug.value}`
+  const content = await queryCollection(collection).path(finalPath).first()
+  // Optional: fallback to default locale if content is missing
   if (!content && locale.value !== 'en') {
-    const defaultCollection = (`${collectionType}_en`) as keyof Collections;
-    content = await queryCollection(defaultCollection).path(`${slug.value}`).first()
+    return await queryCollection('content_en').path(slug.value).first()
   }
 
   return content
 }, {
-  watch: [locale],
+  watch: [locale], // Refetch when locale changes
 })
 
 useHead(page.value?.head || {})
@@ -53,9 +47,7 @@ defineOgImageComponent('BlogOgImage',
     headline: page.value?.ogImage?.props.headline || 'Roofing',
   }
 )
-watch(locale, () => {
-  refresh()
-})
+
 </script>
 
 <template>

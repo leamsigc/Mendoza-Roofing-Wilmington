@@ -24,7 +24,6 @@ ogImage:
     description: 'Avoid scams and poor workmanship. Here is what you need to look for before hiring a roofer in Brunswick County.'
     image: '/img/heroImage.png'
     headline: 'Hiring Guide'
-layout: 'blog'
 ---
 
 ::PageHero

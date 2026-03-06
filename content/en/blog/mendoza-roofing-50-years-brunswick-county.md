@@ -24,7 +24,7 @@ ogImage:
     description: 'The story behind Mendoza Roofing LLC — family-owned, community-rooted, and trusted since 1974.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Our Story'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Mendoza Roofing: Over 50 Years Serving Brunswick County NC"

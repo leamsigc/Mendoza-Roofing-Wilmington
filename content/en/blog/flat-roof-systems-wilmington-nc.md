@@ -24,7 +24,6 @@ ogImage:
     description: 'TPO, EPDM, and modified bitumen explained for commercial and residential buildings.'
     image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Flat Roof Guide'
-layout: 'blog-layout'
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Flat Roof Systems in Wilmington NC: TPO, EPDM & Modified Bitumen"

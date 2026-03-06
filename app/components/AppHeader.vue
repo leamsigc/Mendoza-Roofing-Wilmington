@@ -13,8 +13,8 @@ const links = computed(() => [
 ])
 
 
-const toggleLanguage = () => {
-    setLocale(locale.value === 'en' ? 'es' : 'en')
+const toggleLanguage = (locale: 'en' | 'es') => {
+    setLocale(locale)
 }
 definePageMeta({
     colorMode: 'dark',
@@ -44,8 +44,14 @@ definePageMeta({
             </nav>
 
             <div class="flex items-center gap-2">
-                <UButton color="secondary" variant="ghost" icon="i-heroicons-language" @click="toggleLanguage"
-                    class="hidden md:flex" title="Language toggle" />
+                <SwitchLocalePathLink locale="es" :class="{ 'text-gold-600 dark:text-gold-400': locale === 'es' }"
+                    @click="toggleLanguage('es')">
+                    Español
+                </SwitchLocalePathLink>
+                <SwitchLocalePathLink locale="en" @click="toggleLanguage('en')"
+                    :class="{ 'text-gold-600 dark:text-gold-400': locale === 'en' }">
+                    English
+                </SwitchLocalePathLink>
                 <UButton color="secondary" variant="ghost"
                     :icon="colorMode.preference === 'dark' ? 'i-heroicons-moon' : 'i-heroicons-sun'"
                     @click="$colorMode.preference = colorMode.preference === 'dark' ? 'light' : 'dark'"

@@ -24,7 +24,7 @@ ogImage:
     description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un Roofing.'
     image: '/img/heroImage.png'
     headline: 'Guía de Contratación'
-layout: 'blog'
+
 ---
 
 ## Eligiendo al Roofing adecuado

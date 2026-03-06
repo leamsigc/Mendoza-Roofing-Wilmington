@@ -24,7 +24,7 @@ ogImage:
     description: 'Steel, aluminum, copper — which metal roof is right for your NC home? Expert guide with costs, lifespan & more.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Metal Roofing Guide NC'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Metal Roofing in North Carolina: A Complete Guide"

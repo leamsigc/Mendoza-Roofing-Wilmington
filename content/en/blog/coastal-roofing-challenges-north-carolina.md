@@ -24,7 +24,7 @@ ogImage:
     description: 'How salt air, wind, hurricanes, and moisture affect coastal NC roofs — and how to protect your home.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Coastal Roofing Guide'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Coastal Roofing Challenges in North Carolina"

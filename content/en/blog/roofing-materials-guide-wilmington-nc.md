@@ -24,7 +24,7 @@ ogImage:
     description: 'Compare asphalt, metal, tile & flat roof materials for coastal NC homes. Expert guidance from Mendoza Roofing.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Roofing Materials Guide'
-layout: 'blog'
+
 schemaOrg:
   - "@type": "BlogPosting"
     headline: "Complete Guide to Roofing Materials in Wilmington NC"

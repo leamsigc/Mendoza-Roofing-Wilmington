@@ -33,7 +33,7 @@ ogImage:
     description: '24/7 emergency roof repair, insured roof replacement, and coastal metal roofing for Southport, St. James Plantation and Brunswick County. Free quotes from Mendoza Roofing LLC.'
     image: '/img/heroImage.png'
     headline: '24/7 Southport Roofing Experts'
-layout: 'blog'
+
 ---
 
 ::PageHero

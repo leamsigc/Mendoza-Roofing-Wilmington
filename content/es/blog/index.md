@@ -66,4 +66,7 @@ subtitle: Consejos de Expertos para Propietarios en Wilmington y el Condado de B
 10. [Encuentre el Mejor Contratista de Techos en Wilmington, NC](/es/blog/finding-the-right-roofing-contractor-in-wilmington-nc-surrounding-brunswick-county)
 > Las preguntas más importantes que debe hacer antes de contratar un techador.
 
+11. [Techado para Nuevas Construcciones](/es/blog/new-construction-roofing)
+> Nuestro proceso riguroso para nuevas construcciones - desde metal hasta asfalto.
+
 </div>

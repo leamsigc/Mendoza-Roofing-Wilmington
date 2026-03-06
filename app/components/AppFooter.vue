@@ -45,17 +45,17 @@ const { preference } = useColorMode()
                     <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">{{ t('nav.services') }}</h4>
                     <ul class="space-y-2 text-sm text-gray-400">
                         <li>
-                            <NuxtLinkLocale to="/services/" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
                                 Residential Roofing
                             </NuxtLinkLocale>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/services/" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
                                 Commercial Roofing
                             </NuxtLinkLocale>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/services/" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
                                 Repairs & Maintenance
                             </NuxtLinkLocale>
                         </li>
@@ -67,12 +67,12 @@ const { preference } = useColorMode()
                     <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">Links</h4>
                     <ul class="space-y-2 text-sm text-gray-400">
                         <li>
-                            <NuxtLinkLocale to="/about/" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/about" class="hover:text-gold-500">
                                 {{ t('nav.about') }}
                             </NuxtLinkLocale>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/contact/" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/contact" class="hover:text-gold-500">
                                 {{ t('nav.contact') }}
                             </NuxtLinkLocale>
                         </li>

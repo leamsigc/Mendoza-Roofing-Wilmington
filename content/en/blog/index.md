@@ -72,4 +72,13 @@ subtitle: Expert Advice for Wilmington & Brunswick County Homeowners
 12. [Flat Roof Systems in Wilmington NC: TPO, EPDM & Modified Bitumen](/blog/flat-roof-systems-wilmington-nc)
 > Compare flat roofing systems for commercial and residential buildings in coastal North Carolina.
 
+13. [The Mendoza Checklist: Hiring a Commercial Roofer in Wilmington, NC](/blog/commercial-roofing-company-in-wilmington-nc)
+> A practical checklist for business owners and property managers in Wilmington and Brunswick County.
+
+14. [New Construction Roofing Standards](/blog/new-construction-roofing)
+> Our rigorous process for new homes - from metal to asphalt, any material specification.
+
+15. [Roof Flashing: The Coastal Carolina Homeowner's Guide](/blog/roof-flashing-the-coastal-carolina-homeowner-s-guide-to-the-unsung-hero-of-a-leak-free-roof)
+> Why roof flashing fails so often in Wilmington, NC and how to prevent leaks.
+
 </div>

@@ -24,7 +24,7 @@ ogImage:
     description: 'Conozca nuestro riguroso proceso para nuevas viviendas.'
     image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Estándares'
-layout: 'blog'
+
 ---
 
 ## ¿Construyendo una nueva casa?

@@ -24,7 +24,7 @@ ogImage:
     description: 'Yes, we also do new constructions. Learn about our rigorous process for new homes.'
     image: '/img/roofingMendozaSolarPanels.png'
     headline: 'Standards'
-layout: 'blog'
+layout: 'blog-layout'
 ---
 
 ::PageHero
