@@ -105,14 +105,19 @@ export default defineNuxtConfig({
 
   schemaOrg: {
     identity: {
-      type: 'LocalBusiness',
-      name: 'Mendoza Roofing LLC',
+      // RoofingContractor is a specific Schema.org sub-type of LocalBusiness
+      // that gives AI systems (GPT-4, Perplexity) a precise entity classification
+      // for improved citability in AI-generated answers about roofing in NC.
+      type: 'RoofingContractor',
+      name: 'Roofing Mendoza LLC',
+      alternateName: ['Mendoza Roofing', 'Mendoza Roofing Company', 'Mendoza Roofing LLC'],
       logo: '/img/logo.png',
       image: '/img/MendozaRoofingShallotte.png',
       description: 'Licensed roofing contractors in Wilmington, Supply, and Brunswick County NC with 50+ years of experience. Expert roof repair, replacement, commercial roofing, and emergency services.',
       telephone: '910-367-7628',
       email: 'contact@roofingmendoza.com',
       url: 'https://roofingmendoza.com',
+      foundingDate: '1974',
       address: {
         streetAddress: 'P.O. Box 952',
         addressLocality: 'Supply',
@@ -137,7 +142,8 @@ export default defineNuxtConfig({
         { type: 'County', name: 'Brunswick County', containedInPlace: { type: 'State', name: 'North Carolina' } },
         { type: 'City', name: 'Shallotte', containedInPlace: { type: 'State', name: 'North Carolina' } },
         { type: 'City', name: 'Oak Island', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'City', name: 'Leland', containedInPlace: { type: 'State', name: 'North Carolina' } }
+        { type: 'City', name: 'Leland', containedInPlace: { type: 'State', name: 'North Carolina' } },
+        { type: 'City', name: 'Southport', containedInPlace: { type: 'State', name: 'North Carolina' } }
       ],
       priceRange: '$$',
       aggregateRating: {
@@ -150,6 +156,15 @@ export default defineNuxtConfig({
         'https://www.instagram.com/mendozaroofingnc'
       ]
     }
+  },
+
+  // nuxt-vitalizer: eliminate render-blocking entry CSS and excess preload hints
+  // that the SEO audit flagged across all 40 pages.
+  // disableStylesheets:'entry' removes the blocking /_nuxt/entry.[hash].css link.
+  // disablePreloadLinks prevents excessive <link rel="preload"> tags.
+  vitalizer: {
+    disableStylesheets: 'entry',
+    disablePreloadLinks: true,
   },
 
   i18n: {

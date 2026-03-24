@@ -27,7 +27,7 @@ schemaOrg:
   - "@type": "Service"
     name: "Roof Replacement in Wilmington NC"
     provider:
-      "@type": "LocalBusiness"
+      "@type": "RoofingContractor"
       name: "Mendoza Roofing LLC"
       telephone: "910-367-7628"
     areaServed:
