@@ -1,9 +1,9 @@
 ---
-title: 'Contáctenos – Estimado Gratis de Techado en Wilmington y el Condado de Brunswick NC'
+title: 'Contáctenos - Estimado Gratis de Techado en Wilmington y el Condado de Brunswick NC'
 description: 'Contacte a Mendoza Roofing para un estimado gratis de techo en Wilmington, Supply y el Condado de Brunswick NC. Llame al 910-367-7628 o complete nuestro formulario para respuesta el mismo día.'
 image:
   src: '/img/logoWhite.jpg'
-  alt: 'Contactar Mendoza Roofing – Estimados Gratis Wilmington NC'
+  alt: 'Contactar Mendoza Roofing - Estimados Gratis Wilmington NC'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
 head:
@@ -19,7 +19,7 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Contáctenos – Estimado Gratis de Techado'
+    title: 'Contáctenos - Estimado Gratis de Techado'
     description: 'Estimado de techo gratis en Wilmington y el Condado de Brunswick NC. Llame al 910-367-7628.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Póngase en Contacto'
@@ -40,15 +40,19 @@ schemaOrg:
         name: "¿Con qué rapidez responde Mendoza Roofing?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "Durante el horario normal de trabajo (lunes a viernes, 7am–6pm), nuestro equipo responde a solicitudes en línea el mismo día. Para emergencias fuera de horario, llame al 910-367-7628 para soporte urgente en Wilmington y el Condado de Brunswick."
+          text: "Durante el horario normal de trabajo (lunes a viernes, 7am-6pm), nuestro equipo responde a solicitudes en línea el mismo día. Para emergencias fuera de horario, llame al 910-367-7628 para soporte urgente en Wilmington y el Condado de Brunswick."
 ---
 
 ::PageHero
 ---
 title: Contáctenos Ahora
-subtitle: Estimado Gratis – Wilmington y el Condado de Brunswick NC
+subtitle: Estimado Gratis - Wilmington y el Condado de Brunswick NC
 ---
 ::
+
+
+<div class="container mx-auto px-4 py-24">
+
 
 ## Estimados Gratuitos y Servicio de Emergencia en Wilmington y el Condado de Brunswick
 
@@ -65,7 +69,7 @@ Para **goteras urgentes o daños causados por tormentas**, llamar es la forma m�
 - **Teléfono:** [910-367-7628](tel:9103677628)
 - **Correo electrónico:** [contact@roofingmendoza.com](mailto:contact@roofingmendoza.com)
 - **Dirección postal:** P.O. Box 952, Supply, NC 28462
-- **Horario de trabajo:** Lunes a viernes, 7:00 AM – 6:00 PM
+- **Horario de trabajo:** Lunes a viernes, 7:00 AM - 6:00 PM
 
 ---
 
@@ -95,7 +99,7 @@ Sí. En Mendoza Roofing atendemos a familias hispanas en Wilmington, Supply y to
 
 ### ¿Con qué rapidez responde Mendoza Roofing?
 
-Durante el horario normal de trabajo (lunes a viernes, 7am–6pm), nuestro equipo responde a solicitudes en línea el mismo día. Para emergencias fuera de horario, llame al [910-367-7628](tel:9103677628) para soporte urgente en Wilmington y el Condado de Brunswick.
+Durante el horario normal de trabajo (lunes a viernes, 7am-6pm), nuestro equipo responde a solicitudes en línea el mismo día. Para emergencias fuera de horario, llame al [910-367-7628](tel:9103677628) para soporte urgente en Wilmington y el Condado de Brunswick.
 
 ### ¿Qué información debo incluir al contactarlos?
 
@@ -109,3 +113,7 @@ Por favor comparta la dirección de su propiedad, tipo de techo si lo sabe (teja
 - [Reemplazo de Techo en Wilmington NC](/es/reemplazo-de-techo-wilmington-nc)
 - [Reparación de Emergencia 24/7](/es/reparacion-de-emergencia-wilmington-nc)
 - [Techado Comercial en Wilmington NC](/es/techado-comercial-wilmington-nc)
+
+
+
+</div>

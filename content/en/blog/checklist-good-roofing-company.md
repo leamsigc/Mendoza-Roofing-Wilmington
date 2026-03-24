@@ -1,5 +1,5 @@
 ---
-title: 'How to Choose a Roofing Contractor in Wilmington NC – The Mendoza Checklist'
+title: 'How to Choose a Roofing Contractor in Wilmington NC - The Mendoza Checklist'
 description: 'Use Mendoza Roofing's 10-point contractor checklist before hiring a roofer in Wilmington or Brunswick County NC. Avoid scams, unlicensed crews, and hidden costs with these practical tips.'
 image:
   src: '/img/heroImage.png'
@@ -26,7 +26,7 @@ ogImage:
     headline: 'Hiring Guide'
 schemaOrg:
   - "@type": "BlogPosting"
-    headline: "How to Choose a Roofing Contractor in Wilmington NC – The Mendoza Checklist"
+    headline: "How to Choose a Roofing Contractor in Wilmington NC - The Mendoza Checklist"
     author:
       "@type": "Person"
       name: "Mendoza Team"
@@ -103,14 +103,14 @@ Any contractor who cannot provide this in writing is not someone you should trus
 ### 6. Review the Warranty Carefully
 
 There are two types of warranties:
-- **Manufacturer warranty** — covers defects in the roofing material itself (typically 25–50 years for premium shingles)
-- **Workmanship warranty** — covers installation errors (typically 1–10 years)
+- **Manufacturer warranty** — covers defects in the roofing material itself (typically 25-50 years for premium shingles)
+- **Workmanship warranty** — covers installation errors (typically 1-10 years)
 
 For the manufacturer warranty to be valid, many brands require installation by a **certified applicator**. Confirm this — especially for premium products like GAF or CertainTeed.
 
 ### 7. Avoid Overly Large Down Payments
 
-A reasonable down payment is **10–15% of project cost** to cover initial material orders. Any contractor demanding 30–50% upfront — or asking for cash — should be viewed with extreme caution.
+A reasonable down payment is **10-15% of project cost** to cover initial material orders. Any contractor demanding 30-50% upfront — or asking for cash — should be viewed with extreme caution.
 
 ### 8. Confirm the Crew Is Not Subcontracted Without Oversight
 
