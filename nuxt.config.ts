@@ -159,14 +159,6 @@ export default defineNuxtConfig({
     }
   },
 
-  // nuxt-vitalizer: eliminate render-blocking entry CSS and excess preload hints
-  // that the SEO audit flagged across all 40 pages.
-  // disableStylesheets:'entry' removes the blocking /_nuxt/entry.[hash].css link.
-  // disablePreloadLinks prevents excessive <link rel="preload"> tags.
-  vitalizer: {
-    disableStylesheets: 'entry',
-    disablePreloadLinks: true,
-  },
 
   i18n: {
     baseUrl: process.env.NUXT_PUBLIC_BASE_URL,
