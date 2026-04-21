@@ -29,6 +29,7 @@ export default defineNuxtConfig({
     },
     prerender: {
       crawlLinks: true,
+      autoSubfolderIndex: false,
     }
   },
   modules: [
