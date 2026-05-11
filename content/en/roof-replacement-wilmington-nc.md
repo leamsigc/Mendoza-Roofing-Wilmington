@@ -1,5 +1,5 @@
 ---
-title: 'Roof Replacement in Wilmington NC | Mendoza Roofing LLC'
+title: 'Roof Replacement Near Me | Wilmington NC | Mendoza Roofing'
 description: 'Expert roof replacement in Wilmington NC. Asphalt shingles, metal, tile & flat roof systems. 50+ years experience, 5-star rated. Free estimates – call 910-367-7628 today!'
 image:
   src: '/img/MendozaRoofingShallotte.png'
@@ -75,9 +75,9 @@ subtitle: Expert Roof Replacement for Residential & Commercial Properties — Al
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roof Replacement in Wilmington, NC
+# Roof Replacement Near Me in Wilmington, NC
 
-Your roof is one of the most important investments you'll make in your home — and when it's time to replace it, you need a roofing company you can trust to do it right. **Mendoza Roofing LLC** has been completing **roof replacements in Wilmington NC** and throughout Brunswick County since **1974**.
+Your roof is one of the most important investments you'll make in your home — and when it's time to replace it, you need a roofing company you can trust to do it right. If you're searching "roof replacement near me", you've found the right team. **Mendoza Roofing LLC** has been completing roof replacements in Wilmington NC and throughout Brunswick County since **1974**.
 
 We've replaced thousands of roofs across the Wilmington area and know exactly what it takes to build a roof that stands up to coastal North Carolina's demanding weather conditions.
 

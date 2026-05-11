@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Contractor Oak Island NC | Mendoza Roofing LLC'
+title: 'Roofing Oak Island NC | Coastal Roofers'
 description: 'Expert roofing contractor on Oak Island NC. Coastal roof repair, replacement & storm damage restoration for beach homes. 50+ years Brunswick County experience. Free estimates – 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

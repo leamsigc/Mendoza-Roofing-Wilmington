@@ -82,9 +82,11 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://roofingmendoza.com/',
-    name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
+    name: 'Mendoza Roofing | Wilmington NC Roof Contractors | 50+ Years Experience',
     defaultLocale: 'en',
-    trailingSlash: false
+    trailingSlash: false,
+    description: 'Mendoza Roofing LLC: Wilmington NC\'s trusted roofers since 1974. Expert roof repairs, replacements & gutters. Residential & commercial. Free estimates. Call 910-367-7628',
+    twitter: '@roofingmendoza',
   },
   content: {
     build: {

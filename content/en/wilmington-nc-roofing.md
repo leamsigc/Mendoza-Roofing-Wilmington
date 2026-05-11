@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Contractors in Wilmington NC | Mendoza Roofing LLC'
+title: 'Roofing Companies Wilmington NC | Best Roofers Near Me'
 description: 'Top-rated roofing contractors in Wilmington NC. 50+ years experience in roof repair, replacement & commercial roofing. Licensed, insured & 5-star rated. Free estimates – call 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'
@@ -84,11 +84,11 @@ subtitle: 50+ Years Serving Wilmington & Brunswick County — Licensed, Insured 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractors in Wilmington, NC
+# Roofers Near Me in Wilmington, NC
 
-If you're searching for **roofing contractors in Wilmington NC**, you need a company you can trust — one that knows the coastal climate, responds quickly, and does the job right the first time.
+If you're searching for **roofers near me in Wilmington NC**, you've found the right team. You need a company you can trust — one that knows the coastal climate, responds quickly, and does the job right the first time.
 
-**Mendoza Roofing LLC** has been serving Wilmington, Supply, and all of Brunswick County since **1974**. With over 50 years of experience, we are one of the most trusted and established local roofing companies in the area.
+**Mendoza Roofing LLC** has been serving Wilmington, Supply, and all of Brunswick County since **1974**. With over 50 years of experience, we are one of the most trusted and established local roofing companies in the area. When you search "roofers near me," you get a team that already knows your neighborhood, your weather, and your roof.
 
 ---
 

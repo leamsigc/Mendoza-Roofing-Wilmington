@@ -1,15 +1,39 @@
 ---
-title: 'Mendoza Roofing | Wilmington NC Roofing Contractors'
-description: 'Trusted roofing contractors in Wilmington NC with 50+ years experience. Expert roof repair, replacement & installation for residential & commercial. Free estimates – call 910-367-7628!'
+title: 'Mendoza Roofing | Wilmington NC Roof Contractors | 50+ Years Experience'
+description: 'Mendoza Roofing LLC: Wilmington NC''s trusted roofers since 1974. Expert roof repairs, replacements & gutters. Residential & commercial. Free estimates. Call 910-367-7628'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Mendoza Roofing - Wilmington NC Roofing Contractors'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
+-schema:
+  type: FAQPage
+  questions:
+    - question: 'How long does a roof replacement take?'
+      answer: 'Most residential roof replacements take 1-3 days, depending on the size and complexity of your roof. We provide a detailed timeline during your free estimate.'
+    - question: 'Do you offer free estimates?'
+      answer: 'Yes! We offer free, no-obligation roof inspections and estimates. Call 910-367-7628 to schedule yours today.'
+    - question: 'Are you licensed and insured?'
+      answer: 'Yes, Mendoza Roofing LLC is fully licensed and insured in North Carolina. We serve Wilmington and Brunswick County with 50+ years of combined experience.'
+    - question: 'Do you work with insurance claims?'
+      answer: 'Yes, we have extensive experience working with insurance companies for storm damage and roof repair claims. We can help you navigate the claims process.'
+    - question: 'What types of roofing do you do?'
+      answer: 'We offer residential roofing, commercial roofing, metal roofing, shingles, flat roofs, roof repairs, and gutters. Serving Wilmington NC, Oak Island, Southport, Leland, and Shallotte.'
 head:
   meta:
     - name: 'keywords'
       content: 'roofing contractors wilmington nc, wilmington nc roofers, roofing companies wilmington nc, roofers wilmington nc, roof repair wilmington nc, roof replacement wilmington nc, roofing contractor wilmington nc, commercial roofing wilmington nc, residential roofing wilmington nc, brunswick county roofing, emergency roof repair wilmington nc, local roofers wilmington, roofing near me, mendoza roofing, mendoza roofing llc'
+    - name: 'geo.region'
+      content: 'US-NC'
+    - name: 'geo.placename'
+      content: 'Wilmington'
+    - property: 'og:type'
+      content: 'business.business'
+    - property: 'og:business:contact_info:phone_number'
+      content: '+1-910-367-7628'
+  link:
+    - rel: 'canonical'
+      href: 'https://roofingmendoza.com/'
 category: 'Home'
 author:
   name: 'Mendoza Team'
@@ -19,8 +43,8 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Mendoza Roofing | Wilmington NC Roofing Contractors'
-    description: 'Trusted roofing contractors in Wilmington NC with 50+ years experience. Free estimates – call 910-367-7628!'
+    title: 'Mendoza Roofing | Wilmington NC Roof Contractors'
+    description: "Wilmington NC's trusted roofing experts. 50+ years experience. Free estimates."
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Mendoza Roofing'
 ---

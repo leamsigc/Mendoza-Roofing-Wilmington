@@ -1,15 +1,39 @@
 ---
-title: 'Mendoza Roofing - Soluciones Premier'
-description: 'Contratista de Techos Premier en Wilmington y Supply, NC. Más de 50 años de experiencia.'
+title: 'Mendoza Roofing | Contratistas de Techos Wilmington NC | 50+ Años'
+description: 'Mendoza Roofing LLC: Los expertos en techos de Wilmington NC desde 1974. Reparaciones, reemplazos e instalaciones residenciales y comerciales. ¡Estimaciones gratis!'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Mendoza Roofing Inicio'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
+-schema:
+  type: FAQPage
+  questions:
+    - question: '¿Cuánto tiempo toma un reemplazo de techo?'
+      answer: 'La mayoría de los reemplazos de techo residencial toman 1-3 días, dependiendo del tamaño y complejidad. Proveemos un cronograma detallado durante su estimación gratis.'
+    - question: '¿Ofrecen estimaciones gratis?'
+      answer: '¡Sí! Ofrecemos inspecciones y estimaciones sin compromiso. Llame al 910-367-7628 para agendar.'
+    - question: '¿Están licenciados y asegurados?'
+      answer: 'Sí, Mendoza Roofing LLC está plenamente licenciado y asegurados en Carolina del Norte. Servimos a Wilmington y el Condado de Brunswick con más de 50 años de experiencia combinada.'
+    - question: '¿Trabajan con reclamaciones de seguros?'
+      answer: 'Sí, tenemos experiencia extensiva trabajando con compañías de seguros para daños por tormentas y reclamaciones. Podemos ayudarle a navegar el proceso.'
+    - question: '¿Qué tipos de techos hacen?'
+      answer: 'Ofrecemos techos residenciales, comerciales, de metal, tejas, techos planos, reparaciones y canaletas. Servimos a Wilmington NC, Oak Island, Southport, Leland y Shallotte.'
 head:
   meta:
     - name: 'keywords'
-      content: 'techos, wilmington, nc, contratista, reparación'
+      content: 'techos wilmington nc, contratistas de techos wilmington nc, empresas de techos wilmington nc, reparacion de techos wilmington nc, reemplazo de techos wilmington nc, techos comerciales wilmington nc, techos residenciales wilmington nc, condado de brunswick tejados, reparacion de emergencia wilmington nc, tejadores cerca de mi, mendoza roofing'
+    - name: 'geo.region'
+      content: 'US-NC'
+    - name: 'geo.placename'
+      content: 'Wilmington'
+    - property: 'og:type'
+      content: 'business.business'
+    - property: 'og:business:contact_info:phone_number'
+      content: '+1-910-367-7628'
+  link:
+    - rel: 'canonical'
+      href: 'https://roofingmendoza.com/es'
 category: 'Inicio'
 author:
   name: 'Equipo Mendoza'
@@ -19,8 +43,8 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Mendoza Roofing - Soluciones Premier'
-    description: 'Contratista de Techos Premier en Wilmington y Supply, NC. Más de 50 años de experiencia.'
+    title: 'Mendoza Roofing | Contratistas de Techos Wilmington NC'
+    description: 'Los expertos en techos de Wilmington NC. Más de 50 años de experiencia. Estimaciones gratis.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Mendoza Roofing'
 ---

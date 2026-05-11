@@ -1,5 +1,5 @@
 ---
-title: 'Commercial Roofing Services in Wilmington, NC | 50+ Years Experience | Free Estimate'
+title: 'Commercial Roofing Wilmington NC | Mendoza Roofing LLC'
 description: 'Expert commercial roofing in Wilmington NC. TPO, EPDM, metal & waterproofing systems. Free inspections, 24/7 emergency service & 50-year legacy.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
