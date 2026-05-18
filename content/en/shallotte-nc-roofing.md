@@ -1,6 +1,6 @@
 ---
 title: 'Roofing Shallotte NC | Local Roofers'
-description: 'Expert roofing contractor in Shallotte NC. Local roofers serving Shallotte, Ocean Isle Beach & coastal Brunswick County. Free estimates — call 910-367-7628!'
+description: 'Expert roofing in Shallotte NC. Serving Shallotte, Ocean Isle Beach & coastal Brunswick County. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing Contractor Shallotte NC - Mendoza Roofing'

@@ -1,6 +1,6 @@
 ---
-title: 'Southport, NC Roofing - 24/7 Roof Repair, Replacement & Metal Roofing | Mendoza Roofing LLC'
-description: 'Mendoza Roofing LLC provides 24/7 emergency roof repair, roof replacement, and premium metal roofing for Southport, St. James Plantation, Brunswick Plantation and Brunswick County. Fully licensed, fully insured, and always free quotes.'
+title: 'Southport NC Roofing | 24/7 Repair & Metal Roofs'
+description: '24/7 emergency roof repair & replacement in Southport NC. Licensed, insured & 50+ years experience. Free quotes. Call 910-367-7628.'
 image:
   src: '/img/heroImage.png'
   alt: 'Southport NC roofing and metal roofing for St. James Plantation'
@@ -29,10 +29,55 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Southport, NC Roofing - 24/7 Roof Repair, Replacement & Metal Roofing | Mendoza Roofing LLC'
-    description: '24/7 emergency roof repair, insured roof replacement, and coastal metal roofing for Southport, St. James Plantation and Brunswick County. Free quotes from Mendoza Roofing LLC.'
+title: 'Southport NC Roofing | 24/7 Repair & Metal'
+    description: 'Emergency roof repair, replacement & metal roofing for Southport NC. Free quotes from Mendoza Roofing.'
     image: '/img/heroImage.png'
-    headline: '24/7 Southport Roofing Experts'
+    headline: 'Southport NC Roofing'
+schemaOrg:
+  - "@type": "LocalBusiness"
+    name: "Mendoza Roofing LLC"
+    telephone: "910-367-7628"
+    email: "contact@roofingmendoza.com"
+    url: "https://roofingmendoza.com/southport-nc-roofing"
+    address:
+      "@type": "PostalAddress"
+      streetAddress: "P.O. Box 952"
+      addressLocality: "Supply"
+      addressRegion: "NC"
+      postalCode: "28462"
+      addressCountry: "US"
+    areaServed:
+      "@type": "City"
+      name: "Southport"
+      containedInPlace:
+        "@type": "State"
+        name: "North Carolina"
+    aggregateRating:
+      "@type": "AggregateRating"
+      ratingValue: "5.0"
+      reviewCount: "50"
+  - "@type": "FAQPage"
+    mainEntity:
+      - "@type": "Question"
+        name: "Do you offer 24/7 emergency roof repair in Southport NC?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes, Mendoza Roofing provides 24/7 emergency roof repair in Southport NC and all of Brunswick County. Call 910-367-7628 any time for storm damage, active leaks, and urgent roof issues."
+      - "@type": "Question"
+        name: "What roofing materials work best for Southport coastal homes?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "For Southport's coastal environment, we recommend architectural asphalt shingles with high wind ratings, standing-seam metal roofing for maximum durability, or metal shingle systems. Metal roofing is especially popular in St. James Plantation and Brunswick Plantation for its salt-air resistance and 40-70 year lifespan."
+      - "@type": "Question"
+        name: "Are you licensed and insured for roofing in Southport?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes, Mendoza Roofing LLC is fully licensed by the North Carolina Licensing Board for General Contractors and carries both general liability insurance and workers' compensation coverage. We provide copies of our license and insurance certificates on request."
+      - "@type": "Question"
+        name: "Do you offer free roof replacement quotes in Southport?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes, we offer free, no-obligation roof replacement quotes in Southport NC. Our estimate includes on-site inspection, photo documentation, and a detailed written quote with no surprise add-ons or pressure sales tactics."
 
 ---
 

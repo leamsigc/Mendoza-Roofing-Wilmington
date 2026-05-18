@@ -1,6 +1,6 @@
 ---
 title: 'Roofing Oak Island NC | Coastal Roofers'
-description: 'Expert roofing contractor on Oak Island NC. Coastal roof repair, replacement & storm damage restoration for beach homes. 50+ years Brunswick County experience. Free estimates – 910-367-7628!'
+description: 'Expert roofing on Oak Island NC. Coastal roof repair, replacement & storm damage restoration. 50+ years experience. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractor Oak Island NC - beach home roofing'

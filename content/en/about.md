@@ -1,6 +1,6 @@
 ---
-title: 'About Mendoza Roofing LLC | 50+ Years in Wilmington & Brunswick County NC'
-description: 'Mendoza Roofing LLC - trusted roofing contractor in Wilmington NC and Brunswick County since 1974. Licensed, insured, family-owned with 50+ years local experience. Call 910-367-7628!'
+title: 'About Us | Wilmington NC Since 1974'
+description: 'Family-owned roofing contractor in Wilmington NC since 1974. Licensed, insured & 5-star rated. 50+ years local experience. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'About Mendoza Roofing LLC - Wilmington NC roofing contractor'

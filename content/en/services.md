@@ -1,6 +1,6 @@
 ---
-title: 'Our Services'
-description: 'Full range of residential and commercial roofing services in Wilmington & Supply, NC. From repair to replacement.'
+title: 'Roofing Services Wilmington NC'
+description: 'Full range of residential and commercial roofing services in Wilmington NC. Roof repair, replacement, metal roofing & gutters. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Roofing Services'
@@ -19,10 +19,28 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Our Services'
-    description: 'Full range of residential and commercial roofing services in Wilmington & Supply, NC.'
+    title: 'Roofing Services Wilmington NC'
+    description: 'Residential & commercial roofing services in Wilmington NC. Free estimates.'
     image: '/img/MendozaRoofingShallotte.png'
-    headline: 'Services'
+    headline: 'Our Services'
+schemaOrg:
+  - "@type": "FAQPage"
+    mainEntity:
+      - "@type": "Question"
+        name: "What roofing services do you offer in Wilmington NC?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Mendoza Roofing offers roof replacement, roof repair, commercial roofing, emergency repair, residential roofing, metal roofing, gutter installation, and roof maintenance & inspections throughout Wilmington NC and Brunswick County."
+      - "@type": "Question"
+        name: "Do you offer emergency roofing services?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes, we provide 24/7 emergency roof repair in Wilmington NC and all surrounding areas. Call 910-367-7628 for immediate response to storm damage, active leaks, and urgent roof issues."
+      - "@type": "Question"
+        name: "What areas do you serve?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "We serve Wilmington NC and all of Brunswick County including Supply, Shallotte, Leland, Southport, Oak Island, Calabash, and surrounding coastal communities."
 ---
 
 ::PageHero

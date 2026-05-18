@@ -1,6 +1,6 @@
 ---
 title: 'Roofing Brunswick County NC | Local Roofers'
-description: 'Expert roofing services throughout Brunswick County NC. Roof repair, replacement & commercial roofing in Supply, Shallotte, Leland, Oak Island & more. 50+ years local experience. Call 910-367-7628!'
+description: 'Expert roofing throughout Brunswick County NC. Repair, replacement & commercial roofing in Supply, Shallotte, Leland & more. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractor Brunswick County NC'

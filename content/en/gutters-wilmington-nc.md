@@ -1,6 +1,6 @@
 ---
-title: 'Gutter Installation & Repair Wilmington NC | Mendoza Roofing'
-description: 'Expert gutter installation and repair in Wilmington NC. Seamless gutters, downspouts, fascia & soffit. 50+ years experience. Free estimates – call 910-367-7628!'
+title: 'Gutter Installation & Repair Wilmington NC'
+description: 'Gutter installation & repair in Wilmington NC. Seamless gutters, downspouts, fascia & soffit. 50+ years experience. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Gutter installation Wilmington NC'

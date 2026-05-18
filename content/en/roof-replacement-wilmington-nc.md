@@ -1,6 +1,6 @@
 ---
-title: 'Roof Replacement Near Me | Wilmington NC | Mendoza Roofing'
-description: 'Expert roof replacement in Wilmington NC. Asphalt shingles, metal, tile & flat roof systems. 50+ years experience, 5-star rated. Free estimates – call 910-367-7628 today!'
+title: 'Roof Replacement Near Me | Wilmington NC'
+description: 'Expert roof replacement in Wilmington NC. Asphalt shingles, metal, tile & flat roofs. 50+ years experience. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roof replacement Wilmington NC - Mendoza Roofing'

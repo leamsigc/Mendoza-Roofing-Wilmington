@@ -1,6 +1,6 @@
 ---
-title: 'Commercial Roofing Wilmington NC | Mendoza Roofing LLC'
-description: 'Expert commercial roofing in Wilmington NC. TPO, EPDM, metal & waterproofing systems. Free inspections, 24/7 emergency service & 50-year legacy.'
+title: 'Commercial Roofing Wilmington NC'
+description: 'Expert commercial roofing in Wilmington NC. TPO, EPDM, metal & waterproofing. Free inspections & 24/7 emergency service. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Commercial roofing Wilmington NC - Mendoza Roofing LLC'

@@ -1,6 +1,6 @@
 ---
-title: 'Contact Mendoza Roofing - Free Estimates in Wilmington & Brunswick County NC'
-description: 'Contact Mendoza Roofing for a free roof estimate in Wilmington, Supply, and Brunswick County NC. Call 910-367-7628 or fill out our form for same-day response on repairs and emergencies.'
+title: 'Contact Us | Free Estimates Wilmington NC'
+description: 'Get a free roof estimate in Wilmington NC & Brunswick County. Call 910-367-7628 or fill out our form. Same-day response on repairs & emergencies.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Contact Mendoza Roofing - Free Estimates Wilmington NC'

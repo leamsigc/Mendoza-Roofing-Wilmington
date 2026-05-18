@@ -1,6 +1,6 @@
 ---
 title: 'Roofing Supply NC | Local Roofers'
-description: 'Local roofing contractor based in Supply, NC. Roof repair, replacement & commercial roofing throughout Supply and all of Brunswick County. Free estimates – call 910-367-7628!'
+description: 'Local roofing contractor in Supply NC. Roof repair, replacement & commercial roofing throughout Brunswick County. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractor Supply NC - Mendoza Roofing'

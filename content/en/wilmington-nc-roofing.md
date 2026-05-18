@@ -1,6 +1,6 @@
 ---
-title: 'Roofing Companies Wilmington NC | Best Roofers Near Me'
-description: 'Top-rated roofing contractors in Wilmington NC. 50+ years experience in roof repair, replacement & commercial roofing. Licensed, insured & 5-star rated. Free estimates – call 910-367-7628!'
+title: 'Wilmington NC Roofing | Repair & Replacement'
+description: 'Top-rated roofing contractors in Wilmington NC. 50+ years experience. Licensed, insured & 5-star rated. Free estimates.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractors in Wilmington NC - Mendoza Roofing'

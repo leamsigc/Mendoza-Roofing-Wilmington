@@ -1,24 +1,39 @@
 ---
-title: 'Mendoza Roofing | Wilmington NC Roof Contractors | 50+ Years Experience'
-description: 'Mendoza Roofing LLC: Wilmington NC''s trusted roofers since 1974. Expert roof repairs, replacements & gutters. Residential & commercial. Free estimates. Call 910-367-7628'
+title: 'Wilmington NC Roofing Contractor Since 1974'
+description: "Wilmington NC's trusted roofing contractor since 1974. Roof repair, replacement & commercial roofing. Free estimates. Call 910-367-7628."
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Mendoza Roofing - Wilmington NC Roofing Contractors'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
--schema:
-  type: FAQPage
-  questions:
-    - question: 'How long does a roof replacement take?'
-      answer: 'Most residential roof replacements take 1-3 days, depending on the size and complexity of your roof. We provide a detailed timeline during your free estimate.'
-    - question: 'Do you offer free estimates?'
-      answer: 'Yes! We offer free, no-obligation roof inspections and estimates. Call 910-367-7628 to schedule yours today.'
-    - question: 'Are you licensed and insured?'
-      answer: 'Yes, Mendoza Roofing LLC is fully licensed and insured in North Carolina. We serve Wilmington and Brunswick County with 50+ years of combined experience.'
-    - question: 'Do you work with insurance claims?'
-      answer: 'Yes, we have extensive experience working with insurance companies for storm damage and roof repair claims. We can help you navigate the claims process.'
-    - question: 'What types of roofing do you do?'
-      answer: 'We offer residential roofing, commercial roofing, metal roofing, shingles, flat roofs, roof repairs, and gutters. Serving Wilmington NC, Oak Island, Southport, Leland, and Shallotte.'
+schemaOrg:
+  - "@type": "FAQPage"
+    mainEntity:
+      - "@type": "Question"
+        name: "How long does a roof replacement take?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Most residential roof replacements in Wilmington NC take 1-3 days, depending on the size and complexity of your roof. Mendoza Roofing provides a detailed timeline during your free estimate."
+      - "@type": "Question"
+        name: "Do you offer free estimates?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes! Mendoza Roofing offers free, no-obligation roof inspections and estimates throughout Wilmington NC and Brunswick County. Call 910-367-7628 to schedule yours today."
+      - "@type": "Question"
+        name: "Are you licensed and insured?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes, Mendoza Roofing LLC is fully licensed and insured in North Carolina. We serve Wilmington and Brunswick County with 50+ years of combined experience."
+      - "@type": "Question"
+        name: "Do you work with insurance claims?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes, we have extensive experience working with insurance companies for storm damage and roof repair claims. We can help you navigate the claims process from inspection to settlement."
+      - "@type": "Question"
+        name: "What types of roofing do you install?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "We offer residential roofing, commercial roofing, metal roofing, asphalt shingles, flat roofs (TPO/EPDM), roof repairs, and gutter installation. Serving Wilmington NC, Oak Island, Southport, Leland, and Shallotte."
 head:
   meta:
     - name: 'keywords'
@@ -43,7 +58,7 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Mendoza Roofing | Wilmington NC Roof Contractors'
+    title: 'Mendoza Roofing | Wilmington NC'
     description: "Wilmington NC's trusted roofing experts. 50+ years experience. Free estimates."
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Mendoza Roofing'

@@ -82,10 +82,10 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://roofingmendoza.com/',
-    name: 'Mendoza Roofing | Wilmington NC Roof Contractors | 50+ Years Experience',
+    name: 'Mendoza Roofing',
     defaultLocale: 'en',
     trailingSlash: false,
-    description: 'Mendoza Roofing LLC: Wilmington NC\'s trusted roofers since 1974. Expert roof repairs, replacements & gutters. Residential & commercial. Free estimates. Call 910-367-7628',
+    description: "Wilmington NC's trusted roofing contractor since 1974. Free estimates. Call 910-367-7628.",
     twitter: '@roofingmendoza',
   },
   content: {
@@ -108,14 +108,11 @@ export default defineNuxtConfig({
 
   schemaOrg: {
     identity: {
-      // RoofingContractor is a specific Schema.org sub-type of LocalBusiness
-      // that gives AI systems (GPT-4, Perplexity) a precise entity classification
-      // for improved citability in AI-generated answers about roofing in NC.
-      type: 'RoofingContractor',
-      name: 'Roofing Mendoza LLC',
-      alternateName: ['Mendoza Roofing', 'Mendoza Roofing Company', 'Mendoza Roofing LLC'],
-      logo: '/img/logo.png',
-      image: '/img/MendozaRoofingShallotte.png',
+      '@type': 'RoofingContractor',
+      name: 'Mendoza Roofing LLC',
+      alternateName: ['Mendoza Roofing', 'Mendoza Roofing Company'],
+      logo: 'https://roofingmendoza.com/img/logo.png',
+      image: 'https://roofingmendoza.com/img/MendozaRoofingShallotte.png',
       description: 'Licensed roofing contractors in Wilmington, Supply, and Brunswick County NC with 50+ years of experience. Expert roof repair, replacement, commercial roofing, and emergency services.',
       telephone: '910-367-7628',
       email: 'contact@roofingmendoza.com',

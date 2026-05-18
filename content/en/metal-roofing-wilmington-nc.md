@@ -1,6 +1,6 @@
 ---
-title: 'Metal Roofing Wilmington NC | Mendoza Roofing LLC'
-description: 'Expert metal roofing installation in Wilmington NC. Steel, aluminum & copper panels for coastal homes. 50+ years experience. Free estimates – 910-367-7628!'
+title: 'Metal Roofing Wilmington NC'
+description: 'Metal roofing installation in Wilmington NC. Steel, aluminum & copper for coastal homes. 50+ years experience. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Metal roofing Wilmington NC'
