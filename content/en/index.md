@@ -87,10 +87,12 @@ ogImage:
 - [Roofing Contractors Wilmington NC](/wilmington-nc-roofing) — Top-rated local roofers serving all of Wilmington
 - [Roof Repair Wilmington NC](/roof-repair-wilmington-nc) — Fast, reliable repair for leaks & storm damage
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc) — All materials, free estimates
+- [Roof Replacement Cost Guide](/roof-replacement-cost-wilmington-nc) — Real 2026 pricing for every material
 - [Commercial Roofing Wilmington NC](/commercial-roofing-wilmington-nc) — Flat roofs, TPO, EPDM & more
 - [Emergency Roof Repair Wilmington NC](/emergency-roof-repair-wilmington-nc) — 24/7 emergency response
 - [Residential Roofing Wilmington NC](/residential-roofing-wilmington-nc) — Complete home roofing services
 - [Metal Roofing Wilmington NC](/metal-roofing-wilmington-nc) — Coastal-grade standing seam & corrugated
+- [FORTIFIED Roof Wilmington NC](/fortified-roof-wilmington-nc) — Hurricane-resistant, IBHS certified
 - [Gutter Installation Wilmington NC](/gutters-wilmington-nc) — Seamless gutters & gutter guards
 
 ## Service Areas

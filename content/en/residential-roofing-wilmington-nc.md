@@ -1,6 +1,6 @@
 ---
-title: 'Residential Roofing Wilmington NC'
-description: 'Residential roofing in Wilmington NC. Installation, repair & replacement for all home styles. Licensed & insured. Free estimates. Call 910-367-7628.'
+title: 'Residential Roofing Wilmington NC | Home Roofers'
+description: 'Residential roofing in Wilmington NC. Installation, repair & replacement for all home styles. Licensed & insured. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Residential roofing Wilmington NC'

@@ -29,7 +29,7 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-title: 'Southport NC Roofing | 24/7 Repair & Metal'
+    title: 'Southport NC Roofing | 24/7 Repair & Metal'
     description: 'Emergency roof repair, replacement & metal roofing for Southport NC. Free quotes from Mendoza Roofing.'
     image: '/img/heroImage.png'
     headline: 'Southport NC Roofing'

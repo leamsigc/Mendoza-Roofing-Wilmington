@@ -1,6 +1,6 @@
 ---
-title: 'Roof Repair Wilmington NC'
-description: 'Expert roof repair in Wilmington NC. Fast service for leaks, storm damage & missing shingles. 50+ years experience. Free estimates. Call 910-367-7628.'
+title: 'Roof Repair Wilmington NC | Fast Leak & Storm Fix'
+description: 'Fast roof repair in Wilmington NC for leaks, storm damage & missing shingles. Same-day emergency service. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roof repair Wilmington NC - Mendoza Roofing'

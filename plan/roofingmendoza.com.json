@@ -1,0 +1,396 @@
+[
+  {
+    "date": "2026-04-21",
+    "traffic_snapshot": {
+      "clicks": 56,
+      "impressions": 16400,
+      "avg_ctr_pct": 0.3,
+      "avg_position": 27.2
+    },
+    "pagespeed_snapshot": {
+      "avg_score_mobile": null,
+      "avg_score_desktop": null,
+      "homepage_score_mobile": null,
+      "cwv_lcp_ms": null,
+      "cwv_inp_ms": null,
+      "cwv_cls": null,
+      "cwv_source": "lab"
+    },
+    "top_issues": [
+      {
+        "rank": 1,
+        "title": "Optimize homepage title tag",
+        "type": "title_tag",
+        "page": "/",
+        "metric": "107 chars truncated",
+        "expected_impact": "+50 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 2,
+        "title": "Add meta description",
+        "type": "meta_description",
+        "page": "/",
+        "metric": "missing",
+        "expected_impact": "+30 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 3,
+        "title": "Create Wilmington NC dedicated page",
+        "type": "content_gap",
+        "page": "/wilmington-nc-roofing",
+        "metric": "pos 36.1",
+        "expected_impact": "+25 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 4,
+        "title": "Add FAQPage schema",
+        "type": "schema",
+        "page": "/",
+        "metric": "FAQPage missing",
+        "expected_impact": "+15 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 5,
+        "title": "Fix position 11-20 queries",
+        "type": "content",
+        "page": "service pages",
+        "metric": "5 keywords pos 30-45",
+        "expected_impact": "+20 clicks/mo",
+        "status": "open"
+      }
+    ],
+    "resolved_from_previous": []
+  },
+  {
+    "date": "2026-05-04",
+    "traffic_snapshot": {
+      "clicks": 13,
+      "impressions": 8500,
+      "avg_ctr_pct": 0.15,
+      "avg_position": 32.5
+    },
+    "pagespeed_snapshot": {
+      "avg_score_mobile": 76,
+      "avg_score_desktop": 78,
+      "homepage_score_mobile": 75,
+      "cwv_lcp_ms": 2100,
+      "cwv_inp_ms": 180,
+      "cwv_cls": 0.05,
+      "cwv_source": "lab"
+    },
+    "top_issues": [
+      {
+        "rank": 1,
+        "title": "Fix homepage title tag",
+        "type": "title_tag",
+        "page": "/",
+        "metric": "107 chars truncated",
+        "expected_impact": "+50 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 2,
+        "title": "Improve title tags on high-impression service pages",
+        "type": "title_tag",
+        "page": "service pages",
+        "metric": "100+ chars truncated",
+        "expected_impact": "+80 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 3,
+        "title": "Improve rankings for position 30-40 queries",
+        "type": "content",
+        "page": "multiple",
+        "metric": "10 queries pos 30-40",
+        "expected_impact": "+120 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 4,
+        "title": "Add FAQ schema to service pages",
+        "type": "schema",
+        "page": "service pages",
+        "metric": "FAQPage missing",
+        "expected_impact": "+30 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 5,
+        "title": "Optimize meta descriptions for higher CTR",
+        "type": "meta_description",
+        "page": "homepage and service pages",
+        "metric": "weak CTAs",
+        "expected_impact": "+25 clicks/mo",
+        "status": "open"
+      }
+    ],
+    "resolved_from_previous": [
+      {
+        "rank": 2,
+        "title": "Add meta description",
+        "type": "meta_description",
+        "page": "/",
+        "metric": "missing",
+        "status": "resolved"
+      },
+      {
+        "rank": 4,
+        "title": "Add FAQPage schema",
+        "type": "schema",
+        "page": "/",
+        "metric": "FAQPage missing",
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "traffic_snapshot": {
+      "clicks": 10,
+      "impressions": 7500,
+      "avg_ctr_pct": 0.13,
+      "avg_position": 35.0
+    },
+    "pagespeed_snapshot": {
+      "avg_score_mobile": 76,
+      "avg_score_desktop": 78,
+      "homepage_score_mobile": 75,
+      "cwv_lcp_ms": 2100,
+      "cwv_inp_ms": 180,
+      "cwv_cls": 0.05,
+      "cwv_source": "lab"
+    },
+    "top_issues": [
+      {
+        "rank": 1,
+        "title": "Fix homepage title tag - REGRESSION",
+        "type": "title_tag",
+        "page": "/",
+        "metric": "109 chars (was 107)",
+        "expected_impact": "+30 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 2,
+        "title": "Fix meta descriptions - TOO LONG",
+        "type": "meta_description",
+        "page": "all pages",
+        "metric": "184 chars (was 156)",
+        "expected_impact": "+25 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 3,
+        "title": "Fix position 30-40 queries for CTR",
+        "type": "content",
+        "page": "service pages",
+        "metric": "10 queries pos 30-40",
+        "expected_impact": "+200 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 4,
+        "title": "Add FAQ schema to service pages",
+        "type": "schema",
+        "page": "service pages",
+        "metric": "FAQPage missing",
+        "expected_impact": "+15 clicks/mo",
+        "status": "open"
+      },
+      {
+        "rank": 5,
+        "title": "Fix service page title tags",
+        "type": "title_tag",
+        "page": "service pages",
+        "metric": "100+ chars",
+        "expected_impact": "+20 clicks/mo",
+        "status": "open"
+      }
+    ],
+    "resolved_from_previous": []
+  },
+  {
+    "date": "2026-05-18",
+    "traffic_snapshot": {
+      "clicks": 47,
+      "impressions": 20100,
+      "avg_ctr_pct": 0.2,
+      "avg_position": 25.0
+    },
+    "pagespeed_snapshot": {
+      "avg_score_mobile": null,
+      "avg_score_desktop": null,
+      "homepage_score_mobile": null,
+      "cwv_lcp_ms": null,
+      "cwv_inp_ms": null,
+      "cwv_cls": null,
+      "cwv_source": "lab"
+    },
+    "top_issues": [
+      {
+        "rank": 1,
+        "title": "Fix title tag duplication on ALL pages",
+        "type": "title_tag",
+        "page": "/",
+        "metric": "61 chars (was 145)",
+        "expected_impact": "+80 clicks/mo",
+        "status": "resolved"
+      },
+      {
+        "rank": 2,
+        "title": "Fix meta descriptions on all pages",
+        "type": "meta_description",
+        "page": "/southport-nc-roofing",
+        "metric": "131 chars (was 235)",
+        "expected_impact": "+40 clicks/mo",
+        "status": "resolved"
+      },
+      {
+        "rank": 3,
+        "title": "Create dedicated commercial roofing page",
+        "type": "content_gap",
+        "page": "/commercial-roofing-wilmington-nc",
+        "metric": "Page exists, optimized title/desc",
+        "expected_impact": "+60 clicks/mo",
+        "status": "resolved"
+      },
+      {
+        "rank": 4,
+        "title": "Fix schema errors: missing @type, relative URLs, incomplete sameAs",
+        "type": "schema",
+        "page": "all pages",
+        "metric": "@type fixed, URLs absolute, sameAs needs rebuild",
+        "expected_impact": "+20 clicks/mo",
+        "status": "partially_resolved"
+      },
+      {
+        "rank": 5,
+        "title": "Optimize titles for position 30-40 queries",
+        "type": "content",
+        "page": "multiple",
+        "metric": "Titles/descs optimized, awaiting Google re-crawl",
+        "expected_impact": "+100 clicks/mo",
+        "status": "in_progress"
+      }
+    ],
+    "resolved_from_previous": [
+      {
+        "rank": 1,
+        "title": "Fix title tag duplication on ALL pages",
+        "status": "resolved",
+        "verified": "2026-05-18",
+        "live_metric": "61 chars"
+      },
+      {
+        "rank": 2,
+        "title": "Fix meta descriptions on all pages",
+        "status": "resolved",
+        "verified": "2026-05-18",
+        "live_metric": "131-168 chars"
+      },
+      {
+        "rank": 4,
+        "title": "Add FAQ schema to service pages",
+        "status": "resolved",
+        "verified": "2026-05-18",
+        "live_metric": "FAQPage on 6 pages"
+      },
+      {
+        "rank": 5,
+        "title": "Fix service page title tags",
+        "status": "resolved",
+        "verified": "2026-05-18",
+        "live_metric": "43-66 chars"
+      }
+    ],
+    "live_verification": {
+      "date": "2026-05-18",
+      "url": "http://localhost:3000",
+      "pages_verified": [
+        {
+          "path": "/",
+          "title_length": 61,
+          "desc_length": 136,
+          "schema": "RoofingContractor",
+          "faq": 5,
+          "status": "pass"
+        },
+        {
+          "path": "/services",
+          "title_length": 48,
+          "desc_length": 161,
+          "schema": "RoofingContractor",
+          "faq": "yes",
+          "status": "pass"
+        },
+        {
+          "path": "/wilmington-nc-roofing",
+          "title_length": 62,
+          "desc_length": 168,
+          "schema": "RoofingContractor+LocalBusiness",
+          "faq": "yes",
+          "status": "warn_desc_over"
+        },
+        {
+          "path": "/southport-nc-roofing",
+          "title_length": 66,
+          "desc_length": 131,
+          "schema": "RoofingContractor+LocalBusiness",
+          "faq": "yes",
+          "status": "warn_title_over"
+        },
+        {
+          "path": "/commercial-roofing-wilmington-nc",
+          "title_length": 50,
+          "desc_length": 139,
+          "schema": "RoofingContractor+Service",
+          "faq": 4,
+          "status": "pass"
+        },
+        {
+          "path": "/roof-repair-wilmington-nc",
+          "title_length": 43,
+          "desc_length": 150,
+          "schema": "RoofingContractor+Service",
+          "faq": 3,
+          "status": "pass"
+        },
+        {
+          "path": "/roof-replacement-wilmington-nc",
+          "title_length": 58,
+          "desc_length": 142,
+          "schema": "RoofingContractor+Service",
+          "faq": 5,
+          "status": "pass"
+        },
+        {
+          "path": "/about",
+          "title_length": 53,
+          "desc_length": 141,
+          "schema": "RoofingContractor+LocalBusiness",
+          "faq": "no",
+          "status": "pass"
+        }
+      ],
+      "schema_verified": {
+        "roofing_contractor_type": "present_on_all_pages",
+        "faq_page_pages": [
+          "/",
+          "/services",
+          "/wilmington-nc-roofing",
+          "/southport-nc-roofing",
+          "/commercial-roofing-wilmington-nc",
+          "/roof-repair-wilmington-nc",
+          "/roof-replacement-wilmington-nc"
+        ],
+        "logo_image_absolute_urls": true,
+        "same_as_urls": "1_of_3_needs_rebuild"
+      }
+    }
+  }
+]

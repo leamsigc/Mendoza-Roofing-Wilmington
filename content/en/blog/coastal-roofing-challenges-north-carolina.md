@@ -170,6 +170,8 @@ Whether you need a repair, replacement quote, or just an honest assessment of yo
 
 **Related resources:**
 - [Roofing Contractors Wilmington NC](/wilmington-nc-roofing)
+- [FORTIFIED Roof Wilmington NC](/fortified-roof-wilmington-nc)
 - [Complete Guide to Roofing Materials in Wilmington NC](/blog/roofing-materials-guide-wilmington-nc)
 - [Storm Damage Roof Repair Brunswick County](/blog/storm-damage-roof-repair-brunswick-county)
 - [Metal Roofing Wilmington NC](/metal-roofing-wilmington-nc)
+- [Roof Replacement Cost Guide](/roof-replacement-cost-wilmington-nc)

@@ -126,5 +126,7 @@ Never accept a roof replacement quote without a professional in-person inspectio
 
 **Related resources:**
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc)
+- [Roof Replacement Cost Page](/roof-replacement-cost-wilmington-nc)
+- [FORTIFIED Roof Wilmington NC](/fortified-roof-wilmington-nc)
 - [How Much Does Roof Repair Cost in Wilmington NC?](/blog/roof-repair-cost-wilmington-nc)
 - [Roofing Materials Guide Wilmington NC](/blog/roofing-materials-guide-wilmington-nc)

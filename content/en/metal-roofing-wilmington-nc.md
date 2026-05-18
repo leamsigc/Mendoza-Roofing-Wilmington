@@ -1,6 +1,6 @@
 ---
-title: 'Metal Roofing Wilmington NC'
-description: 'Metal roofing installation in Wilmington NC. Steel, aluminum & copper for coastal homes. 50+ years experience. Free estimates. Call 910-367-7628.'
+title: 'Metal Roofing Wilmington NC | Hurricane-Resistant'
+description: 'Metal roofing installation in Wilmington NC. Steel, aluminum & copper for coastal homes. Hurricane-rated. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Metal roofing Wilmington NC'
@@ -50,6 +50,11 @@ schemaOrg:
         acceptedAnswer:
           "@type": "Answer"
           text: "For coastal Wilmington NC, we recommend standing seam aluminum with Kynar 500 coating for best salt air resistance, or Galvalume steel for homes more than a mile from the coast. Copper is premium-grade with exceptional corrosion resistance. Standard galvanized steel is not recommended near the coast."
+      - "@type": "Question"
+        name: "Can metal roofing qualify as a FORTIFIED Roof in Wilmington NC?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Yes. Standing seam metal roofing is one of the best materials for meeting IBHS FORTIFIED Roof standards in coastal North Carolina. Metal panels with proper fastening patterns easily exceed the 140+ mph wind uplift requirements. Mendoza Roofing installs metal roofs built to FORTIFIED specifications — ask about FORTIFIED certification when you request your estimate."
 ---
 
 ::PageHero
@@ -98,6 +103,22 @@ Metal roofing is one of the best investments for a coastal North Carolina home. 
 **Energy Efficiency**: Reflective metal panels reduce cooling costs by 10-25% in Wilmington's hot summers.
 
 **Low Maintenance**: No granules, no curling, no algae. Inspect fasteners periodically and you're done.
+
+---
+
+## Metal Roofing & FORTIFIED Roof Standards
+
+For Wilmington NC homeowners looking for maximum storm protection, metal roofing is one of the best materials for meeting **IBHS FORTIFIED Roof** standards. The FORTIFIED Roof program, developed by the Insurance Institute for Business & Home Safety, requires roofing systems to withstand 140+ mph wind uplift — something standing seam metal roofing exceeds naturally.
+
+**Why metal roofing qualifies for FORTIFIED certification:**
+- Standing seam panels with concealed clips resist wind uplift far better than nailed shingles
+- Metal panels interlock continuously — no individual shingles to blow off
+- Proper fastening patterns meet or exceed FORTIFIED wind-resistance requirements
+- Metal roofs installed to FORTIFIED specs can qualify homeowners for **insurance discounts** and **NC fortified roof grants** (up to $6,000 in some areas)
+
+Mendoza Roofing installs metal roofs built to FORTIFIED specifications. Ask about FORTIFIED certification when you request your free estimate.
+
+For more details on FORTIFIED roofing in Wilmington, see our [FORTIFIED Roof page](/fortified-roof-wilmington-nc).
 
 ---
 

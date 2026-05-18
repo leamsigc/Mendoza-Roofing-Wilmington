@@ -84,11 +84,16 @@ services:
     iconName: i-heroicons-shield-check
     link: /metal-roofing-wilmington-nc
   - id: 7
+    title: FORTIFIED Roof
+    description: IBHS-certified hurricane-resistant roofing with insurance discounts.
+    iconName: i-heroicons-shield-check
+    link: /fortified-roof-wilmington-nc
+  - id: 8
     title: Gutters & Fascia
     description: Seamless aluminum gutter installation and fascia/soffit repair.
     iconName: i-heroicons-home-modern
     link: /gutters-wilmington-nc
-  - id: 8
+  - id: 9
     title: Roof Maintenance & Inspections
     description: Annual inspections, chimney repair, pressure cleaning, and real estate reports.
     iconName: i-heroicons-magnifying-glass

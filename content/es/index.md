@@ -151,6 +151,8 @@ link: /contact
 - [Contratistas de Techos Wilmington NC](/es/wilmington-nc-roofing) — Techadores locales de confianza
 - [Reparación de Techos Wilmington NC](/es/reparacion-de-techos-wilmington-nc) — Respuesta rápida para goteras y tormentas
 - [Reemplazo de Techo Wilmington NC](/es/reemplazo-de-techo-wilmington-nc) — Todos los materiales, estimados gratis
+- [Techos de Metal Wilmington NC](/es/techos-de-metal-wilmington-nc) — Resistencia a huracanes
+- [Techo FORTIFIED Wilmington NC](/es/techado-fortified-wilmington-nc) — Certificado IBHS, descuentos en seguros
 - [Reparación de Emergencia 24/7](/es/reparacion-de-emergencia-wilmington-nc) — Disponibles toda la noche
 
 ## Áreas de Servicio

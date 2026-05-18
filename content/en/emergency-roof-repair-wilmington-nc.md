@@ -1,6 +1,6 @@
 ---
-title: 'Emergency Roof Repair Wilmington NC | 24/7'
-description: '24/7 emergency roof repair in Wilmington NC. Fast response to storm damage, active leaks & hurricanes. 50+ years experience. Call 910-367-7628.'
+title: 'Emergency Roof Repair Wilmington NC | 24/7 Response'
+description: '24/7 emergency roof repair in Wilmington NC. Fast response to storm damage, active leaks & hurricanes. Call now: 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Emergency roof repair Wilmington NC - 24/7 service'

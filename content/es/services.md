@@ -66,6 +66,11 @@ services:
     iconName: i-heroicons-shield-check
     link: /es/techos-de-metal-wilmington-nc
   - id: 7
+    title: Techo FORTIFIED
+    description: Techado resistente a huracanes certificado IBHS con descuentos en seguros.
+    iconName: i-heroicons-shield-check
+    link: /es/techado-fortified-wilmington-nc
+  - id: 8
     title: Canaletas y Fascia
     description: Instalación de canaletas de aluminio sin costura y reparación de fascia/sofito.
     iconName: i-heroicons-home-modern
