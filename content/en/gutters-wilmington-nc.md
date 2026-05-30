@@ -1,6 +1,6 @@
 ---
-title: 'Gutter Installation Wilmington NC | Seamless Gutters'
-description: 'Gutter installation & repair in Wilmington NC. Seamless aluminum gutters, downspouts, fascia & soffit. Free estimates. Call 910-367-7628.'
+title: 'Seamless Gutters Wilmington NC | Free Installation Estimate'
+description: 'Seamless gutter installation & repair in Wilmington NC. Aluminum gutters, downspouts, fascia, soffit & gutter guards. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Gutter installation Wilmington NC'

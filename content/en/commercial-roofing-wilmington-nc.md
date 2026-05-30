@@ -1,6 +1,6 @@
 ---
-title: 'Commercial Roofing Wilmington NC | Free Inspection'
-description: 'Commercial roofing in Wilmington NC since 1974. TPO, EPDM, metal & EDS waterproofing. Free inspections. Call 910-367-7628.'
+title: 'Commercial Roofing Wilmington NC | Free Inspection & Estimate'
+description: 'Commercial roofing in Wilmington NC since 1974. TPO, EPDM, metal & EDS waterproofing. Free on-site inspections. Licensed & insured. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Commercial roofing Wilmington NC - Mendoza Roofing LLC'

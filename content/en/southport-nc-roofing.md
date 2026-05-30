@@ -1,6 +1,6 @@
 ---
-title: 'Southport NC Roofing | 24/7 Repair & Metal Roofs'
-description: '24/7 emergency roof repair & replacement in Southport NC. Licensed, insured & 50+ years experience. Free quotes. Call 910-367-7628.'
+title: 'Southport NC Roofing Experts | 24/7 Emergency Roof Repair'
+description: '24/7 emergency roof repair & replacement in Southport NC by licensed, insured local roofers. Free quotes. 50+ years of experience. Call 910-367-7628.'
 image:
   src: '/img/heroImage.png'
   alt: 'Southport NC roofing and metal roofing for St. James Plantation'
