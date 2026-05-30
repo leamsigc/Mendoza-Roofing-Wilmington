@@ -29,7 +29,7 @@ definePageMeta({
                 <NuxtLinkLocale to="/"
                     class="flex items-center gap-1 font-oswald text-xl font-bold text-navy-900 dark:text-white overflow-hidden">
                     <NuxtImg
-                        :src="colorMode.preference !== 'dark' ? '/img/logoWhite.jpg' : '/img/logoTransparent-1-5-exact.png'"
+                        :src="colorMode.preference === 'dark' ? '/img/logoWhite.jpg' : '/img/logoTransparent-1-5-exact.png'"
                         alt="Mendoza Roofing"
                         :class="colorMode.preference === 'dark' ? 'w-14 h-12 object-contain' : 'w-24 h-16 object-contain'" />
                 </NuxtLinkLocale>

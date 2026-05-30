@@ -164,11 +164,16 @@ link: /contact
 - [Techos en Leland NC](/es/techos-leland-nc) — Ciudad de rápido crecimiento
 - [Techos en Oak Island NC](/es/techos-oak-island-nc) — Propiedades costeras premium
 - [Techos en Southport NC](/es/brunswick-county-roofing) — Ciudad histórica costera
+- [Techos en Calabash NC](/es/techado-calabash-nc) — Capital Mundial de los Mariscos
+- [Techos en Bolivia NC](/es/techado-bolivia-nc) — Sede del Condado de Brunswick
+- [Techos en Holden Beach NC](/es/techado-holden-beach-nc) — Techado de isla barrera
+- [Techado Costero NC](/es/techado-costero-carolina-del-norte) — Techado costero clasificado para huracanes
 
 ## Otros Servicios
 
 - [Preguntas Frecuentes](/es/faq) — Respuestas a preguntas comunes sobre techos
 - [Nuestros Servicios](/es/services) — Lista completa de servicios de techado
+- [Financiamiento para Techos](/es/opciones-financiamiento-techo-nc) — Planes de pago, ayuda con seguros y subvenciones FORTIFIED
 - [Contacto](/es/contact) — Solicite un estimado gratuito
 - [Herramientas para Propietarios](/es/tools) — Calculadora de costos y listas de verificación
 

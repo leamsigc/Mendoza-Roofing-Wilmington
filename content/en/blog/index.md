@@ -89,7 +89,18 @@ We focus on practical, local information — not generic national averages that 
 15. [Roof Flashing: The Coastal Carolina Homeowner's Guide](/blog/roof-flashing-the-coastal-carolina-homeowner-s-guide-to-the-unsung-hero-of-a-leak-free-roof)
 > Why roof flashing fails so often in Wilmington, NC and how to prevent leaks around chimneys, skylights, and vents.
 
+16. [7 Signs You Need a New Roof in Wilmington NC](/blog/7-signs-need-new-roof-wilmington-nc)
+> 7 warning signs your Wilmington NC home needs a new roof — from granule loss to daylight in the attic. Free inspections available.
+
+17. [How to Prepare Your Roof for Hurricane Season in Wilmington NC](/blog/prepare-roof-hurricane-season-wilmington-nc)
+> Essential steps to protect your Wilmington home before hurricane season — from inspections to emergency repairs.
+
+18. [Roof Repair vs. Replacement: What Wilmington Homeowners Need to Know](/blog/roof-repair-vs-replacement-wilmington-nc)
+> When to repair vs. replace your roof in Wilmington NC — cost comparisons, age factors, and expert recommendations.
+
 ---
+
+
 
 ## Roofing Blog FAQ
 

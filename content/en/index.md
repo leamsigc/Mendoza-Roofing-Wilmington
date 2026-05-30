@@ -104,11 +104,16 @@ ogImage:
 - [Leland NC Roofing](/leland-nc-roofing) — Fast-growing city services
 - [Oak Island NC Roofing](/oak-island-nc-roofing) — Premium coastal properties
 - [Southport NC Roofing](/southport-nc-roofing) — Historic coastal town
+- [Calabash NC Roofing](/calabash-nc-roofing) — Seafood Capital of the World
+- [Bolivia NC Roofing](/bolivia-nc-roofing) — Brunswick County seat
+- [Holden Beach NC Roofing](/holden-beach-nc-roofing) — Barrier island roofing
+- [Coastal Roofing NC](/coastal-roofing-north-carolina) — Hurricane-rated coastal roofing
 
 ## Additional Services
 
 - [FAQ](/faq) — Answers to common roofing questions
 - [Our Services](/services) — Complete list of roofing services
+- [Roof Financing Options](/roof-financing-options-nc) — Payment plans, insurance help & FORTIFIED grants
 - [Contact](/contact) — Request a free estimate
 - [Homeowner Tools](/tools) — Cost calculator and checklists
 
