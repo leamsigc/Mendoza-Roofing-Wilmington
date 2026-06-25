@@ -78,7 +78,7 @@ subtitle: Trusted Commercial Roofer for Warehouses, Businesses & Industrial Prop
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Commercial Roofing in Wilmington, NC
+## Commercial Roofing in Wilmington, NC
 
 For **commercial roofing in Wilmington NC**, your roof is more than a structure - it's a business asset. A failing commercial roof leads to water damage, downtime, higher insurance costs, and even safety risks.
 

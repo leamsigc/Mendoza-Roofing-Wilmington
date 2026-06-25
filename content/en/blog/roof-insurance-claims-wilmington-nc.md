@@ -65,7 +65,7 @@ subtitle: A step-by-step guide to getting your storm damage claim approved
 ---
 ::
 
-# How to File a Roof Insurance Claim in Wilmington, NC
+## How to File a Roof Insurance Claim in Wilmington, NC
 
 After a major storm hits Wilmington or Brunswick County, knowing how to navigate the insurance claim process can make the difference between getting your roof fixed right and fighting with your insurer for months.
 

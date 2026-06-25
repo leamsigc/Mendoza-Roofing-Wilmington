@@ -52,7 +52,7 @@ subtitle: Coastal Roofing Specialists for Beach Homes & Brunswick County Island 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractor on Oak Island, NC
+## Roofing Contractor on Oak Island, NC
 
 Roofing a beach home on **Oak Island, NC** requires specialized knowledge and materials that go beyond standard residential roofing. The combination of salt air, high winds, intense UV exposure, and periodic tropical storms creates one of the most demanding roofing environments in North Carolina.
 

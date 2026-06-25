@@ -47,7 +47,7 @@ subtitle: Serving Leland's Growing Communities with 50+ Years of Brunswick Count
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractor in Leland, NC
+## Roofing Contractor in Leland, NC
 
 **Leland, NC** has become one of the fastest-growing communities in North Carolina — and with that growth comes a high demand for quality, reliable roofing contractors. Whether you're in a newer development like Brunswick Forest or an established neighborhood, **Mendoza Roofing LLC** is the trusted local choice for all your roofing needs.
 

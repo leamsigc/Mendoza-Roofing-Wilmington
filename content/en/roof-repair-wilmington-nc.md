@@ -65,7 +65,7 @@ subtitle: Fast, Reliable Roof Leak Repair & Storm Damage Restoration Throughout 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roof Repair in Wilmington, NC
+## Roof Repair in Wilmington, NC
 
 A roof leak doesn't wait for a convenient time — and neither do we. **Mendoza Roofing LLC** provides fast, professional **roof repair in Wilmington NC** for homeowners and businesses throughout the area. Whether you have a small leak, storm damage, or a more serious structural concern, our experienced team diagnoses and fixes the problem right.
 

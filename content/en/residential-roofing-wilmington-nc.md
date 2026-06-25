@@ -57,7 +57,7 @@ subtitle: Complete Home Roofing Services — From New Construction to Full Repla
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Residential Roofing in Wilmington, NC
+## Residential Roofing in Wilmington, NC
 
 Your home is your most important investment — and your roof is what protects everything inside it. **Mendoza Roofing LLC** has been the trusted choice for **residential roofing in Wilmington NC** since 1974, serving thousands of homeowners across all of New Hanover and Brunswick County.
 

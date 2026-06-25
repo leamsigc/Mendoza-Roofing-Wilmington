@@ -1,6 +1,6 @@
 ---
-title: 'Roofing Calabash NC | Local Roofers'
-description: 'Roofing contractor in Calabash NC. Roof repair, replacement & storm damage repair for coastal homes. Free estimates. Call 910-367-7628.'
+title: 'Roofing Company Near Me Calabash NC | Trusted Local Roofers | Mendoza'
+description: 'Searching for a roofing company near me in Calabash NC? Local roofers serving Calabash & Brunswick County since 1974. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractor Calabash NC - Mendoza Roofing'
@@ -19,10 +19,10 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Roofing in Calabash, NC | Mendoza Roofing LLC'
+    title: 'Roofing Company Near Me Calabash NC | Mendoza Roofing'
     description: 'Local roofing contractor serving Calabash NC and surrounding Brunswick County communities. 50+ years experience. Free estimates!'
     image: '/img/MendozaRoofingShallotte.png'
-    headline: 'Calabash NC Roofing'
+    headline: 'Calabash NC Roofing Near Me'
 schemaOrg:
   - "@type": "LocalBusiness"
     name: "Mendoza Roofing LLC"
@@ -68,11 +68,19 @@ subtitle: Serving the Seafood Capital of the World & Western Brunswick County
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractor in Calabash, NC
+## Roofing Contractor in Calabash, NC
 
 **Calabash, NC** — known as the "Seafood Capital of the World" — is one of the fastest-growing communities in Brunswick County. Whether you're a year-round resident, a seasonal visitor, or a property investor, your roof faces the same coastal challenges that every Brunswick County homeowner deals with: hurricane-force winds, salt air from the Intracoastal Waterway and Atlantic, and 54+ inches of annual rainfall.
 
 **Mendoza Roofing LLC** has been roofing homes in Calabash and western Brunswick County since **1974**. Based in Supply NC — just 15 minutes from Calabash — we're your local roofing contractor with over 50 years of experience protecting coastal homes.
+
+---
+
+## Your Local Roofing Company Near Calabash NC
+
+If you're searching for a **"roofing company near me"** in the Calabash area, Mendoza Roofing is your local choice. Based just 15 minutes away in Supply NC, we've been serving Calabash homeowners since **1974**. We understand what it means to be a trusted local roofing company — we answer our own phones, show up on time, and stand behind every roof we install or repair.
+
+When you call us, you talk to your neighbors. No call centers, no franchises, no sales pressure — just honest roofing work from a crew that's been part of this community for over 50 years.
 
 ---
 

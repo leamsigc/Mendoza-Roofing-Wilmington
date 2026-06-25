@@ -62,7 +62,7 @@ subtitle: When Your Roof Fails, We Respond Fast — Any Time of Day or Night
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# 🚨 Emergency Roof Repair in Wilmington, NC — Call Now: [910-367-7628](tel:910-367-7628)
+## 🚨 Emergency Roof Repair in Wilmington, NC — Call Now: [910-367-7628](tel:910-367-7628)
 
 When your roof fails, every minute counts. Water intrusion, missing sections, and storm damage can escalate quickly into interior flooding, structural damage, and mold growth. **Mendoza Roofing LLC** offers **24/7 emergency roof repair** throughout Wilmington NC and all of Brunswick County.
 

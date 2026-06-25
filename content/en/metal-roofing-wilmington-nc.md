@@ -66,7 +66,7 @@ subtitle: Long-Lasting Metal Roof Installation for Coastal North Carolina Homes 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Metal Roofing in Wilmington, NC
+## Metal Roofing in Wilmington, NC
 
 Metal roofing is one of the best investments for a coastal North Carolina home. With a lifespan of **40-70+ years**, outstanding hurricane resistance, and minimal maintenance, it's the ideal choice for Wilmington homeowners who want a roof that lasts. **Mendoza Roofing LLC** has been installing metal roofs in Wilmington and Brunswick County since **1974**.
 

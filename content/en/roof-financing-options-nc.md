@@ -67,7 +67,7 @@ subtitle: Affordable Payment Plans, Insurance Help & FORTIFIED Grant Assistance
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roof Financing Options in North Carolina
+## Roof Financing Options in North Carolina
 
 A new roof is one of the most important investments you can make in your home — but we understand that the upfront cost can be a concern. That's why **Mendoza Roofing LLC** offers multiple financing options to make quality roofing affordable for every homeowner in North Carolina.
 

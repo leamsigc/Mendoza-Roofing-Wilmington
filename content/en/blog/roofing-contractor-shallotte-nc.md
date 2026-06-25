@@ -67,7 +67,7 @@ subtitle: Learn how to choose the right roofing contractor in Shallotte, NC, wha
 ---
 ::
 
-# Roofing Contractor in Shallotte, NC
+## Roofing Contractor in Shallotte, NC
 
 If you live in **Shallotte, NC** or nearby areas like **Ocean Isle Beach, Sunset Beach, Supply, or Holden Beach**, having a trusted **roofing contractor in Shallotte, NC** can save you stress and money when storms hit or your roof starts to age.
 

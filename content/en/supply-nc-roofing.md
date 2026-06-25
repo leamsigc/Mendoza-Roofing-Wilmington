@@ -57,7 +57,7 @@ subtitle: Our Home Base — Serving All of Brunswick County Since 1974
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractor in Supply, NC
+## Roofing Contractor in Supply, NC
 
 **Mendoza Roofing LLC is proud to call Supply, NC home.** Our mailing address — P.O. Box 952, Supply, NC 28462 — tells the story: we aren't a national chain or out-of-state company parachuting in after a storm. We're your neighbors, and we've been roofing homes and businesses in Supply and all of Brunswick County since **1974**.
 

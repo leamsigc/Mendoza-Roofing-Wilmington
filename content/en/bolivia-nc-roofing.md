@@ -68,7 +68,7 @@ subtitle: Serving the County Seat of Brunswick County & Surrounding Communities
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractor in Bolivia, NC
+## Roofing Contractor in Bolivia, NC
 
 **Bolivia, NC** — the county seat of Brunswick County — is a growing community at the heart of the region. As the Brunswick County government center, Bolivia is home to municipal buildings, professional offices, and residential neighborhoods that all need reliable roofing services.
 

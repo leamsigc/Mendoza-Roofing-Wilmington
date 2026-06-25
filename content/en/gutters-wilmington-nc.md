@@ -57,7 +57,7 @@ subtitle: Seamless Aluminum Gutters, Gutter Guards & Downspout Systems for Wilmi
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Gutter Installation & Repair in Wilmington, NC
+## Gutter Installation & Repair in Wilmington, NC
 
 A healthy gutter system is essential for protecting your Wilmington NC home from water damage. Poorly functioning gutters lead to foundation erosion, basement flooding, fascia rot, and landscape damage. **Mendoza Roofing LLC** provides professional gutter installation, repair, and replacement throughout Wilmington, Brunswick County, and all surrounding areas.
 

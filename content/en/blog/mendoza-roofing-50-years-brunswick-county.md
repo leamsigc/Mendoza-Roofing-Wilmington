@@ -8,6 +8,9 @@ tags: ['Mendoza Roofing', 'Company History', 'Brunswick County', 'Local Business
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
+  link:
+    - rel: 'canonical'
+      href: 'https://roofingmendoza.com/about'
   meta:
     - name: 'keywords'
       content: 'mendoza roofing, mendoza roofing llc, mendoza construction, mendoza roofing wilmington nc, mendoza roofing company, local roofing company brunswick county, roofing company history brunswick county'

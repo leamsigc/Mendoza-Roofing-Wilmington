@@ -68,7 +68,7 @@ subtitle: Hurricane-Rated Roofing for Brunswick County's Premier Barrier Island
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Contractor on Holden Beach, NC
+## Roofing Contractor on Holden Beach, NC
 
 **Holden Beach, NC** — one of North Carolina's most beautiful barrier islands — is home to vacation homes, rentals, and year-round residents who all face the same reality: direct Atlantic Ocean exposure means your roof takes the full force of every storm that hits the coast.
 

@@ -75,7 +75,7 @@ subtitle: Real Costs for Every Material — No Guesswork, No Hidden Fees
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roof Replacement Cost in Wilmington, NC
+## Roof Replacement Cost in Wilmington, NC
 
 If you're wondering how much a new roof costs in Wilmington NC, you're not alone — it's one of the most common questions we get. The honest answer: **it depends on your home's size, the material you choose, and the condition of your roof deck**. But we can give you real numbers.
 

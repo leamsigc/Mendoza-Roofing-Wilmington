@@ -64,7 +64,7 @@ subtitle: Trusted Local Roofers Serving Shallotte & Coastal Brunswick County Sin
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing Services in Shallotte, NC
+## Roofing Services in Shallotte, NC
 
 **Mendoza Roofing LLC** has been the roofing contractor of choice for homeowners and businesses in Shallotte, NC for over **50 years**. Based in nearby Supply, our crews know this coastal community inside and out — from the classic homes near the Shallotte River to the newer subdivisions along US-17.
 

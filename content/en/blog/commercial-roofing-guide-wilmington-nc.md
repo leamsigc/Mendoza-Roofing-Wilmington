@@ -8,6 +8,9 @@ tags: ['Commercial Roofing', 'Wilmington', 'Flat Roof', 'Business', 'Guide']
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
+  link:
+    - rel: 'canonical'
+      href: 'https://roofingmendoza.com/commercial-roofing-wilmington-nc'
   meta:
     - name: 'keywords'
       content: 'commercial roofing wilmington nc, commercial roof inspection in wilmington, commercial roof maintenance in wilmington, commercial roofing contractor wilmington, flat roof wilmington nc, commercial roofer wilmington nc'

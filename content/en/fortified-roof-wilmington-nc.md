@@ -75,7 +75,7 @@ subtitle: Hurricane-Resistant Roofing Built to IBHS Standards — Protect Your H
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# FORTIFIED Roof in Wilmington, NC
+## FORTIFIED Roof in Wilmington, NC
 
 Living on the North Carolina coast means your roof faces threats that inland homes never see: hurricane-force winds, driving rain, salt air corrosion, and hail. A **FORTIFIED Roof** is the gold standard for coastal home protection — a roofing system built to engineering standards that exceed normal building codes.
 

@@ -59,7 +59,7 @@ subtitle: Learn what roof flashing is, why it fails so often in Wilmington, NC, 
 ---
 ::
 
-# Roof Flashing in Wilmington, NC: Costs, Repairs, and Coastal Protection Guide
+## Roof Flashing in Wilmington, NC: Costs, Repairs, and Coastal Protection Guide
 
 If you're seeing stains on your ceiling or loose metal around your chimney, there's a good chance the problem isn't your shingles—it's your **roof flashing**.
 

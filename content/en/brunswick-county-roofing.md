@@ -1,6 +1,6 @@
 ---
-title: 'Roofing Brunswick County NC | Local Roofers'
-description: 'Expert roofing throughout Brunswick County NC. Repair, replacement & commercial roofing in Supply, Shallotte, Leland & more. Call 910-367-7628.'
+title: 'Roofing Company Near Me | Brunswick County NC Local Roofers | Mendoza Roofing'
+description: 'Looking for a roofing company near me in Brunswick County NC? Local roofers serving Supply, Shallotte, Leland, Calabash since 1974. 5-star rated. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractor Brunswick County NC'
@@ -19,10 +19,10 @@ author:
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Roofing in Brunswick County NC'
+    title: 'Roofing Company Near Me | Brunswick County NC'
     description: 'Trusted local roofing in Brunswick County NC — Supply, Shallotte, Leland, Oak Island & more. 50+ years experience.'
     image: '/img/MendozaRoofingShallotte.png'
-    headline: 'Brunswick County Roofers'
+    headline: 'Brunswick County Roofers Near Me'
 schemaOrg:
   - "@type": "LocalBusiness"
     name: "Mendoza Roofing LLC"
@@ -68,7 +68,7 @@ subtitle: Serving Supply, Shallotte, Leland, Oak Island & All of Brunswick Count
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Roofing in Brunswick County, NC
+## Roofing in Brunswick County, NC
 
 **Mendoza Roofing LLC** is **headquartered in Supply, NC** — right in the heart of Brunswick County. We've been the go-to roofing contractor for homeowners and business owners throughout Brunswick County since 1974.
 

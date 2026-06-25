@@ -62,7 +62,7 @@ subtitle: Prevention Is the Smartest Investment — Expert Roof Care Since 1974
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Professional Roof Maintenance in Wilmington, NC
+## Professional Roof Maintenance in Wilmington, NC
 
 The best way to protect your roof investment is a regular maintenance program. **Mendoza Roofing LLC** offers comprehensive roof maintenance and inspection services for homeowners and businesses throughout Wilmington, Brunswick County, and surrounding coastal communities.
 

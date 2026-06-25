@@ -72,7 +72,7 @@ subtitle: Hurricane-Resistant, Salt-Air Rated Roofing Built for the NC Coast
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Coastal Roofing in North Carolina
+## Coastal Roofing in North Carolina
 
 Roofing on the North Carolina coast is fundamentally different from roofing anywhere else in the state. Homes in Wilmington, Brunswick County, the Outer Banks, and the Crystal Coast face a combination of environmental stressors that inland homes never encounter: **hurricane-force winds, salt air corrosion, 54+ inches of annual rainfall, intense UV exposure, and high humidity**.
 
