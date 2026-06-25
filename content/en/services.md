@@ -108,19 +108,25 @@ services:
 Mendoza Roofing LLC provides comprehensive roofing solutions tailored for the North Carolina coast. With over **50 years of experience**, we understand the unique challenges of salt air, high winds, and intense sun.
 
 ### Residential Roofing
-We treat your home as if it were our own. Our residential services include complete roof replacements, leak repairs, and expert inspections to ensure your family stays dry and safe. [Learn more about residential roofing →](/residential-roofing-wilmington-nc)
+We treat your home as if it were our own. Our residential services include complete roof replacements, leak repairs, and expert inspections to ensure your family stays dry and safe. [Learn more about residential roofing →](/residential-roofing-wilmington-nc) | [Get a free inspection →](/free-roof-inspection-wilmington-nc)
 
 ### Commercial Roofing
-Our commercial team handles flat roof systems for businesses, warehouses, and industrial properties. We specialize in TPO and EPDM installations that improve energy efficiency and long-term durability. [Learn more about commercial roofing →](/commercial-roofing-wilmington-nc)
+Our commercial team handles flat roof systems for businesses, warehouses, and industrial properties. We specialize in TPO and EPDM installations that improve energy efficiency and long-term durability. [Learn more about commercial roofing →](/commercial-roofing-wilmington-nc) | [Schedule a commercial inspection →](/commercial-roof-inspection-wilmington-nc)
 
 ### Storm Damage & Emergency Repairs
-When a hurricane or major storm hits, you need a local contractor who answers the phone. We offer 24/7 tarping and emergency stabilization to prevent further damage to your property. [Emergency services →](/emergency-roof-repair-wilmington-nc)
+When a hurricane or major storm hits, you need a local contractor who answers the phone. We offer 24/7 tarping and emergency stabilization to prevent further damage to your property. [Emergency services →](/emergency-roof-repair-wilmington-nc) | [Free inspection →](/free-roof-inspection-wilmington-nc)
+
+### Metal Roofing & Coastal Solutions
+Our [metal roofing systems](/metal-roofing-wilmington-nc) stand up to Wilmington's coastal climate — salt air, high winds, and intense UV. We install standing seam, steel, and aluminum panels for both residential and commercial properties. [Explore our coastal roofing solutions →](/coastal-roofing-north-carolina)
 
 ### Roof Maintenance & Inspections
-Prevention is always cheaper than replacement. Our certified technicians perform thorough roof inspections — including chimney flashing, pressure cleaning, and real estate or insurance reports. We also offer **annual maintenance contracts** for residential and commercial properties. [Learn more →](/roof-maintenance-wilmington-nc)
+Prevention is always cheaper than replacement. Our certified technicians perform thorough roof inspections — including chimney flashing, pressure cleaning, and real estate or insurance reports. We also offer **annual maintenance contracts** for residential and commercial properties. [Learn more →](/roof-maintenance-wilmington-nc) | [Free roof inspection →](/free-roof-inspection-wilmington-nc)
 
-### Shallotte & Southport Service Areas
-Our crews serve all of Brunswick County — including [Shallotte](/shallotte-nc-roofing), [Southport](/southport-nc-roofing), Oak Island, Ocean Isle Beach, and Sunset Beach. No need to search for a separate local contractor.
+### Roof Financing Options
+Quality roofing shouldn't break the bank. We offer flexible [financing options](/roof-financing-options-nc) including insurance claim assistance and FORTIFIED grant programs. [See your options →](/roof-financing-options-nc)
+
+### Brunswick County Service Areas
+Our crews serve all of Brunswick County — including [Shallotte](/shallotte-nc-roofing), [Southport](/southport-nc-roofing), [Leland](/leland-nc-roofing), [Oak Island](/oak-island-nc-roofing), [Supply](/supply-nc-roofing), [Calabash](/calabash-nc-roofing), [Bolivia](/bolivia-nc-roofing), and [Holden Beach](/holden-beach-nc-roofing). We also serve all of [Wilmington](/wilmington-nc-roofing) and surrounding areas. No need to search for a separate local contractor.
 
 </div>
 

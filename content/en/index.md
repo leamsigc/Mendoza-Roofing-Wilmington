@@ -94,6 +94,9 @@ ogImage:
 - [Metal Roofing Wilmington NC](/metal-roofing-wilmington-nc) — Coastal-grade standing seam & corrugated
 - [FORTIFIED Roof Wilmington NC](/fortified-roof-wilmington-nc) — Hurricane-resistant, IBHS certified
 - [Gutter Installation Wilmington NC](/gutters-wilmington-nc) — Seamless gutters & gutter guards
+- [Free Roof Inspection Wilmington NC](/free-roof-inspection-wilmington-nc) — No-obligation inspection & estimate
+- [Commercial Roof Inspection Wilmington NC](/commercial-roof-inspection-wilmington-nc) — Flat roof & low-slope evaluations
+- [Roof Maintenance Wilmington NC](/roof-maintenance-wilmington-nc) — Preventative care plans & seasonal checkups
 
 ## Service Areas
 

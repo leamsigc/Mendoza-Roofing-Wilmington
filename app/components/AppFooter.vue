@@ -40,23 +40,55 @@ const { preference } = useColorMode()
                     </div>
                 </div>
 
-                <!-- Services Links (Placeholder) -->
+                <!-- Services Links -->
                 <div>
                     <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">{{ t('nav.services') }}</h4>
                     <ul class="space-y-2 text-sm text-gray-400">
                         <li>
-                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/residential-roofing-wilmington-nc" class="hover:text-gold-500">
                                 Residential Roofing
                             </NuxtLinkLocale>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/commercial-roofing-wilmington-nc" class="hover:text-gold-500">
                                 Commercial Roofing
                             </NuxtLinkLocale>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
+                            <NuxtLinkLocale to="/roof-maintenance-wilmington-nc" class="hover:text-gold-500">
                                 Repairs & Maintenance
+                            </NuxtLinkLocale>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Service Areas -->
+                <div>
+                    <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">Service Areas</h4>
+                    <ul class="space-y-2 text-sm text-gray-400">
+                        <li>
+                            <NuxtLinkLocale to="/wilmington-nc-roofing" class="hover:text-gold-500">
+                                Wilmington NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/brunswick-county-roofing" class="hover:text-gold-500">
+                                Brunswick County
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/leland-nc-roofing" class="hover:text-gold-500">
+                                Leland NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/supply-nc-roofing" class="hover:text-gold-500">
+                                Supply NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/oak-island-nc-roofing" class="hover:text-gold-500">
+                                Oak Island NC
                             </NuxtLinkLocale>
                         </li>
                     </ul>
@@ -69,6 +101,16 @@ const { preference } = useColorMode()
                         <li>
                             <NuxtLinkLocale to="/about" class="hover:text-gold-500">
                                 {{ t('nav.about') }}
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
+                                {{ t('nav.services') }}
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/tools" class="hover:text-gold-500">
+                                {{ t('nav.tools') }}
                             </NuxtLinkLocale>
                         </li>
                         <li>
