@@ -142,7 +142,7 @@ Servimos Wilmington, Southport, Oak Island, Leland, Shallotte, Supply y todo el 
 - [Reparación de Techos Wilmington NC](/reparacion-de-techos-wilmington-nc)
 - [Techos de Metal Wilmington NC](/techos-de-metal-wilmington-nc)
 - [Techo FORTIFIED Wilmington NC](/techado-fortified-wilmington-nc)
-- [Guía de Costo de Reparación de Techo](/blog/costo-reemplazo-techo-wilmington-nc)
+- [Guía de Costo de Reparación de Techo](/es/blog/costo-reemplazo-techo-wilmington-nc)
 
 </div>
 
