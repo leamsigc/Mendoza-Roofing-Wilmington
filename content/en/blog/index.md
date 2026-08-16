@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing Blog - Wilmington & Brunswick County NC'
     description: 'Expert roofing guides from Mendoza Roofing - cost breakdowns, coastal tips, storm damage advice.'
-    image: '/img/logoWhite.jpg'
+    image: '/img/logoTransparent.png'
     headline: 'Roofing Blog'
 ---
 

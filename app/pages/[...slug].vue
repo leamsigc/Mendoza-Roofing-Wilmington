@@ -16,35 +16,58 @@ const route = useRoute()
 const collectionType = 'content'
 const { locale, localeProperties } = useI18n()
 
-const slug = computed(() => Array.isArray(route.params.slug) ? withLeadingSlash(String(route.params.slug.join('/'))) : withLeadingSlash(String(route.params.slug)))
-
+const slug = computed(() => {
+    const raw = route.params.slug
+    if (raw === undefined || raw === '') return '/'
+    if (Array.isArray(raw)) {
+        if (raw.length === 0) return '/'
+        return withLeadingSlash(raw.filter(Boolean).join('/'))
+    }
+    return withLeadingSlash(String(raw))
+})
 const collection = (`${collectionType}_${locale.value}`) as keyof Collections
 
-const { data: page, refresh } = await useAsyncData(`page-${collection}-${slug.value}`, async () => {
+const { data: pageData, refresh } = await useAsyncData(`page-${collection}-${slug.value}`, async () => {
   // Build collection name based on current locale
   const collection = ('content_' + locale.value) as keyof Collections
   const finalPath = `${locale.value === 'en' ? '' : `/${locale.value}`}${slug.value}`
   const content = await queryCollection(collection).path(finalPath).first()
   // Optional: fallback to default locale if content is missing
   if (!content && locale.value !== 'en') {
-    return await queryCollection('content_en').path(slug.value).first()
+    const fallback = await queryCollection('content_en').path(slug.value).first()
+    return { content: fallback, wasFallback: !!fallback }
   }
 
-  return content
+  return { content, wasFallback: false }
 }, {
   watch: [locale], // Refetch when locale changes
 })
+
+const page = computed(() => pageData.value?.content || null)
+
+// Spanish-only pages are served at the root (default locale) by i18n as empty
+// shells. Redirect them to their canonical /es/ URL so Google doesn't index
+// duplicate, empty pages and dilute crawl budget.
+if (locale.value === 'en' && !page.value && slug.value !== '/') {
+  const esDoc = await queryCollection('content_es').path(`/es${slug.value}`).first()
+  if (esDoc) {
+    await navigateTo(`/es${slug.value}`, { redirectCode: 301 })
+  }
+}
+
+// Conversely, English-only pages that fall back to the default locale get an
+// /es/ shell. Redirect them back to their canonical root URL.
+if (locale.value === 'es' && pageData.value?.wasFallback && slug.value !== '/') {
+  await navigateTo(slug.value, { redirectCode: 301 })
+}
 
 useHead(page.value?.head || {})
 
 useSeoMeta(page.value?.seo || {})
 
-defineOgImageComponent('BlogOgImage',
+defineOgImage('BlogOgImage',
   {
-    title: page.value?.ogImage?.props.title || 'Roofing Mendoza LLC',
-    description: page.value?.ogImage?.props.description || 'Most affordable roofing contractor in North Carolina,wilmington',
-    imageUrl: page.value?.ogImage?.props.image || 'https://roofingmendoza.com/img/HomeHeroBg.png',
-    headline: page.value?.ogImage?.props.headline || 'Roofing',
+    ...page.value?.ogImage?.props 
   }
 )
 

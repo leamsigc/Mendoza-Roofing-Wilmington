@@ -30,6 +30,7 @@ export default defineNuxtConfig({
     prerender: {
       crawlLinks: true,
       autoSubfolderIndex: false,
+      ignore: ['/_ipx/', '/_fonts', '/_nuxt/', '/_scripts/'],
     }
   },
   modules: [
@@ -47,6 +48,7 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/i18n',
     '@vueuse/nuxt',
+    'nuxt-ai-ready',
   ],
   // routeRules: {
   //   '/blog/**': {
@@ -88,6 +90,12 @@ export default defineNuxtConfig({
     description: "Wilmington NC's trusted roofing contractor since 1974. Free estimates. Call 910-367-7628.",
     twitter: '@roofingmendoza',
   },
+  ogImage: {
+    buildCache: true,
+    security: {
+      imageFetchTimeout: 20000 // 20 seconds  
+    }
+  },
   content: {
     build: {
 
@@ -105,12 +113,32 @@ export default defineNuxtConfig({
     discoverVideos: true,
     chunks: false,
   },
+  app: {
+    head: {
+      meta: [
+        { name: 'theme-color', content: '#00dc82' },
+        {
+          name: 'theme-color', content: '#18181b',
+          media: '(prefers-color-scheme: dark)'
+        }
+      ]
+    }
+  },
+
+  icon: {
+    provider: 'none',
+    clientBundle: {
+      scan: { globInclude: ['**\/*.{vue,jsx,tsx,md,mdc,mdx,ts}'] },
+    },
+    customCollections: [],
+    mode: 'svg',
+  },
 
   schemaOrg: {
     identity: {
-      '@type': 'RoofingContractor',
+      '@type': 'LocalBusiness',
       name: 'Mendoza Roofing LLC',
-      alternateName: ['Mendoza Roofing', 'Mendoza Roofing Company'],
+      alternateName: 'Mendoza Roofing Company',
       logo: 'https://roofingmendoza.com/img/logo.png',
       image: 'https://roofingmendoza.com/img/MendozaRoofingShallotte.png',
       description: 'Licensed roofing contractors in Wilmington, Supply, and Brunswick County NC with 50+ years of experience. Expert roof repair, replacement, commercial roofing, and emergency services.',

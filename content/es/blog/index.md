@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Blog'
     description: 'Últimas noticias y actualizaciones de Mendoza Roofing.'
-    image: '/img/logoWhite.jpg'
+    image: '/img/logoTransparent.png'
     headline: 'Blog'
 ---
 
