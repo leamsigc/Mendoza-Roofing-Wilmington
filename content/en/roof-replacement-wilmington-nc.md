@@ -1,5 +1,5 @@
 ---
-title: 'Roof Replacement Wilmington NC | New Roof Installation | Mendoza Roofing'
+title: 'Roof Replacement Wilmington NC'
 description: 'Professional roof replacement and new roof installation in Wilmington NC. Asphalt, metal, tile & flat roofs. 50+ years. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
@@ -158,9 +158,22 @@ We walk the completed roof with you, point out key features, and provide documen
 
 ## Financing Options for Roof Replacement in Wilmington NC
 
-A full roof replacement is a significant investment. We understand — and we offer **financing options** to help spread the cost. Ask about our financing plans when you request your free estimate.
+A full roof replacement is a significant investment. We understand — and we offer **financing options** to help spread the cost. See the full breakdown of [roof financing options in NC](/roof-financing-options-nc) — payment plans, storm-financing programs, and what grants may apply — or ask when you request your free estimate.
 
 Whether you're replacing a roof due to age, storm damage, or selling your home, we'll work with you to find the right solution for your budget.
+
+---
+
+## Roof Replacement Projects Across the Cape Fear Region
+
+Mendoza Roofing has completed hundreds of replacements across Wilmington, Brunswick County, and the Cape Fear region, including:
+
+- Storm-damage replacements for residential neighborhoods after Hurricane Ian
+- Full metal roof installation on historic homes in downtown Wilmington
+- Multi-family apartment complex re-roofing in the Porters Neck area
+- Commercial flat roof replacement for Wilmington warehouses
+
+Every job gets the same treatment: itemized written quote, in-house crew, photo documentation from tear-off to final cleanup. [TK: add 2–3 recent replacement projects with neighborhood, material, and timeframe]
 
 ---
 

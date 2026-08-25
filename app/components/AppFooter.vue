@@ -20,7 +20,7 @@ const { preference } = useColorMode()
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div>
                     <div class="flex items-center gap-2 mb-4">
-                        <NuxtImg src="/img/logoTransparent.png" alt="Mendoza Roofing Logo" class="w-24 h-16" />
+                        <NuxtImg src="/img/logoTransparent.png" alt="Mendoza Roofing Logo" class="w-24 h-auto" width="96" height="45" />
                     </div>
                     <p class="text-gray-400 text-sm leading-relaxed mb-4">
                         {{ t('common.licensed_insured') }}

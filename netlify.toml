@@ -1,6 +1,6 @@
 [build]
-  command = "pnpm build"
-  publish = "dist"
+  command = "pnpm build && node scripts/generate-redirects.mjs"
+  publish = ".output/public"
 
 [build.environment]
   NODE_VERSION = "24"

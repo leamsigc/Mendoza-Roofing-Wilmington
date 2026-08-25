@@ -19,8 +19,8 @@ interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), {
-    title: "MASTERING <br /> <span class='text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-teal-200'>THE ART OF</span> <br /> ROOFING",
-    description: "Specializing in <strong class='text-white'>Residential</strong> and <strong class='text-white'>Commercial</strong> projects in Wilmington, Supply, and Brunswick County."
+    title: "WILMINGTON'S <br /> <span class='text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-teal-200'>MOST TRUSTED</span> <br /> ROOFERS",
+    description: "<strong class='text-white'>Roofing contractor in Wilmington NC since 1974</strong> — residential &amp; commercial roof repair, replacement, and gutters. Serving Wilmington, Supply &amp; Brunswick County."
 });
 </script>
 

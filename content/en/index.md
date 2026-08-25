@@ -86,6 +86,7 @@ ogImage:
 
 - [Roofing Contractors Wilmington NC](/wilmington-nc-roofing) — Top-rated local roofers serving all of Wilmington
 - [Roof Repair Wilmington NC](/roof-repair-wilmington-nc) — Fast, reliable repair for leaks & storm damage
+- [Roof Leak Repair Wilmington NC](/roof-leak-repair-wilmington-nc) — Same-day leak detection & repair
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc) — All materials, free estimates
 - [Roof Replacement Cost Guide](/roof-replacement-cost-wilmington-nc) — Real 2026 pricing for every material
 - [Commercial Roofing Wilmington NC](/commercial-roofing-wilmington-nc) — Flat roofs, TPO, EPDM & more

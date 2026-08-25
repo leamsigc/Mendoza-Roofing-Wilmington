@@ -7,9 +7,10 @@
  * @version 0.0.1
  *
  * @todo [ ] Test the component
- * @todo [ ] Integration test.
  * @todo [✔] Update the typescript.
  */
+const i18nHead = useLocaleHead({ dir: true, lang: true, seo: true })
+useHead(() => i18nHead.value)
 </script>
 
 <template>

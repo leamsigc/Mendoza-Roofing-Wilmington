@@ -63,7 +63,13 @@ if (locale.value === 'es' && pageData.value?.wasFallback && slug.value !== '/') 
 
 useHead(page.value?.head || {})
 
-useSeoMeta(page.value?.seo || {})
+useSeoMeta({
+  ...(page.value?.seo || {}),
+  ogTitle: () => page.value?.seo?.ogTitle ?? page.value?.title,
+  ogDescription: () => page.value?.description,
+  twitterTitle: () => page.value?.seo?.ogTitle ?? page.value?.title,
+  twitterDescription: () => page.value?.description,
+})
 
 defineOgImage('BlogOgImage',
   {

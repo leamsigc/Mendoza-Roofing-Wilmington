@@ -20,7 +20,7 @@
                     <p class="text-4xl md:text-5xl font-display font-bold mb-1">
                         <slot name="stat1-value" mdc-unwrap="p">50+</slot>
                     </p>
-                    <p class="text-sm font-bold uppercase tracking-widest opacity-80">
+                    <p class="text-sm font-bold uppercase tracking-widest text-navy-900">
                         <slot name="stat1-label" mdc-unwrap="p">Years Experience</slot>
                     </p>
                 </div>
@@ -29,7 +29,7 @@
                         <slot name="stat2-value" mdc-unwrap="p">5.0</slot>
                     </p>
                     <p
-                        class="text-sm font-bold uppercase tracking-widest opacity-80 flex items-center justify-center gap-1">
+                        class="text-sm font-bold uppercase tracking-widest text-navy-900 flex items-center justify-center gap-1">
                         <UIcon name="i-heroicons-star" class="w-4 h-4 text-black" />
                         <slot name="stat2-label" mdc-unwrap="p">Google Rating</slot>
                     </p>
@@ -38,7 +38,7 @@
                     <p class="text-4xl md:text-5xl font-display font-bold mb-1">
                         <slot name="stat3-value" mdc-unwrap="p">24/7</slot>
                     </p>
-                    <p class="text-sm font-bold uppercase tracking-widest opacity-80">
+                    <p class="text-sm font-bold uppercase tracking-widest text-navy-900">
                         <slot name="stat3-label" mdc-unwrap="p">Emergency Support</slot>
                     </p>
                 </div>
@@ -46,7 +46,7 @@
                     <p class="text-4xl md:text-5xl font-display font-bold mb-1">
                         <slot name="stat4-value" mdc-unwrap="p">A+</slot>
                     </p>
-                    <p class="text-sm font-bold uppercase tracking-widest opacity-80">
+                    <p class="text-sm font-bold uppercase tracking-widest text-navy-900">
                         <slot name="stat4-label" mdc-unwrap="p">Rated Service</slot>
                     </p>
                 </div>

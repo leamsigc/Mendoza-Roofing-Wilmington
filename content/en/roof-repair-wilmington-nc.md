@@ -1,5 +1,5 @@
 ---
-title: 'Roof Repair Wilmington NC | Same-Day Leak & Storm Fix'
+title: 'Same-Day Roof Repair Wilmington NC'
 description: 'Fast roof repair in Wilmington NC for leaks, storm damage & missing shingles. Same-day emergency service available. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
@@ -82,6 +82,8 @@ Active leaks need immediate attention — water damage spreads quickly through i
 - Pipe boot and vent seal failures
 - Ice dam-related backups (rare in Wilmington but possible in winter)
 - Broken shingle seal strips
+
+For active leaks and ceiling water stains, see our dedicated [roof leak repair in Wilmington NC](/roof-leak-repair-wilmington-nc) page — we prioritize same-day response for water entering your home.
 
 ### Storm Damage Repair
 Wilmington's coastal position means frequent exposure to tropical storms, severe thunderstorms, and hurricanes. We repair:

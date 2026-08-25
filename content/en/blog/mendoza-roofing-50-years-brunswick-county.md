@@ -111,6 +111,8 @@ The fundamentals of what we do — install and repair roofs — haven't changed.
 - **Gutter installation & repair**
 - **New construction roofing**
 
+Today we cover all of Brunswick County and [Wilmington NC](/wilmington-nc-roofing) — from Supply and Shallotte to Ogden and Porters Neck — with the same crews and the same standard we started with in 1974.
+
 ---
 
 ## Ready to Work With Us?

@@ -105,8 +105,9 @@ const displayedServices = computed(() => props.services || SERVICES)
                             {{ service.description }}
                         </p>
                         <NuxtLinkLocale :to="service.link"
-                            class="inline-flex items-center justify-center p-2 bg-gray-100 dark:bg-navy-800 rounded-full hover:bg-gold-500 hover:text-navy-900 transition-colors">
-                            <UIcon name="i-heroicons-arrow-right" class="w-4 h-4" />
+                            class="inline-flex items-center justify-center p-2 bg-gray-100 dark:bg-navy-800 rounded-full hover:bg-gold-500 hover:text-navy-900 transition-colors"
+                            :aria-label="`Learn more about ${service.title}`">
+                            <UIcon name="i-heroicons-arrow-right" class="w-4 h-4" aria-hidden="true" />
                         </NuxtLinkLocale>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 ---
-title: 'Best Roofing Contractors Wilmington NC | Free Estimates'
-description: 'Top-rated Wilmington NC roofing contractors since 1974. Licensed, insured & 5-star rated. Free estimates for roof repair, replacement & metal roofs. Call 910-367-7628.'
+title: 'Roofing Contractors Wilmington NC'
+description: 'Wilmington NC roofing contractors since 1974. Licensed & insured, 5.0-star rated, local crews. Free estimates on repairs, replacements & metal roofs. Call today.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
   alt: 'Roofing contractors in Wilmington NC - Mendoza Roofing'
@@ -179,6 +179,36 @@ Wilmington's coastal location creates unique demands on roofs. Here is what ever
 | Metal Roofing | 40-70 years | Up to 160 mph | Coastal properties |
 | Flat (EPDM/TPO) | 20-30 years | Good | Commercial buildings |
 | Tile | 50+ years | Excellent | High-end residential |
+
+---
+
+## Roofing Contractors in Every Wilmington Neighborhood
+
+Our crews work across New Hanover County every day. If you live in any of these areas, you've probably seen our trucks and our finished roofs nearby:
+
+| Neighborhood | What We See Most | Common Service |
+|--------------|------------------|----------------|
+| **Downtown / Historic District** | Older homes, steep pitches, copper & metal details | Historic roof restoration |
+| **[Ogden](/roofers-ogden-nc)** | 1990s–2000s shingle homes reaching end of life | Roof replacement |
+| **[Porters Neck](/roofers-porters-neck-nc)** | New construction & storm-damaged shingles | New roofs & repairs |
+| **Masonboro / Bayshore** | Salt-air corrosion on flashing & fasteners | Metal roofing & flashing |
+| **Landfall** | High-end tile, slate & architectural shingle | Premium replacements |
+| **Monkey Junction** | Flat & low-slope roofs, sun damage | Repair & TPO systems |
+| **Windemere / College Acres** | Original builder-grade shingles from the 80s | Full replacement |
+| **Wrightsville Beach & Carolina Beach** | Coastal wind uplift & salt exposure | Wind-rated coastal systems |
+
+Searching for [roofers near Ogden NC](/roofers-ogden-nc) or [Porters Neck](/roofers-porters-neck-nc)? We're typically on-site within 24 hours for estimates anywhere inside the loop — and same-day for emergencies.
+
+### Local Roofers vs. Out-of-Town Storm Chasers
+
+After every named storm, out-of-state contractors flood Wilmington doorsteps, collect deposits, and disappear before the warranty claim. Here's why that never happens with us:
+
+| | Mendoza Roofing | Typical Storm Chaser |
+|--|-----------------|---------------------|
+| In business locally | **Since 1974 — 50+ years** | Weeks or months |
+| Office & crews | Local, full-time, in-house | Out-of-state subcontractors |
+| License & insurance | NC licensed, fully insured | Often unverified |
+| After the storm | Still here for warranty service | Gone before the next season |
 
 ---
 

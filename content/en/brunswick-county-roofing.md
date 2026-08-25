@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Company Near Me | Brunswick County NC Local Roofers | Mendoza Roofing'
+title: 'Roofing Company Brunswick County NC'
 description: 'Looking for a roofing company near me in Brunswick County NC? Local roofers serving Supply, Shallotte, Leland, Calabash since 1974. 5-star rated. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
