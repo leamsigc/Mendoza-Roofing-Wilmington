@@ -1,5 +1,5 @@
 ---
-title: 'Roof Financing Options in NC | Affordable Roofing Payments'
+title: 'Roof Financing Options in NC'
 description: 'Roof financing options in NC. Flexible payment plans, insurance claims help & FORTIFIED grant assistance. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

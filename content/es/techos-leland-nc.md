@@ -1,5 +1,5 @@
 ---
-title: 'Techos en Leland NC | Mendoza Roofing'
+title: 'Techos en Leland NC'
 description: 'Expertos en techos en Leland NC. Reparación y reemplazo de techos de calidad en una de las ciudades de más rápido crecimiento de NC. ¡Estimados gratis al 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

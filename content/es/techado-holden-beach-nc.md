@@ -1,5 +1,5 @@
 ---
-title: 'Techado en Holden Beach NC | Techadores de Isla Barrera'
+title: 'Techado en Holden Beach NC'
 description: 'Contratista de techos en Holden Beach NC. Techos clasificados para huracanes en islas barrera. Estimados gratis. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

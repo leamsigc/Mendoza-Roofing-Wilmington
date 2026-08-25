@@ -1,5 +1,5 @@
 ---
-title: 'Instalación de Canaletas en Wilmington NC | Mendoza Roofing'
+title: 'Instalación de Canaletas Wilmington NC'
 description: 'Instalación y reparación de canaletas en Wilmington NC. Canaletas de aluminio sin costura para proteger su hogar de daños por agua. ¡Estimados gratis – 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

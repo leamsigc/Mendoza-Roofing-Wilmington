@@ -1,5 +1,5 @@
 ---
-title: 'Techo FORTIFIED en Wilmington NC | Certificado IBHS'
+title: 'Techo FORTIFIED en Wilmington NC'
 description: 'Instalación de techo FORTIFIED en Wilmington NC. Techos resistentes a huracanes con estándares IBHS. Descuentos en seguros y subvenciones. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

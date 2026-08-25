@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Contractor in Shallotte, NC - Local, Reliable & Affordable'
+title: 'Roofing Contractor in Shallotte NC'
 description: 'Looking for a trusted roofing contractor in Shallotte, NC? Learn how to choose the right roofer, what to expect from the process, and how much roofing services typically cost in the Shallotte and Brunswick County area.'
 image:
   src: '/img/roofingMendozaSolarPanels.png'

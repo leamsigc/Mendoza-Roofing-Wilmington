@@ -1,5 +1,5 @@
 ---
-title: 'Mendoza Roofing | Contratistas de Techos Wilmington NC | 50+ Años'
+title: 'Contratistas de Techos Wilmington NC'
 description: 'Mendoza Roofing LLC: Los expertos en techos de Wilmington NC desde 1974. Reparaciones, reemplazos e instalaciones residenciales y comerciales. ¡Estimaciones gratis!'
 image:
   src: '/img/logoWhite.jpg'

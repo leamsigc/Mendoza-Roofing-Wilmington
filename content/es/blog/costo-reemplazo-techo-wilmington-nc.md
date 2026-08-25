@@ -1,5 +1,5 @@
 ---
-title: '¿Cuánto Cuesta un Reemplazo de Techo en Wilmington NC? (Guía 2026)'
+title: '¿Cuánto Cuesta Reemplazar un Techo?'
 description: 'Desglose detallado de los costos de un techo nuevo en Wilmington NC. Comparativa de materiales, mano de obra y factores que afectan el precio.'
 image:
   src: '/img/roofReplacementCostWilmington.png'

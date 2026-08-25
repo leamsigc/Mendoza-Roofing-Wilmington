@@ -1,5 +1,5 @@
 ---
-title: 'Roof Replacement Cost Wilmington NC (2026 Guide)'
+title: 'Roof Replacement Cost Wilmington NC'
 description: 'Roof replacement cost in Wilmington NC: $8,000-$35,000+. See real pricing for asphalt, metal, tile & flat roofs. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

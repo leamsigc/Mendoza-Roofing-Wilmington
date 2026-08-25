@@ -1,5 +1,5 @@
 ---
-title: 'Techos en el Condado de Brunswick NC | Mendoza Roofing'
+title: 'Techos en el Condado de Brunswick NC'
 description: 'Empresa de techos de confianza en el Condado de Brunswick NC. Reparación, reemplazo e instalación de techos en Supply, Shallotte, Leland, Oak Island y toda la zona. Llame 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Guía de Techado Comercial en Wilmington NC | Mendoza Roofing'
+title: 'Guía de Techado Comercial Wilmington NC'
 description: 'Guía esencial para dueños de negocios en Wilmington. Mantenimiento de techos planos, TPO, EPDM e inspecciones comerciales.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

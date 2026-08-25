@@ -1,5 +1,5 @@
 ---
-title: '7 Signs You Need a New Roof in Wilmington NC'
+title: '7 Signs You Need a New Roof in Wilmington'
 description: '7 warning signs your Wilmington NC home needs a new roof — from granule loss to daylight in the attic. Expert advice from roofers serving since 1974. Free roof inspections. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Roof Flashing in Wilmington, NC: Costs, Repairs, and Coastal Protection Guide'
+title: 'Roof Flashing in Wilmington NC'
 description: 'Learn what roof flashing is, why it fails so often in Wilmington, NC, how much repairs cost, and when to call a pro. Get a free roof flashing estimate from Mendoza Roofing LLC at 910-367-7628.'
 image:
   src: '/img/roofingMendozaSolarPanels.png'

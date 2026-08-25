@@ -1,5 +1,5 @@
 ---
-title: 'Reparación de Daños por Tormenta Condado Brunswick NC | Respuesta 24/7'
+title: 'Reparación de Tormenta | Brunswick NC'
 description: 'Reparación de daños por tormenta en techos en el Condado de Brunswick NC. Huracanes, viento y granizo. Tarping de emergencia y apoyo con seguros. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

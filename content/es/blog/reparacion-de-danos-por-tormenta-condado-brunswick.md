@@ -1,5 +1,5 @@
 ---
-title: 'Reparación de Daños por Tormenta en el Condado de Brunswick | Mendoza Roofing'
+title: 'Reparación de Daños por Tormenta NC'
 description: 'Guía completa para propietarios en el Condado de Brunswick tras una tormenta. Qué hacer, cómo documentar daños y reparaciones de emergencia.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

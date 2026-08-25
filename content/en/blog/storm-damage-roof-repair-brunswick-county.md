@@ -1,5 +1,5 @@
 ---
-title: 'Storm Damage Roof Repair in Brunswick County, NC | Mendoza Roofing'
+title: 'Storm Damage Roof Repair Brunswick County'
 description: 'Storm damage roof repair in Brunswick County NC. Hurricane, wind & hail damage restoration. Fast emergency response, insurance claim support. 50+ years experience – call 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

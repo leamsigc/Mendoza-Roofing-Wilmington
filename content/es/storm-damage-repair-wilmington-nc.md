@@ -1,5 +1,5 @@
 ---
-title: 'Reparación de Daños por Tormenta Wilmington NC | Respuesta Rápida'
+title: 'Daños por Tormenta en Wilmington NC'
 description: 'Reparación de daños por tormenta en techos en Wilmington NC. Restauración de daños por huracán, viento y granizo. Tarping de emergencia y apoyo con seguros. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

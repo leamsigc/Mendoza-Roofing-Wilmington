@@ -1,5 +1,5 @@
 ---
-title: 'Techos Condado de Brunswick NC | Empresa Local de Techados'
+title: 'Empresa de Techos | Condado Brunswick NC'
 description: 'Techos en el Condado de Brunswick NC: Shallotte, Oak Island, Leland, Southport y Supply. Reemplazo, reparación y techos de metal. Estimados gratis. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Sobre Mendoza Roofing - 50+ Años'
+title: 'Sobre Nosotros | 50+ Años de Experiencia'
 description: 'Compañía de techado de confianza en Wilmington y el condado de Brunswick con 50 años de experiencia.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

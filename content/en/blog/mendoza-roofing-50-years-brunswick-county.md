@@ -1,5 +1,5 @@
 ---
-title: 'Mendoza Roofing: Over 50 Years Serving Brunswick County NC'
+title: '50 Years of Roofing in Brunswick County NC'
 description: 'The story of Mendoza Roofing LLC — a family-owned Brunswick County NC roofing company with 50+ years of service, integrity, and community roots. Founded 1974. Serving Wilmington, Supply & beyond.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
@@ -8,9 +8,6 @@ tags: ['Mendoza Roofing', 'Company History', 'Brunswick County', 'Local Business
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
-  link:
-    - rel: 'canonical'
-      href: 'https://roofingmendoza.com/about'
   meta:
     - name: 'keywords'
       content: 'mendoza roofing, mendoza roofing llc, mendoza construction, mendoza roofing wilmington nc, mendoza roofing company, local roofing company brunswick county, roofing company history brunswick county'

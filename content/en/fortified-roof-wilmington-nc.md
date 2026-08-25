@@ -1,5 +1,5 @@
 ---
-title: 'FORTIFIED Roof Wilmington NC | IBHS Certified'
+title: 'FORTIFIED Roof Wilmington NC | IBHS'
 description: 'FORTIFIED Roof installation in Wilmington NC. Hurricane-resistant roofing built to IBHS standards. Insurance discounts & grants. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

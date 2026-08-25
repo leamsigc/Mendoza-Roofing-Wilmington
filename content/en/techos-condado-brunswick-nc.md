@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Brunswick County NC | Local Roofing Company'
+title: 'Roofing in Brunswick County NC'
 description: 'Roofing in Brunswick County NC: Shallotte, Oak Island, Leland, Southport & Supply. Roof replacement, repair & metal roofing. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

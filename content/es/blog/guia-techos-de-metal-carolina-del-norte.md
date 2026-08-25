@@ -1,5 +1,5 @@
 ---
-title: 'Guía de Techos de Metal en Carolina del Norte | Mendoza Roofing'
+title: 'Guía de Techos de Metal en NC'
 description: 'Todo sobre techos de metal en la costa de NC. Costos, beneficios, tipos de metal y por qué es la mejor opción contra huracanes.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Free Roof Inspection Wilmington NC | Schedule Online'
+title: 'Free Roof Inspection Wilmington NC'
 description: 'Free roof inspections in Wilmington NC. Storm damage assessment, real estate reports & routine maintenance checks. Licensed inspectors. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'How Much Does Roof Replacement Cost in Wilmington NC? (2026 Guide)'
+title: 'Roof Replacement Cost Wilmington NC 2026'
 description: 'Detailed breakdown of roof replacement costs in Wilmington NC for 2026. Average prices for shingles, metal, tile & flat roofs. What affects your price. Free estimates from Mendoza Roofing.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

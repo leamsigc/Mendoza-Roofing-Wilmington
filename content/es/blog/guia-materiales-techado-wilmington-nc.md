@@ -1,5 +1,5 @@
 ---
-title: 'Guía de Materiales de Techado para Wilmington NC | Mendoza Roofing'
+title: 'Guía de Materiales de Techado Wilmington'
 description: 'Comparativa de materiales de techado para la costa de NC. Tejas asfálticas, metal, teja y sistemas planos. Elija el mejor para su hogar.'
 image:
   src: '/img/roofingMaterialsComparison.png'

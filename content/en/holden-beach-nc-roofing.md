@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Holden Beach NC | Barrier Island Roofers'
+title: 'Roofing Company Holden Beach NC'
 description: 'Roofing contractor on Holden Beach NC. Hurricane-rated roofing for barrier island homes. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

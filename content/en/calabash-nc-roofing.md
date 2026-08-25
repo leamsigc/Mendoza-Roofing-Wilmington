@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Company Near Me Calabash NC | Trusted Local Roofers | Mendoza'
+title: 'Roofing Company Calabash NC'
 description: 'Searching for a roofing company near me in Calabash NC? Local roofers serving Calabash & Brunswick County since 1974. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Southport NC Roofing Experts | 24/7 Emergency Roof Repair'
+title: 'Roofing Company Southport NC'
 description: '24/7 emergency roof repair & replacement in Southport NC by licensed, insured local roofers. Free quotes. 50+ years of experience. Call 910-367-7628.'
 image:
   src: '/img/heroImage.png'

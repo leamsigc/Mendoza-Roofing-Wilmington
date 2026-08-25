@@ -1,5 +1,5 @@
 ---
-title: 'Techado en Calabash NC | Techadores Locales'
+title: 'Techado en Calabash NC'
 description: 'Contratista de techos en Calabash NC. Reparación, reemplazo y reparación de daños por tormenta. Estimados gratis. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

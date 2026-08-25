@@ -1,5 +1,5 @@
 ---
-title: 'Reparación de Techos en Wilmington NC | Mendoza Roofing'
+title: 'Reparación de Techos en Wilmington NC'
 description: 'Reparación de techos rápida y confiable en Wilmington NC. Goteras, daños por tormenta y reparaciones de emergencia. Más de 50 años de experiencia. Estimados gratis – llame 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

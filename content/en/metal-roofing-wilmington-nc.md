@@ -1,5 +1,5 @@
 ---
-title: 'Metal Roofing Wilmington NC | Hurricane-Resistant'
+title: 'Metal Roofing Wilmington NC'
 description: 'Metal roofing installation in Wilmington NC. Steel, aluminum & copper for coastal homes. Hurricane-rated. Free estimates. Call 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'New Construction Roofing in Wilmington & Brunswick County NC – Mendoza Roofing'
+title: 'New Construction Roofing Wilmington NC'
 description: 'Mendoza Roofing handles new construction roofing for residential and commercial buildings across Wilmington, Supply, and Brunswick County NC. Metal, asphalt, tile – any specification.'
 image:
   src: '/img/roofingMendozaSolarPanels.png'

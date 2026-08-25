@@ -1,5 +1,5 @@
 ---
-title: 'Desafíos del Techado Costero en Carolina del Norte | Mendoza Roofing'
+title: 'Desafíos del Techado Costero en NC'
 description: 'Por qué techado en Wilmington es diferente. Los efectos del aire salado, la humedad y los vientos huracanados en su techo.'
 image:
   src: '/img/coastalRoofingChallenges.png'

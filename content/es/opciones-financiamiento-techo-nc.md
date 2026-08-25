@@ -1,5 +1,5 @@
 ---
-title: 'Opciones de Financiamiento para Techos en NC | Pagos Accesibles'
+title: 'Financiamiento de Techos en NC'
 description: 'Opciones de financiamiento para techos en NC. Planes de pago flexibles, ayuda con seguros y asistencia con subvenciones FORTIFIED. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Techado Costero en Carolina del Norte | Resistente a Huracanes'
+title: 'Techado Costero en Carolina del Norte'
 description: 'Techado costero en NC requiere materiales y métodos especializados. Proteja su hogar de huracanes, aire salado y tormentas. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

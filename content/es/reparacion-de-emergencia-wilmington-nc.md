@@ -1,5 +1,5 @@
 ---
-title: 'Reparación de Emergencia de Techo Wilmington NC | Mendoza Roofing'
+title: 'Reparación de Emergencia Wilmington NC'
 description: '¡Reparación de emergencia de techos 24/7 en Wilmington NC! Respuesta inmediata a daños por huracán, tormenta y goteras activas. Llame AHORA 910-367-7628 — disponibles toda la noche!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

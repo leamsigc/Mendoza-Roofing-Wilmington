@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Elegir un Buen Roofing Contractor en Wilmington, Supply y el Condado de Brunswick, NC'
+title: 'Cómo Elegir Contratista de Techos NC'
 description: 'Guía práctica para elegir al mejor roofing contractor en Wilmington, Supply y el Condado de Brunswick: preguntas clave, costos aproximados y cómo evitar estafas y malas instalaciones en la Costa de Carolina del Norte.'
 image:
   src: '/img/roofingMendozaSolarPanels.png'

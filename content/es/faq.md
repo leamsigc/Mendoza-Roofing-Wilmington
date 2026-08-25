@@ -1,5 +1,5 @@
 ---
-title: 'Preguntas Frecuentes sobre Techos | Mendoza Roofing LLC Wilmington NC'
+title: 'Preguntas Frecuentes sobre Techos'
 description: 'Respuestas a preguntas comunes sobre techos en Wilmington NC — costos, tiempos, materiales, seguros y por qué elegir Mendoza Roofing. Llame 910-367-7628 para un estimado gratis!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

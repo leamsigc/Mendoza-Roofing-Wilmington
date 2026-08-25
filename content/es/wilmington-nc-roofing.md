@@ -1,5 +1,5 @@
 ---
-title: 'Contratistas de Techos en Wilmington NC | Mendoza Roofing'
+title: 'Contratistas de Techos en Wilmington NC'
 description: 'Contratistas de techos locales en Wilmington NC con más de 50 años de experiencia. Reparación, reemplazo e instalación de techos residenciales y comerciales. Estimados gratis – llame 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

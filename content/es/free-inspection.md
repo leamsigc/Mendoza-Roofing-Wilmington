@@ -1,5 +1,5 @@
 ---
-title: 'Inspección Gratis Wilmington NC | Evaluación de Techo y Canaletas sin Compromiso'
+title: 'Inspección Gratis Wilmington NC'
 description: 'Inspección gratis de techo y canaletas en Wilmington NC y el Condado de Brunswick. Inspectores licenciados, documentación fotográfica y estimado por escrito. Llame 910-367-7628.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

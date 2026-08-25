@@ -1,5 +1,5 @@
 ---
-title: 'Flat Roof Systems in Wilmington NC: TPO, EPDM & Modified Bitumen | Mendoza Roofing'
+title: 'Flat Roof Systems Wilmington NC: TPO, EPDM'
 description: 'Complete guide to flat roof systems in Wilmington NC. Compare TPO, EPDM, and modified bitumen for commercial and residential flat roofs. Expert installation — call 910-367-7628!'
 image:
   src: '/img/roofingMendozaSolarPanels.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Reemplazo de Techo en Wilmington NC | Mendoza Roofing'
+title: 'Reemplazo de Techo en Wilmington NC'
 description: 'Reemplazo profesional de techos en Wilmington NC. Todos los materiales: tejas asfálticas, metal, teja. Más de 50 años de experiencia. Estimados gratis — llame 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

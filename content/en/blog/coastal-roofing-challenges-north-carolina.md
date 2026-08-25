@@ -1,5 +1,5 @@
 ---
-title: 'Coastal Roofing Challenges in North Carolina | Mendoza Roofing'
+title: 'Coastal Roofing Challenges in NC'
 description: 'Coastal roofing in Wilmington NC requires specialized materials and expertise. Learn how salt air, wind, hurricanes, and moisture affect your roof and how to protect it. Expert advice from Mendoza Roofing.'
 image:
   src: '/img/MendozaRoofingShallotte.png'

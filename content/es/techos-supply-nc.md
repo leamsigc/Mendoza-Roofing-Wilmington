@@ -1,5 +1,5 @@
 ---
-title: 'Techos en Supply NC | Mendoza Roofing'
+title: 'Techos en Supply NC'
 description: 'La base de Mendoza Roofing en Supply NC. Más de 50 años sirviendo al Condado de Brunswick. Reparación y reemplazo de techos locales. ¡Llame al 910-367-7628!'
 image:
   src: '/img/MendozaRoofingShallotte.png'

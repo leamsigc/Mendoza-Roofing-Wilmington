@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Blog - Guides & Cost Guides for Wilmington & Brunswick County NC'
+title: 'Roofing Blog | Wilmington NC Guides'
 description: 'Local roofing blog from Mendoza Roofing covering roof repair costs, replacement guides, storm damage tips, and coastal roofing advice for Wilmington and Brunswick County, NC.'
 image:
   src: '/img/logoWhite.jpg'

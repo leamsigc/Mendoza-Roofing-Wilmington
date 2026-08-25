@@ -1,5 +1,5 @@
 ---
-title: 'Estándares de Techado para Nuevas Construcciones'
+title: 'Techado para Nuevas Construcciones'
 description: 'Sí, también hacemos nuevas construcciones. Conozca nuestro riguroso proceso para nuevas viviendas.'
 image:
   src: '/img/roofingMendozaSolarPanels.png'
