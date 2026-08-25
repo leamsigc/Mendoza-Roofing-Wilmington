@@ -39,7 +39,9 @@ function walk(dir) {
         const routePath = '/' + relative(PUBLIC_DIR, full)
           .replace(/\.html$/, '')
           .replace(/\/index$/, '')
-        redirects.push(`${routePath}\t${match[1]}\t301`)
+        // `!` forces the redirect even though the shell .html file exists
+        // in the publish dir — without it Netlify serves the static stub.
+        redirects.push(`${routePath}\t${match[1]}\t301!`)
       }
     }
   }
