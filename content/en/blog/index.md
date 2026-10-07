@@ -71,8 +71,8 @@ We focus on practical, local information — not generic national averages that 
 9. [The Mendoza Checklist: Choosing a Roofer](/blog/checklist-good-roofing-company)
 > How to vet a roofing contractor and ensure you're protected from scams and poor workmanship in Brunswick County.
 
-10. [Roofing Contractor in Shallotte, NC](/blog/roofing-contractor-shallotte-nc)
-> Local service and community roots — Mendoza Roofing's presence in Shallotte and coastal Brunswick County.
+10. [Choosing a Roofing Company in Shallotte, NC](/blog/roofing-company-shallotte-nc)
+> How to choose a trustworthy roofer in Shallotte — services, costs and what to ask before hiring.
 
 11. [How to File a Roof Insurance Claim in Wilmington, NC](/blog/roof-insurance-claims-wilmington-nc)
 > Step-by-step guide to getting your storm damage insurance claim approved in Wilmington.

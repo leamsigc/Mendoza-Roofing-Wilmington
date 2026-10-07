@@ -269,7 +269,7 @@ We provide **free commercial roof inspections and detailed proposals** for all W
 
 **Service Area:** Wilmington and surrounding zip codes **28401, 28403, 28405, 28409, 28411, 28412** and nearby communities in Brunswick County.
 
-[Request Your Free Commercial Roof Inspection](/free-inspection)
+[Request Your Free Commercial Roof Inspection](/free-roof-inspection-wilmington-nc)
 
 **Related services:**
 

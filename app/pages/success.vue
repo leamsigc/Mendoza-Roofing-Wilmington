@@ -1,3 +1,9 @@
+<script setup lang="ts">
+// Thank-you page: never indexable (GSC Pages: remove from sitemap,
+// noindex here as belt-and-braces). 2026-10-07 SEO audit fix.
+useSeoMeta({ robots: 'noindex, nofollow' })
+</script>
+
 <template>
   <div class="min-h-screen bg-gray-50 dark:bg-navy-950 flex items-center justify-center px-4">
     <div class="max-w-md w-full bg-white dark:bg-navy-900 rounded-lg shadow-lg p-8 text-center">

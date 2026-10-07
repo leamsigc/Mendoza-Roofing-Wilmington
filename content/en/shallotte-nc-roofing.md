@@ -113,6 +113,8 @@ Don't wait for a small problem to become a major repair. Contact us today for a 
 - [Roof Repair in Wilmington NC](/roof-repair-wilmington-nc)
 - [Emergency Roof Repair](/emergency-roof-repair-wilmington-nc)
 - [Brunswick County Roofing](/brunswick-county-roofing)
+- [Supply NC Roofing — Our Home Base](/supply-nc-roofing)
+- [Choosing a Roofing Company in Shallotte NC (Guide)](/blog/roofing-company-shallotte-nc)
 
 </div>
 

@@ -11,7 +11,8 @@
  * @todo [✔] Update the typescript.
  */
 import { COMPANY_INFO } from '~/utils/constants'
-const { t } = useI18n()
+const { t, locale } = useI18n()
+const isEs = computed(() => locale.value === 'es')
 
 interface Props {
     title?: string;
@@ -38,7 +39,7 @@ const props = withDefaults(defineProps<Props>(), {
                 <div
                     class="flex items-center gap-2 text-gold-500 font-display font-bold tracking-widest uppercase mb-6 animate-fade-in">
                     <UIcon name="i-heroicons-star" class="w-5 h-5" />
-                    <span>Premier Solutions since 1974</span>
+                    <span>{{ isEs ? 'Soluciones Premier desde 1974' : 'Premier Solutions since 1974' }}</span>
                 </div>
 
                 <h1

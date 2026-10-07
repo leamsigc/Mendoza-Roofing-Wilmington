@@ -14,6 +14,41 @@
 
 import { SERVICES } from '~/utils/constants'
 
+/**
+ * ES defaults for the hardcoded feature/EDS cards and material chips.
+ * Per-card content stays prop-driven (es/index.md passes `services`);
+ * these cover the parts no page currently overrides. 2026-10-07 SEO fix:
+ * /es rendered half-English because these had no Spanish variant.
+ */
+const { locale } = useI18n()
+const isEs = computed(() => locale.value === 'es')
+
+const T = computed(() => isEs.value ? {
+    expertise: 'Nuestra Experiencia',
+    builtTo: 'Construido para',
+    last: 'Durar',
+    precision: 'Desde nuevas construcciones hasta restauraciones históricas, manejamos cada aspecto del techado con precisión.',
+    featureTitle: 'Nuevas Construcciones',
+    featureDesc: 'Sí, también hacemos nuevas construcciones. Usamos solo productos de la mejor calidad para asegurar que su techo nuevo se construya con integridad y maestría para durar muchos años.',
+    featureCta: 'Empezar Proyecto',
+    edsTitle: 'Impermeabilización EDS',
+    edsDesc: 'Instaladores aprobados de membranas de alto rendimiento.',
+    edsCta: 'Contáctenos',
+    chips: ['Techos de Metal', 'Pizarra', 'Teja', 'Tejas Asfálticas', 'Techos Planos', 'Plomo para Techos', 'Reparación de Chimeneas', 'Sofitos', 'Fascia', 'Recubrimientos'],
+} : {
+    expertise: 'Our Expertise',
+    builtTo: 'Built to',
+    last: 'Last',
+    precision: 'From new constructions to historic restorations, we handle every aspect of roofing with precision.',
+    featureTitle: 'New Constructions',
+    featureDesc: 'Yes, we also do new constructions. We use only the highest quality products to insure that your new roof is built with the integrity and craftsmanship to last for many years to come.',
+    featureCta: 'Start Project',
+    edsTitle: 'EDS Waterproofing',
+    edsDesc: 'Approved Installers for high-performance membranes.',
+    edsCta: 'Contact Us',
+    chips: ['Metal Roofs', 'Slate', 'Tile', 'Shingles', 'Flat Roofs', 'Lead Roofing', 'Chimney Repair', 'Soffits', 'Fascia', 'Roof Coating'],
+})
+
 interface Props {
     services?: Array<{
         id: string;
@@ -68,19 +103,14 @@ const displayedServices = computed(() => props.services || SERVICES)
                             <UIcon name="i-heroicons-wrench-screwdriver" class="w-8 h-8" />
                         </div>
                         <div>
-                            <h3 class="text-3xl md:text-4xl font-display font-bold text-white mb-4">New
-                                Constructions
+                            <h3 class="text-3xl md:text-4xl font-display font-bold text-white mb-4">{{ T.featureTitle }}
                             </h3>
                             <p class="text-gray-300 text-lg mb-8 max-w-lg">
-                                Yes, we also do new constructions. We use only the highest quality products to
-                                insure
-                                that your new roof is built with the integrity and craftsmanship to last for many
-                                years
-                                to come.
+                                {{ T.featureDesc }}
                             </p>
                             <NuxtLinkLocale to="/contact"
                                 class="text-gold-500 font-bold uppercase tracking-wider flex items-center gap-2 hover:gap-4 transition-all">
-                                Start Project
+                                {{ T.featureCta }}
                                 <UIcon name="i-heroicons-arrow-right" class="w-5 h-5" />
                             </NuxtLinkLocale>
                         </div>
@@ -116,11 +146,11 @@ const displayedServices = computed(() => props.services || SERVICES)
                 <div
                     class="bg-teal-700 p-8 rounded-sm flex flex-col justify-center items-center text-center relative overflow-hidden min-h-[300px]">
                     <UIcon name="i-heroicons-shield-check" class="w-12 h-12 text-white mb-4" />
-                    <h3 class="text-2xl font-display font-bold text-white mb-2">EDS Waterproofing</h3>
-                    <p class="text-teal-100 mb-6">Approved Installers for high-performance membranes.</p>
+                    <h3 class="text-2xl font-display font-bold text-white mb-2">{{ T.edsTitle }}</h3>
+                    <p class="text-teal-100 mb-6">{{ T.edsDesc }}</p>
                     <NuxtLinkLocale to="/contact"
                         class="bg-white text-teal-800 px-6 py-2 rounded-sm font-bold uppercase text-sm hover:bg-navy-900 hover:text-white transition-colors">
-                        Contact Us
+                        {{ T.edsCta }}
                     </NuxtLinkLocale>
                 </div>
             </div>
@@ -128,7 +158,7 @@ const displayedServices = computed(() => props.services || SERVICES)
             <!-- Chips for SEO -->
             <div class="mt-12 flex flex-wrap gap-2 justify-center">
                 <span
-                    v-for="tag in ['Metal Roofs', 'Slate', 'Tile', 'Shingles', 'Flat Roofs', 'Lead Roofing', 'Chimney Repair', 'Soffits', 'Fascia', 'Roof Coating']"
+                    v-for="tag in T.chips"
                     :key="tag"
                     class="border border-gray-300 dark:border-navy-700 px-4 py-1.5 rounded-full text-sm font-medium text-gray-600 dark:text-gray-400 hover:border-gold-500 hover:text-gold-600 dark:hover:text-gold-500 transition-colors cursor-default">
                     {{ tag }}

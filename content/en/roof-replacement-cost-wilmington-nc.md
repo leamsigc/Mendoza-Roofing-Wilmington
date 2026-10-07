@@ -203,6 +203,7 @@ We serve Wilmington, Southport, Oak Island, Leland, Shallotte, Supply, and all o
 - [Metal Roofing Wilmington NC](/metal-roofing-wilmington-nc)
 - [FORTIFIED Roof Wilmington NC](/fortified-roof-wilmington-nc)
 - [Roof Repair Cost Guide](/blog/roof-repair-cost-wilmington-nc)
+- [Roof Replacement Cost 2026 Deep Guide (Blog)](/blog/roof-replacement-cost-wilmington-nc) — full material-by-material breakdown
 
 </div>
 

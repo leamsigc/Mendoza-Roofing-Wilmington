@@ -51,7 +51,7 @@ Para los propietarios en Wilmington NC que buscan la máxima protección contra 
 
 Mendoza Roofing instala techos de metal construidos con especificaciones FORTIFIED. Pregunte sobre la certificación FORTIFIED cuando solicite su estimado gratis.
 
-Para más detalles sobre techos FORTIFIED en Wilmington, vea nuestra [página de Techos FORTIFIED](/techado-fortified-wilmington-nc).
+Para más detalles sobre techos FORTIFIED en Wilmington, vea nuestra [página de Techos FORTIFIED](/es/techado-fortified-wilmington-nc).
 
 ---
 
@@ -75,10 +75,10 @@ Aunque la inversión inicial es mayor que el asfalto, el bajo mantenimiento y la
 - **Email:** [contact@roofingmendoza.com](mailto:contact@roofingmendoza.com)
 
 **Páginas relacionadas:**
-- [Contratistas de Techos Wilmington NC](/wilmington-nc-roofing)
-- [Reemplazo de Techo Wilmington NC](/reemplazo-de-techo-wilmington-nc)
-- [Techos Oak Island NC](/techos-oak-island-nc)
-- [Techos FORTIFIED Wilmington NC](/techado-fortified-wilmington-nc)
+- [Contratistas de Techos Wilmington NC](/es/wilmington-nc-roofing)
+- [Reemplazo de Techo Wilmington NC](/es/reemplazo-de-techo-wilmington-nc)
+- [Techos Oak Island NC](/es/techos-oak-island-nc)
+- [Techos FORTIFIED Wilmington NC](/es/techado-fortified-wilmington-nc)
 
 </div>
 

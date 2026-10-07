@@ -145,10 +145,10 @@ No espere al próximo huracán para pensar en la protección de su techo. Llame 
 Servimos Wilmington, Southport, Oak Island, Leland, Shallotte y todo el Condado de Brunswick.
 
 **Servicios relacionados:**
-- [Techos de Metal Wilmington NC](/techos-de-metal-wilmington-nc)
-- [Reemplazo de Techo Wilmington NC](/reemplazo-de-techo-wilmington-nc)
-- [Reparación de Daños por Tormenta Condado Brunswick](/blog/reparacion-de-danos-por-tormenta-condado-brunswick)
-- [Desafíos de Techado Costero NC](/blog/desafios-techado-costero-carolina-del-norte)
+- [Techos de Metal Wilmington NC](/es/techos-de-metal-wilmington-nc)
+- [Reemplazo de Techo Wilmington NC](/es/reemplazo-de-techo-wilmington-nc)
+- [Reparación de Daños por Tormenta Condado Brunswick](/es/blog/reparacion-de-danos-por-tormenta-condado-brunswick)
+- [Desafíos de Techado Costero NC](/es/blog/desafios-techado-costero-carolina-del-norte)
 
 </div>
 

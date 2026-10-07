@@ -35,7 +35,7 @@ schemaOrg:
         name: "How quickly will Mendoza Roofing respond to my inquiry?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "During normal business hours (Monday-Friday, 7am-6pm), our team responds to online requests the same day. For after-hours emergencies, call 910-367-7628 for urgent roof repair support in Wilmington and Brunswick County."
+          text: "During normal business hours (Monday-Friday, 8am-6pm), our team responds to online requests the same day. For after-hours emergencies, call 910-367-7628 for urgent roof repair support in Wilmington and Brunswick County."
       - "@type": "Question"
         name: "Does Mendoza Roofing charge for roof estimates?"
         acceptedAnswer:
@@ -74,7 +74,7 @@ For **urgent leaks or storm damage**, calling [910-367-7628](tel:9103677628) is 
 - **Phone:** [910-367-7628](tel:9103677628)
 - **Email:** [contact@roofingmendoza.com](mailto:contact@roofingmendoza.com)
 - **Mailing Address:** P.O. Box 952, Supply, NC 28462
-- **Business Hours:** Monday-Friday, 7:00 AM - 6:00 PM
+- **Business Hours:** Monday-Friday, 8:00 AM - 6:00 PM
 
 ---
 
@@ -86,7 +86,7 @@ Please tell us your property address, roof type if you know it (asphalt shingles
 
 ### How quickly will someone follow up?
 
-During normal business hours (Monday-Friday, 7am-6pm), our team usually responds to online requests the same day. For after-hours emergencies such as active leaks or storm damage, call [910-367-7628](tel:9103677628) directly. We provide urgent support across Wilmington and Brunswick County.
+During normal business hours (Monday-Friday, 8am-6pm), our team usually responds to online requests the same day. For after-hours emergencies such as active leaks or storm damage, call [910-367-7628](tel:9103677628) directly. We provide urgent support across Wilmington and Brunswick County.
 
 ### Does Mendoza Roofing charge for roof estimates?
 

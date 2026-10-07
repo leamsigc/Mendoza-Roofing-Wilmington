@@ -91,6 +91,31 @@ const { preference } = useColorMode()
                                 Oak Island NC
                             </NuxtLinkLocale>
                         </li>
+                        <li>
+                            <NuxtLinkLocale to="/shallotte-nc-roofing" class="hover:text-gold-500">
+                                Shallotte NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/southport-nc-roofing" class="hover:text-gold-500">
+                                Southport NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/calabash-nc-roofing" class="hover:text-gold-500">
+                                Calabash NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/bolivia-nc-roofing" class="hover:text-gold-500">
+                                Bolivia NC
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/holden-beach-nc-roofing" class="hover:text-gold-500">
+                                Holden Beach NC
+                            </NuxtLinkLocale>
+                        </li>
                     </ul>
                 </div>
 
@@ -116,6 +141,11 @@ const { preference } = useColorMode()
                         <li>
                             <NuxtLinkLocale to="/contact" class="hover:text-gold-500">
                                 {{ t('nav.contact') }}
+                            </NuxtLinkLocale>
+                        </li>
+                        <li>
+                            <NuxtLinkLocale to="/privacy" class="hover:text-gold-500">
+                                Privacy
                             </NuxtLinkLocale>
                         </li>
                     </ul>

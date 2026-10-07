@@ -68,6 +68,36 @@
   <div class="kpi"><div class="l">Avg Position</div><div class="v" style="color:var(--red)">24.8</div><div class="d">was 25.0 in May audit</div></div>
 </div>
 
+<h2>🔍 Production Verification Sweep (live roofingmendoza.com)</h2>
+<div class="card">
+  <p style="margin-top:0"><strong>Method:</strong> full crawl of live production — every URL in both sitemaps checked for title length, duplicate-brand suffix, canonical correctness; plus spot checks of hreflang, OG tags, schema, CSS vars, aria-labels, console errors.</p>
+
+  <h3 style="color:var(--accent)">✅ Verified correct in production</h3>
+  <ul class="clean" style="font-size:.9rem">
+    <li>All 3 new pages live (200): <code>/roof-leak-repair-wilmington-nc</code>, <code>/roofers-ogden-nc</code>, <code>/roofers-porters-neck-nc</code> — in sitemap with hreflang alternates + FAQPage/Service schema</li>
+    <li>7 fixed service-page titles live &leq;60 chars (wilmington, roof-replacement, gutters, commercial, residential, roof-repair, brunswick-county)</li>
+    <li>Commercial guide: self-canonical live ✓, new title live ✓, rewritten content live ✓</li>
+    <li>hreflang on EN + real ES pages: all 5 alternates (x-default/en/en-US/es/es-ES) ✓</li>
+    <li>og:title + og:description present on checked pages ✓ · homepage H1 "WILMINGTON'S MOST TRUSTED ROOFERS" ✓</li>
+    <li><code>--color-navy-950:#0a1f33</code> deployed ✓ · ServiceGrid aria-labels live ✓ · neighborhood + storm-chaser sections live ✓ · gutter page expanded (112KB) ✓</li>
+    <li>Sitemap fresh (lastmod = deploy time), robots.txt clean, trailing-slash 301s work, real 404s work, zero console errors on homepage</li>
+  </ul>
+
+  <h3 style="color:var(--red)">⚠️ Issues found in production → TODO list <span class="badge b-done">ALL FIXED IN CODEBASE — awaiting deploy</span></h3>
+  <table>
+    <tr><th>#</th><th style="width:45%">Issue</th><th>Evidence (live)</th><th>Status</th></tr>
+    <tr><td>T1</td><td><strong>Wrong canonical on /blog/mendoza-roofing-50-years-brunswick-county</strong> — pointed to /about. Page holds <strong>1,697 impressions at pos 10.5</strong>.</td><td><code>rel=canonical href="/about"</code></td><td><span class="badge b-done">✅ FIXED</span> canonical removed → self-canonical</td></tr>
+    <tr><td>T2</td><td><strong>ES shell→301 fix</strong> — 40 /es/ URLs serving meta-refresh stubs with 200.</td><td><code>/es/southport-nc-roofing → 200 stub</code></td><td><span class="badge b-done">✅ READY (301! force flag)</span> — ships on next deploy</td></tr>
+    <tr><td>T3</td><td><strong>Duplicate-brand titles</strong> ("…| Mendoza Roofing | Mendoza Roofing") on blog pages.</td><td>Live title sweep</td><td><span class="badge b-done">✅ FIXED</span> — manual brand stripped from all frontmatter</td></tr>
+    <tr><td>T4</td><td><strong>33 EN pages with truncated titles</strong> (&gt;65 rendered chars, worst 104).</td><td>Live title sweep</td><td><span class="badge b-done">✅ FIXED</span> — all rebuilt ≤60 chars, keyword-first</td></tr>
+    <tr><td>T5</td><td><strong>36 ES pages with truncated/duplicate-brand titles.</strong></td><td>ES sitemap sweep</td><td><span class="badge b-done">✅ FIXED</span> — all rebuilt ≤60 chars en español</td></tr>
+    <tr><td>T6</td><td><strong>/blog/roofing-company-shallotte-nc canonical</strong> → service page (541 imp locked out).</td><td><code>rel=canonical mismatch</code></td><td><span class="badge b-done">✅ FIXED</span> — self-canonical; guide vs service intent differentiated by title</td></tr>
+    <tr><td>T8</td><td><strong>NEW: Orphan page 404ing while listed in sitemap</strong> — /es/blog/empresa-de-techos-shallotte-nc had zero internal links, so the prerender crawler never rendered it (sitemap advertised a 404).</td><td><code>live: 404, in sitemap</code></td><td><span class="badge b-done">✅ FIXED</span> — cross-linked from sibling Shallotte posts; now prerenders (642 routes)</td></tr>
+    <tr><td>T7</td><td><strong>GSC re-check in ~5–7 days</strong> (per plan): indexing counts after deploy, CTR movement on fixed titles, request indexing for money pages still in "Discovered".</td><td>—</td><td><span class="badge b-med">Scheduled</span></td></tr>
+  </table>
+  <p class="sub" style="margin-top:.75rem"><strong>Verification after fixes:</strong> full re-sweep of all 109 rendered content pages — 0 truncated titles, 0 duplicate-brand titles, 0 canonical mismatches. Build: 642 routes, 0 errors, 66 shell redirects.</p>
+</div>
+
 <h2>✅ Completed — Round 3: Indexing Investigation (83 non-indexed pages)</h2>
 <div class="card">
   <p style="margin-top:0"><strong>Diagnosis from GSC Page Indexing report</strong> (53 indexed / 83 not): 56 "Discovered – currently not indexed", 9 "Page with redirect", 8 "Crawled – currently not indexed", 7 "Duplicate, Google chose different canonical", 3 "Alternate with proper canonical". Three root causes found and fixed:</p>

@@ -112,6 +112,9 @@ export default defineNuxtConfig({
     discoverImages: true,
     discoverVideos: true,
     chunks: false,
+    // GSC Pages fix (2026-10-07 audit): thank-you page must never be
+    // submitted. Only canonical 200 URLs belong in the sitemap.
+    exclude: ['/success', '/es/success'],
   },
   app: {
     head: {
@@ -160,7 +163,7 @@ export default defineNuxtConfig({
       openingHoursSpecification: [
         {
           dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-          opens: '07:00',
+          opens: '08:00',
           closes: '18:00'
         }
       ],

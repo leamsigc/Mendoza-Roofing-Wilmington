@@ -310,3 +310,7 @@ You can reach **Mendoza Roofing LLC** at:
 Or fill out the form on our **Contact** page, and we'll schedule a convenient time to inspect your roof in Wilmington, Supply, or anywhere in Brunswick County.
 
 ---
+
+## Need a Roofer in Shallotte Now?
+
+If you've finished the checklist and want the short answer: [Mendoza Roofing LLC](/shallotte-nc-roofing) — based 15 minutes away in Supply, NC, serving Shallotte, Ocean Isle Beach and Sunset Beach since 1974. Free estimates, call [910-367-7628](tel:9103677628).

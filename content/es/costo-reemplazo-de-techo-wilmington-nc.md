@@ -138,10 +138,10 @@ No adivine sobre el costo de reemplazo de su techo. Obtenga un número real de u
 Servimos Wilmington, Southport, Oak Island, Leland, Shallotte, Supply y todo el Condado de Brunswick.
 
 **Páginas relacionadas:**
-- [Reemplazo de Techo Wilmington NC](/reemplazo-de-techo-wilmington-nc)
-- [Reparación de Techos Wilmington NC](/reparacion-de-techos-wilmington-nc)
-- [Techos de Metal Wilmington NC](/techos-de-metal-wilmington-nc)
-- [Techo FORTIFIED Wilmington NC](/techado-fortified-wilmington-nc)
+- [Reemplazo de Techo Wilmington NC](/es/reemplazo-de-techo-wilmington-nc)
+- [Reparación de Techos Wilmington NC](/es/reparacion-de-techos-wilmington-nc)
+- [Techos de Metal Wilmington NC](/es/techos-de-metal-wilmington-nc)
+- [Techo FORTIFIED Wilmington NC](/es/techado-fortified-wilmington-nc)
 - [Guía de Costo de Reparación de Techo](/es/blog/costo-reemplazo-techo-wilmington-nc)
 
 </div>

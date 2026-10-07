@@ -87,22 +87,22 @@ services:
     link: /contact
   - id: 2
     title: Metal & Especiales
-    description: Instalación experta de techos de metal, techos de ladrillos, techos de ladrillos y techos de ladrillos y techos de ladrillos.
+    description: Instalación experta de techos de metal, teja y pizarra para la costa de Carolina del Norte. Materiales resistentes a huracanes con hasta 50 años de garantía.
     iconName: i-heroicons-shield-check
     link: /contact
   - id: 3
     title: Techos Planos Comerciales
-    description: Especialistas en techos planos y instaladores aprobados para techos planos y techos planos y techos planos.
+    description: Especialistas en techos planos (TPO, EPDM) e instaladores aprobados de membranas impermeables EDS para negocios y propiedades comerciales.
     iconName: i-heroicons-clipboard-document-check
     link: /contact
   - id: 4
     title: Reparaciones & Mantenimiento
-    description: Reparaciones de techos, punteadas, reparaciones de techos, limpieza de techos, y techos de techos.
+    description: Reparación de goteras y chimeneas, sellado, limpieza a presión y recubrimientos para alargar la vida útil de su techo.
     iconName: i-heroicons-wrench-screwdriver
     link: /contact
   - id: 5
-    title: Gutter, Fascia & Soffits
-    description: Protección exterior completa incluyendo fascia, soffits, y techos de techos.
+    title: Canalones, Fascia & Sofitos
+    description: Protección exterior completa con instalación y reparación de canalones, fascia y sofitos para prevenir daños por agua.
     iconName: i-heroicons-home-modern
     link: /contact
   - id: 6
@@ -123,6 +123,21 @@ Desde nuevas construcciones hasta restauraciones históricas, manejamos cada asp
 ::
 
 ::ChecklistSection
+---
+list:
+  - title: Totalmente Asegurados
+    desc: Seguro de responsabilidad y compensación laboral en todos los empleados.
+  - title: Licencia Estatal
+    desc: Al día con todas las regulaciones locales y estatales.
+  - title: Cuadrillas Locales
+    desc: Nativos del condado de Brunswick. Conocemos el clima y la arquitectura local.
+  - title: Contratos Claros
+    desc: Precios transparentes. Sin costos ocultos. Cumplimos nuestra palabra.
+  - title: Reputación Establecida
+    desc: Credibilidad en la comunidad con referencias de trabajos anteriores.
+  - title: Estimaciones Gratis
+    desc: Inspecciones e informes detallados antes de empezar.
+---
 #title
 El Estándar <br /> <span class="text-gold-500">Mendoza</span>
 #description
@@ -176,6 +191,20 @@ link: /contact
 - [Financiamiento para Techos](/es/opciones-financiamiento-techo-nc) — Planes de pago, ayuda con seguros y subvenciones FORTIFIED
 - [Contacto](/es/contact) — Solicite un estimado gratuito
 - [Herramientas para Propietarios](/es/tools) — Calculadora de costos y listas de verificación
+
+## Preguntas Frecuentes
+
+**¿Cuánto tiempo toma un reemplazo de techo?**
+La mayoría de los reemplazos de techo residencial toman 1-3 días, dependiendo del tamaño y complejidad. Proveemos un cronograma detallado durante su estimación gratis.
+
+**¿Ofrecen estimaciones gratis?**
+¡Sí! Ofrecemos inspecciones y estimaciones sin compromiso. Llame al 910-367-7628 para agendar.
+
+**¿Están licenciados y asegurados?**
+Sí, Mendoza Roofing LLC está plenamente licenciado y asegurado en Carolina del Norte. Servimos a Wilmington y el Condado de Brunswick con más de 50 años de experiencia combinada.
+
+**¿Trabajan con reclamaciones de seguros?**
+Sí, tenemos experiencia extensiva trabajando con compañías de seguros para daños por tormentas y reclamaciones. Podemos ayudarle a navegar el proceso.
 
 ## Artículos Recientes
 

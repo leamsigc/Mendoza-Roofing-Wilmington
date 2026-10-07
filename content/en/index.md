@@ -112,6 +112,8 @@ ogImage:
 - [Bolivia NC Roofing](/bolivia-nc-roofing) — Brunswick County seat
 - [Holden Beach NC Roofing](/holden-beach-nc-roofing) — Barrier island roofing
 - [Coastal Roofing NC](/coastal-roofing-north-carolina) — Hurricane-rated coastal roofing
+- [Ogden NC Roofers](/roofers-ogden-nc) — 20-year shingle replacements in northern Wilmington
+- [Porters Neck NC Roofers](/roofers-porters-neck-nc) — New construction & storm repairs
 
 ## Additional Services
 
@@ -124,6 +126,23 @@ ogImage:
 ## Free Homeowner Tools
 
 - [Roof Cost Estimator & Storm Damage Checklist](/tools) — Free interactive tools for Wilmington homeowners
+
+## Frequently Asked Questions
+
+**How long does a roof replacement take?**
+Most residential roof replacements in Wilmington NC take 1-3 days, depending on the size and complexity of your roof. Mendoza Roofing provides a detailed timeline during your free estimate.
+
+**Do you offer free estimates?**
+Yes! Mendoza Roofing offers free, no-obligation roof inspections and estimates throughout Wilmington NC and Brunswick County. Call 910-367-7628 to schedule yours today.
+
+**Are you licensed and insured?**
+Yes, Mendoza Roofing LLC is fully licensed and insured in North Carolina. We serve Wilmington and Brunswick County with 50+ years of combined experience.
+
+**Do you work with insurance claims?**
+Yes, we have extensive experience working with insurance companies for storm damage and roof repair claims. We can help you navigate the claims process from inspection to settlement.
+
+**What types of roofing do you install?**
+We offer residential roofing, commercial roofing, metal roofing, asphalt shingles, flat roofs (TPO/EPDM), roof repairs, and gutter installation. Serving Wilmington NC, Oak Island, Southport, Leland, and Shallotte.
 
 ## Latest From Our Blog
 

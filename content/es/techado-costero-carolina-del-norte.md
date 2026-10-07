@@ -114,7 +114,7 @@ El programa **IBHS FORTIFIED Roof** fue diseñado específicamente para áreas c
 - Subvenciones NC FORTIFIED hasta $6,000 en algunos condados costeros
 - Certificación por 5 años, renovable con inspección
 
-[Más sobre Techos FORTIFIED →](/techado-fortified-wilmington-nc)
+[Más sobre Techos FORTIFIED →](/es/techado-fortified-wilmington-nc)
 
 ---
 

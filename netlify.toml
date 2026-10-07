@@ -10,6 +10,78 @@
   to = "/.netlify/functions/:splat"
   status = 200
 
+# SEO duplicate-intent consolidation (2026-10-07 GSC audit).
+# The [...slug].vue runtime also 301s these, but explicit edge rules win
+# even for prerendered shells. Survivor pages keep the equity.
+# 1. Short inspection slug -> canonical keyword-explicit survivor
+[[redirects]]
+  from = "/free-inspection"
+  to = "/free-roof-inspection-wilmington-nc"
+  status = 301
+  force = true
+
+# 2. Weaker Shallotte blog -> better-performing survivor (GSC pos 11.8)
+[[redirects]]
+  from = "/blog/roofing-contractor-shallotte-nc"
+  to = "/blog/roofing-company-shallotte-nc"
+  status = 301
+  force = true
+
+# 3. Stray Spanish slugs at root (source files deleted) -> /es/ canonicals
+[[redirects]]
+  from = "/costo-reemplazo-de-techo-wilmington-nc"
+  to = "/es/costo-reemplazo-de-techo-wilmington-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reparacion-de-danos-por-tormenta-condado-brunswick"
+  to = "/es/reparacion-de-danos-por-tormenta-condado-brunswick"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/inspeccion-gratis-de-techo-wilmington-nc"
+  to = "/es/inspeccion-gratis-de-techo-wilmington-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/techos-condado-brunswick-nc"
+  to = "/es/techos-condado-brunswick-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reparacion-de-emergencia-wilmington-nc"
+  to = "/es/reparacion-de-emergencia-wilmington-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/techos-supply-nc"
+  to = "/es/techos-supply-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/techado-residencial-wilmington-nc"
+  to = "/es/techado-residencial-wilmington-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/contratista-de-techos-shallotte-nc"
+  to = "/es/blog/contratista-de-techos-shallotte-nc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/costo-reemplazo-techo-wilmington-nc"
+  to = "/es/costo-reemplazo-de-techo-wilmington-nc"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]

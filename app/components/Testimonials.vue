@@ -11,6 +11,9 @@
  * @todo [✔] Update the typescript.
  */
 import { TESTIMONIALS } from '~/utils/constants'
+
+const { locale } = useI18n()
+const isEs = computed(() => locale.value === 'es')
 </script>
 
 <template>
@@ -18,14 +21,14 @@ import { TESTIMONIALS } from '~/utils/constants'
         <div class="max-w-7xl mx-auto px-4 md:px-8">
             <div class="text-center mb-16">
                 <h2 class="text-4xl md:text-5xl font-display font-bold text-navy-900 dark:text-white uppercase mb-4">
-                    What Neighbors Say</h2>
+                    {{ isEs ? 'Lo que dicen los vecinos' : 'What Neighbors Say' }}</h2>
                 <div
                     class="inline-flex items-center gap-2 bg-white dark:bg-navy-900 px-4 py-2 rounded-full shadow-sm border border-gray-200 dark:border-navy-700">
                     <span class="font-bold text-navy-900 dark:text-white">5.0</span>
                     <div class="flex text-gold-500">
                         <UIcon v-for="i in 5" :key="i" name="i-heroicons-star-solid" class="w-4 h-4" />
                     </div>
-                    <span class="text-gray-500 dark:text-gray-400 text-sm">on Google Reviews</span>
+                    <span class="text-gray-500 dark:text-gray-400 text-sm">{{ isEs ? 'en reseñas de Google' : 'on Google Reviews' }}</span>
                 </div>
             </div>
 
