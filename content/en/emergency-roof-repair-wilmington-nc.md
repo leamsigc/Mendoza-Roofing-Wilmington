@@ -163,6 +163,25 @@ Mendoza Roofing can prepare a detailed **written damage assessment and photo rep
 - [Storm Damage Roof Repair Brunswick County](/blog/storm-damage-roof-repair-brunswick-county)
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc)
 
+
+## Frequently Asked Questions
+
+### How quickly can Mendoza Roofing respond to a roof emergency in Wilmington NC?
+
+Mendoza Roofing offers 24/7 emergency response throughout Wilmington NC and Brunswick County. For true emergencies involving active leaks or major storm damage, we aim to respond within hours, not days. Call 910-367-7628 immediately for roof emergencies.
+
+### What counts as a roofing emergency in Wilmington NC?
+
+A roofing emergency in Wilmington NC includes: active water intrusion through the roof into your home, large sections of roof blown off or displaced by wind, structural damage from fallen trees or debris, significant hurricane or tropical storm damage exposing your home's interior. For these situations, call 910-367-7628 immediately — 24 hours a day, 7 days a week.
+
+### Does insurance cover emergency roof repair in Wilmington NC?
+
+Most homeowners insurance policies cover emergency roof repairs caused by sudden events like storms, wind, hail, or falling trees. We recommend calling your insurance company to file a claim and then calling Mendoza Roofing. We can provide detailed photo documentation and a written damage report to support your insurance claim.
+
+### Who offers emergency roof leak repair in Wilmington, NC?
+
+Mendoza Roofing LLC offers 24/7 emergency roof leak repair in Wilmington, NC and Brunswick County, including leak containment, emergency tarping and permanent repairs. Call 910-367-7628. Other local options include Trust Roofing and Restoration and Breeze Roofing. Ask about response time, after-hours fees, tarping and insurance documentation before dispatch.
+
 </div>
 
 ::AppCta

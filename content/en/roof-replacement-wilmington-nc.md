@@ -189,6 +189,7 @@ Don't wait until a small problem becomes a major disaster. Contact Mendoza Roofi
 - [Commercial Roofing Wilmington NC](/commercial-roofing-wilmington-nc)
 - [Roofing Contractors Wilmington NC](/wilmington-nc-roofing)
 - [Emergency Roof Repair Wilmington NC](/emergency-roof-repair-wilmington-nc)
+- [Roofing FAQ: replacement costs, timelines and materials](/faq)
 
 </div>
 

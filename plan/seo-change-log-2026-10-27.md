@@ -108,3 +108,52 @@ modifiers:
 - Add an ES version of `/roof-repair-near-me` for the Spanish funnel.
 - Watch `/wilmington-nc-roofing` (0 clicks / 1,978 impressions) — ranking is the
   constraint there, not the snippet.
+
+## AI answer cluster (2026-10-27, second wave)
+
+Goal: be quotable for the 15 prompts tracked in the AI visibility run
+(commercial roofing, roof repair, roof replacement). Rather than 15 thin
+location pages, the content is split into one focused page per prompt, with
+existing pages upgraded where they already own the intent.
+
+New pages (EN):
+
+- `/commercial-roofing-contractor-checklist-wilmington-nc`
+- `/commercial-roof-replacement-cost-wilmington-nc`
+- `/flat-roofing-systems-wilmington-nc`
+- `/commercial-roofing-minimal-disruption-wilmington-nc`
+- `/commercial-roofing-companies-wilmington-nc`
+- `/roof-repair-warranty-wilmington-nc`
+- `/roof-repair-cost-wilmington-nc`
+- `/best-roof-repair-companies-wilmington-nc`
+- `/questions-to-ask-a-roofing-contractor-wilmington-nc`
+- `/roof-replacement-timeline-wilmington-nc`
+- `/best-roof-replacement-companies-wilmington-nc`
+
+Upgraded (visible FAQ now matches the existing FAQPage schema, plus the exact
+prompt question):
+
+- `/emergency-roof-repair-wilmington-nc`
+- `/roof-replacement-cost-wilmington-nc`
+- `/blog/roof-repair-vs-replacement-wilmington-nc`
+- `/blog/roofing-materials-guide-wilmington-nc`
+
+The `/faq` page is now the hub: 15 exact-prompt H3s, a 40–70 word direct answer
+for each, cost/timeline/comparison tables, company facts (NAP, credentials,
+service area), sources (NRCA, NC DOJ, IBHS, FEMA), and a link to every deep
+guide. FAQPage schema carries all 15 answers verbatim.
+
+Also changed:
+
+- Footer now links to `/faq` sitewide; commercial/repair/replacement pages link
+  to the hub.
+- Fixed a YAML indentation error in `gutter-guards-shallotte-nc.md` that broke
+  its FAQ schema.
+- Set `aiReady.llmsTxtCacheSeconds: 0`. The module was reusing the previous
+  deploy's page list during prerender, so newly added pages were missing from
+  `llms.txt` until the next build. `llms-full.txt` was already correct.
+
+Verification (local `nuxt generate`): 473 routes, 0 errors; 117 pages audited
+with 0 broken hreflang, 0 H1 issues, 0 internal links to redirects, 0 meta
+descriptions outside range; sitemap 68 EN + 45 ES; all 11 new pages present in
+sitemap and `llms.txt`.

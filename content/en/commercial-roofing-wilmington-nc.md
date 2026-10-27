@@ -277,6 +277,7 @@ We provide **free commercial roof inspections and detailed proposals** for all W
 - [Roof Repair Wilmington NC](/roof-repair-wilmington-nc)  
 - [Emergency Roof Repair Wilmington NC](/emergency-roof-repair-wilmington-nc)  
 - [Brunswick County Roofing](/brunswick-county-roofing)
+- [Roofing FAQ: costs, warranties and contractor questions](/faq)
 
 </div>
 

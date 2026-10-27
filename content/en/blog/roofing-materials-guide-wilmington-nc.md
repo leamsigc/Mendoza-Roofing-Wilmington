@@ -156,3 +156,18 @@ We've been helping Wilmington homeowners choose the right roofing material for 5
 - [Metal Roofing Wilmington NC](/metal-roofing-wilmington-nc)
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc)
 - [How Much Does Roof Repair Cost in Wilmington NC?](/blog/roof-repair-cost-wilmington-nc)
+
+## Frequently Asked Questions
+
+### What is the best roofing material for Wilmington NC?
+
+The best roofing material for Wilmington NC depends on your budget and goals. For most homeowners, architectural asphalt shingles (Class 3 or 4, wind-rated 110-130 mph) offer the best combination of cost and performance. For maximum longevity and storm resistance near the coast, standing seam aluminum metal roofing is the top choice. Contact Mendoza Roofing for a personalized recommendation based on your specific home.
+
+### How long do asphalt shingles last in Wilmington NC?
+
+Asphalt shingles in Wilmington NC typically last 15-20 years for standard 3-tab shingles and 20-28 years for architectural shingles. This is shorter than the same products installed inland, due to salt air, higher UV exposure, and more frequent storm events. Proper installation, ventilation, and annual maintenance extends shingle life in coastal environments.
+
+### Which roofing materials are best for homes near Wilmington, NC?
+
+For homes near Wilmington, NC, architectural asphalt shingles offer the best value, standing-seam metal offers the best coastal durability with a 40 to 70 year lifespan, and clay or concrete tile offers the longest service life. Specify high wind ratings, corrosion-resistant fasteners, sealed roof decking and FORTIFIED details; salt exposure and wind uplift matter as much as the material.
+

@@ -139,6 +139,11 @@ const { preference } = useColorMode()
                             </LocaleLink>
                         </li>
                         <li>
+                            <LocaleLink to="/faq" class="hover:text-gold-500">
+                                FAQ
+                            </LocaleLink>
+                        </li>
+                        <li>
                             <LocaleLink to="/contact" class="hover:text-gold-500">
                                 {{ t('nav.contact') }}
                             </LocaleLink>

@@ -56,7 +56,7 @@ schemaOrg:
           text: "Yes. Shallotte's tree canopy and coastal weather mean gutters fill quickly with leaves, pine needles, and debris. Gutter guards eliminate the need for frequent cleaning, prevent clogs that cause water damage to fascia and foundations, and keep gutters functioning properly during heavy Brunswick County rainstorms."
       - "@type": "Question"
         name: "Do you install gutter guards on existing gutters in Shallotte?"
-          acceptedAnswer:
+        acceptedAnswer:
           "@type": "Answer"
           text: "Yes, we install gutter guards on existing seamless gutter systems throughout Shallotte and Brunswick County. Our team inspects your current gutters, makes any needed repairs, then installs the appropriate guard system — usually in a single day."
 ---

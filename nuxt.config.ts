@@ -213,6 +213,13 @@ export default defineNuxtConfig({
     }
   },
 
+  aiReady: {
+    // llms.txt is a prerendered static file. Disable the runtime cache so a
+    // build never reuses the previous deploy's page list (new pages were being
+    // omitted from llms.txt until the following build).
+    llmsTxtCacheSeconds: 0,
+  },
+
   umami: {
     id: '3e769e50-daf4-4542-8056-a18c02cf11e1',
     host: 'https://umami.giessen.dev',

@@ -184,6 +184,7 @@ For a more detailed breakdown of repair costs, see: [How Much Does Roof Repair C
 - [Emergency Roof Repair Wilmington NC](/emergency-roof-repair-wilmington-nc)
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc)
 - [Roofing Contractors Wilmington NC](/wilmington-nc-roofing)
+- [Roofing FAQ: repair costs, warranties and contractor questions](/faq)
 
 </div>
 

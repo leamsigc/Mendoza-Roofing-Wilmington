@@ -227,3 +227,30 @@ The honest answer depends on your specific roof. We give you both options with r
 Call **910-367-7628** for a free professional inspection. We'll show you the roof, photograph everything, and give you a straightforward recommendation — repair or replace — with honest pricing and no pressure.
 
 **Don't pay for another patch on an old roof.** The inspection is free. The recommendation is honest. The choice is yours.
+
+## Frequently Asked Questions
+
+### How much does roof repair cost in Wilmington NC vs full replacement?
+
+Roof repair in Wilmington NC runs $150-$500 for minor repairs (patching a small leak, replacing a few shingles) to $500-$2,000 for moderate damage. Full roof replacement runs $12,000-$25,000+ for a typical residential home depending on size and materials. The key question: if repairs exceed 30-40% of replacement cost, replacement is typically the better long-term investment.
+
+### At what point should I replace my roof instead of repairing it?
+
+Replace your roof when: 1) Your roof is 20+ years old (15+ for coastal or storm-damaged areas), 2) Repairs are needed in multiple areas, 3) Repair costs exceed 30-40% of replacement cost, 4) Shingles are broadly curling, cracking, or losing granules, 5) You are selling your home and the buyer requests it, 6) The roof has been storm-damaged multiple times.
+
+### Will patching extend my roof lifespan in Wilmington NC?
+
+Patching extends lifespan for 3-7 years on a otherwise healthy roof with isolated damage. After that point, diminishing returns kick in — each subsequent repair reveals more underlying problems. With Wilmington's coastal climate and storm exposure, patching on an aging roof rarely extends useful life beyond one storm event. If your roof is over 20 years old and needs its third significant repair, consider replacement.
+
+### How long does a new roof last in Wilmington NC compared to repairs?
+
+Architectural shingles last 25-30 years in our climate with proper ventilation. Metal roofs last 40-70 years. A patch job extends life 3-7 years. If your roof is showing multiple warning signs, a full replacement often costs less overall than repeated patch jobs over 5-10 years — and you get a transferable warranty.
+
+### Does homeowners insurance cover roof replacement in Wilmington NC?
+
+Insurance typically covers replacement when damage is caused by a sudden covered event — hurricane, hail, windstorm, or falling trees. Insurance does NOT cover normal aging, wear, or improper installation. After storm damage, file your claim promptly — we provide detailed documentation to support your claim and work directly with adjusters.
+
+### When should a Wilmington homeowner replace rather than repair a roof?
+
+Replace rather than repair when the roof is 20 or more years old, leaks recur in multiple areas, shingles are widely failing, decking is soft or sagging, or repairs approach 30 to 40 percent of replacement cost. Repair when the roof is under 15 years old, damage is isolated and the deck is sound. A free inspection should compare both options.
+

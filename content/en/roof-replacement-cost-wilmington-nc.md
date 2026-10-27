@@ -205,6 +205,33 @@ We serve Wilmington, Southport, Oak Island, Leland, Shallotte, Supply, and all o
 - [Roof Repair Cost Guide](/blog/roof-repair-cost-wilmington-nc)
 - [Roof Replacement Cost 2026 Deep Guide (Blog)](/blog/roof-replacement-cost-wilmington-nc) — full material-by-material breakdown
 
+
+## Frequently Asked Questions
+
+### How much does roof replacement cost in Wilmington NC?
+
+Roof replacement in Wilmington NC costs $8,000-$35,000+ depending on material and home size. A typical 2,000 sq ft home with architectural asphalt shingles runs $12,000-$18,000. Metal roofing costs $15,000-$35,000+. Tile roofing $18,000-$40,000+. Contact Mendoza Roofing at 910-367-7628 for a free specific estimate.
+
+### What is the cheapest roof replacement option in Wilmington NC?
+
+3-tab asphalt shingles are the most affordable option at $8,000-$12,000 for a typical home. However, architectural shingles ($12,000-$18,000) offer better value with a 25-30 year lifespan vs. 15-20 years for 3-tab. In Wilmington's coastal climate, the extra upfront cost of architectural shingles saves money long-term.
+
+### Does homeowners insurance cover roof replacement in Wilmington NC?
+
+Insurance typically covers roof replacement when damage is caused by a covered peril like wind, hail, hurricanes, or falling trees. Normal wear, age, and lack of maintenance are NOT covered. Mendoza Roofing can document storm damage and work with your insurance adjuster to support your claim.
+
+### How can I finance a roof replacement in Wilmington NC?
+
+Mendoza Roofing offers financing options to help spread the cost of a roof replacement over time. We work with lending partners to provide competitive rates. Ask about financing when you request your free estimate. Many homeowners also qualify for insurance payouts after storm damage, which can cover most or all of the replacement cost.
+
+### Why is roof replacement more expensive in coastal NC vs inland?
+
+Coastal roof replacement in Wilmington NC costs more due to: wind-rated materials required by building code, enhanced fastening patterns for hurricane resistance, corrosion-resistant materials for salt air, higher insurance costs for contractors working in coastal zones, and stricter permitting requirements from New Hanover and Brunswick County building departments.
+
+### How much does a new roof cost in Wilmington, NC?
+
+A new roof in Wilmington, NC typically costs $8,000 to $18,000 for an average home with asphalt shingles. Architectural shingles run $12,000 to $18,000, impact-resistant shingles $14,000 to $22,000, metal $15,000 to $35,000 or more, and tile $18,000 to $40,000 or more. Roof size, material, tear-off layers, deck repairs and wind-rated details drive the price.
+
 </div>
 
 ::AppCta
