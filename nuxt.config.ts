@@ -30,6 +30,14 @@ export default defineNuxtConfig({
     prerender: {
       crawlLinks: true,
       autoSubfolderIndex: false,
+      // The Netlify preset does not always discover the sitemap XML routes
+      // (they are referenced from robots.txt, not from <a> tags). Prerender
+      // them explicitly so /__sitemap__/*.xml is always served as a static file.
+      routes: [
+        '/sitemap_index.xml',
+        '/__sitemap__/en-US.xml',
+        '/__sitemap__/es-ES.xml',
+      ],
       ignore: ['/_ipx/', '/_fonts', '/_nuxt/', '/_scripts/'],
     }
   },

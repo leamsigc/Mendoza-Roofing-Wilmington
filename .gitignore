@@ -23,7 +23,6 @@ logs
 .env.*
 !.env.example
 .unlighthouse
-pnpm-lock.yaml
 # Test coverage
 coverage/
 
