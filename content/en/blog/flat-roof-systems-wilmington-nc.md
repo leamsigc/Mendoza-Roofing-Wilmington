@@ -1,8 +1,8 @@
 ---
 title: 'Flat Roof Systems Wilmington NC: TPO, EPDM'
-description: 'Complete guide to flat roof systems in Wilmington NC. Compare TPO, EPDM, and modified bitumen for commercial and residential flat roofs. Expert installation — call 910-367-7628!'
+description: 'Complete guide to flat roof systems in Wilmington NC. Compare TPO, EPDM, and modified bitumen for commercial and residential flat roofs.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Flat Roof Systems Wilmington NC - TPO EPDM'
 tags: ['Flat Roof', 'Commercial Roofing', 'TPO', 'EPDM', 'Wilmington', 'NC']
 date: '2026-02-19'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Flat Roof Systems in Wilmington NC'
     description: 'TPO, EPDM, and modified bitumen explained for commercial and residential buildings.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Flat Roof Guide'
 schemaOrg:
   - "@type": "BlogPosting"

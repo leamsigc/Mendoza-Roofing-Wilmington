@@ -1,8 +1,8 @@
 ---
 title: 'How to Choose a Roofing Contractor in NC'
-description: 'Learn the most important questions to ask, what to look for, and how to avoid scams when hiring a roofing contractor in the Wilmington, Supply, and Brunswick County areas.'
+description: 'Learn the most important questions to ask, what to look for, and how to avoid scams when hiring a roofing contractor in the Wilmington, Supply.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Finding the right roofing contractor in Wilmington, NC'
 tags: ['Roofing Contractor', 'Residential', 'Commercial', 'Wilmington', 'Supply', 'Brunswick County', 'North Carolina', 'Roofing Services']
 date: '2026-01-08'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'How to Choose a Roofing Contractor in Wilmington, Supply & Brunswick County, NC'
     description: 'Learn the most important questions to ask, what to look for, and how to avoid scams when hiring a roofing contractor.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Choosing a Roofing Contractor'
 layout: 'blog-layout'
 schemaOrg:

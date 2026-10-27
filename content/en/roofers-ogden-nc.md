@@ -2,7 +2,7 @@
 title: 'Roofers in Ogden NC'
 description: 'Roofers serving Ogden NC since 1974. Shingle replacement for 80s-2000s homes, storm repair, free estimates from a New Hanover County crew. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofers in Ogden NC - Mendoza Roofing'
 date: '2026-08-25'
 publishedAt: '2026-08-25'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofers in Ogden NC'
     description: 'Trusted roofers serving Ogden NC since 1974. Free estimates — call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Ogden NC Roofers'
 schemaOrg:
   - "@type": "LocalBusiness"

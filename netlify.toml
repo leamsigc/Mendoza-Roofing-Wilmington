@@ -29,6 +29,12 @@
 
 # 3. Stray Spanish slugs at root (source files deleted) -> /es/ canonicals
 [[redirects]]
+  from = "/es/free-inspection"
+  to = "/es/inspeccion-gratis-de-techo-wilmington-nc"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/costo-reemplazo-de-techo-wilmington-nc"
   to = "/es/costo-reemplazo-de-techo-wilmington-nc"
   status = 301

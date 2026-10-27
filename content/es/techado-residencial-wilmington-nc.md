@@ -1,8 +1,8 @@
 ---
 title: 'Techado Residencial en Wilmington NC'
-description: 'Servicios de techado residencial de confianza en Wilmington NC. Protección para su hogar con tejas de asfalto, metal y más. ¡Estimados gratis – llame al 910-367-7628!'
+description: 'Servicios de techado residencial de confianza en Wilmington NC. Protección para su hogar con tejas de asfalto, metal y más.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techado Residencial en Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Techado Residencial en Wilmington NC'
     description: 'Cuidamos el techo de su casa como si fuera el nuestro. Expertos locales en Wilmington desde 1974.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos para Casas'
 schemaOrg:
   - "@type": "Service"
@@ -44,7 +44,7 @@ subtitle: Protegiendo lo que Más Importa — Su Hogar y Su Familia
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techado Residencial en Wilmington, NC
+## Techado Residencial en Wilmington, NC
 
 Su hogar es probablemente su mayor inversión. En **Mendoza Roofing LLC**, nos dedicamos a proteger esa inversión con servicios de techado residencial de la más alta calidad en Wilmington NC y todo el Condado de Brunswick.
 

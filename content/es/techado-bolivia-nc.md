@@ -2,7 +2,7 @@
 title: 'Techado en Bolivia NC | Techadores Locales'
 description: 'Contratista de techos en Bolivia NC. Reparación, reemplazo y reparación de daños por tormenta. Estimados gratis. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Contratista de techos Bolivia NC - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Sirviendo a la Sede del Condado de Brunswick y Comunidades Circundante
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Contratista de Techos en Bolivia, NC
+## Contratista de Techos en Bolivia, NC
 
 **Bolivia, NC** — la sede del Condado de Brunswick — es una comunidad en crecimiento en el corazón de la región. Como centro gubernamental del Condado de Brunswick, Bolivia alberga edificios municipales, oficinas profesionales y vecindarios residenciales que todos necesitan servicios confiables de techado.
 
@@ -106,10 +106,10 @@ Recomendamos:
 - **Email:** [contact@roofingmendoza.com](mailto:contact@roofingmendoza.com)
 
 **Áreas de servicio relacionadas:**
-- [Techado Condado de Brunswick](/es/brunswick-county-roofing)
+- [Techado Condado de Brunswick](/es/techos-condado-brunswick-nc)
 - [Techado Calabash NC](/es/techado-calabash-nc)
-- [Techado Shallotte NC](/es/brunswick-county-roofing)
-- [Techado Southport NC](/es/brunswick-county-roofing)
+- [Techado Shallotte NC](/es/techos-condado-brunswick-nc)
+- [Techado Southport NC](/es/techos-condado-brunswick-nc)
 
 </div>
 

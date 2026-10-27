@@ -29,7 +29,7 @@ const props = withDefaults(defineProps<Props>(), {
     <section class="relative bg-navy-900 text-white min-h-[85vh] flex items-center overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <NuxtImg src="/img/heroImage.png" alt="Roofing Construction Detail"
+            <NuxtImg src="/img/heroImage.jpg" alt="Roofing Construction Detail"
                 class="w-full h-full object-cover opacity-30 mix-blend-luminosity" loading="eager" />
             <div class="absolute inset-0 bg-linear-to-r from-navy-950 via-navy-900/90 to-transparent"></div>
         </div>
@@ -61,10 +61,10 @@ const props = withDefaults(defineProps<Props>(), {
                         class="bg-gold-500 text-navy-900 px-8 py-4 rounded-sm font-display font-bold text-xl hover:bg-white transition-all shadow-hard flex justify-center items-center gap-3 uppercase tracking-wider">
                         <UIcon name="i-heroicons-phone" class="w-6 h-6" /> {{ t('common.cta_call') }}
                     </a>
-                    <NuxtLinkLocale to="/contact"
+                    <LocaleLink to="/contact"
                         class="bg-transparent border-2 border-white text-white px-8 py-4 rounded-sm font-display font-bold text-xl hover:bg-white hover:text-navy-900 transition-all flex justify-center items-center gap-3 uppercase tracking-wider">
                         {{ t('common.cta_quote') }}
-                    </NuxtLinkLocale>
+                    </LocaleLink>
                 </div>
             </div>
         </div>

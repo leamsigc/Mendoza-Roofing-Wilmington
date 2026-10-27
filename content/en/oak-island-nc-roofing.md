@@ -2,7 +2,7 @@
 title: 'Roofing Oak Island NC | Coastal Roofers'
 description: 'Expert roofing on Oak Island NC. Coastal roof repair, replacement & storm damage restoration. 50+ years experience. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing contractor Oak Island NC - beach home roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing Contractor Oak Island NC'
     description: 'Expert coastal roofing for Oak Island beach homes. Storm damage, repair & replacement. 50+ years experience.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Oak Island NC Roofers'
 schemaOrg:
   - "@type": "FAQPage"

@@ -2,7 +2,7 @@
 title: 'Inspección Gratis de Techo Wilmington'
 description: 'Inspección gratis de techo en Wilmington NC. Evaluación profesional con fotos e informe escrito. Sin cargo ni compromiso. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Inspección gratis de techo Wilmington NC - Mendoza Roofing'
 date: '2026-05-30'
 publishedAt: '2026-05-30'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Inspección Gratis de Techo en Wilmington NC'
     description: 'Evaluación profesional de su techo con fotos e informe escrito. Sin cargo ni compromiso. Llame 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Inspección Gratis de Techo'
 schemaOrg:
   - "@type": "Service"

@@ -1,6 +1,6 @@
 ---
 title: 'Contacto | Estimado Gratis de Techo'
-description: 'Contacte a Mendoza Roofing para un estimado gratis de techo en Wilmington, Supply y el Condado de Brunswick NC. Llame al 910-367-7628 o complete nuestro formulario para respuesta el mismo día.'
+description: 'Contacte a Mendoza Roofing para un estimado gratis de techo en Wilmington, Supply y el Condado de Brunswick NC. Llame al 910-367-7628 o escríbanos hoy.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Contactar Mendoza Roofing - Estimados Gratis Wilmington NC'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Contáctenos - Estimado Gratis de Techado'
     description: 'Estimado de techo gratis en Wilmington y el Condado de Brunswick NC. Llame al 910-367-7628.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Póngase en Contacto'
 schemaOrg:
   - "@type": "FAQPage"

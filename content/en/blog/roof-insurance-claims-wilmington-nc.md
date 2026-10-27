@@ -1,8 +1,8 @@
 ---
 title: 'Roof Insurance Claims Wilmington NC'
-description: 'Step-by-step guide to filing a roof insurance claim in Wilmington NC after storm damage. What your insurer looks for, timeline, and how Mendoza Roofing helps. Call 910-367-7628.'
+description: 'Step-by-step guide to filing a roof insurance claim in Wilmington NC after storm damage. What your insurer looks for, timeline, and how Mendoza Roofing helps.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Roof Insurance Claim Wilmington NC - Mendoza Roofing'
 tags: ['Insurance Claim', 'Storm Damage', 'Wilmington', 'NC', 'Roof Repair']
 date: '2026-02-19'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'How to File a Roof Insurance Claim in Wilmington NC'
     description: 'Step-by-step guide so your claim gets approved.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Roof Insurance Claims NC'
 layout: 'blog-layout'
 schemaOrg:
@@ -33,7 +33,7 @@ schemaOrg:
       name: "Mendoza Team"
     datePublished: "2026-02-19"
     description: "Complete guide to navigating a roof insurance claim in Wilmington, NC and coastal Brunswick County."
-    image: "/img/roofingMendozaSolarPanels.png"
+    image: "/img/roofingMendozaSolarPanels.jpg"
     articleSection: "Roof Insurance Claims"
     keywords:
       - "roof insurance claim wilmington nc"

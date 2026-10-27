@@ -27,18 +27,18 @@ const isEs = computed(() => locale.value === 'es')
                         : 'Use our free online tools to get a cost estimate or check for storm damage before calling a professional. Empowering homeowners is our priority.' }}
                 </p>
                 <div class="flex gap-4">
-                    <NuxtLinkLocale to="/tools"
+                    <LocaleLink to="/tools"
                         class="bg-teal-700 dark:bg-teal-600 text-white px-6 py-3 rounded-sm font-bold uppercase shadow-hard hover:bg-teal-800 dark:hover:bg-teal-700 flex items-center gap-2 transition-colors">
                         <UIcon name="i-heroicons-calculator" class="w-5 h-5" /> {{ isEs ? 'Calculadora de Costos' : 'Cost Estimator' }}
-                    </NuxtLinkLocale>
-                    <NuxtLinkLocale to="/tools"
+                    </LocaleLink>
+                    <LocaleLink to="/tools"
                         class="bg-white dark:bg-navy-800 text-navy-900 dark:text-white border border-gray-300 dark:border-navy-600 px-6 py-3 rounded-sm font-bold uppercase shadow-sm hover:bg-gray-50 dark:hover:bg-navy-700 flex items-center gap-2 transition-colors">
                         <UIcon name="i-heroicons-clipboard-document-check" class="w-5 h-5" /> {{ isEs ? 'Lista de Seguridad' : 'Safety Checklist' }}
-                    </NuxtLinkLocale>
+                    </LocaleLink>
                 </div>
             </div>
             <div class="relative h-64 md:h-80 bg-navy-900 rounded-sm overflow-hidden shadow-hard">
-                <NuxtImg src="/img/roofingMendozaSolarPanels.png" :alt="isEs ? 'Inspección de techo' : 'Roof Inspection'"
+                <NuxtImg src="/img/roofingMendozaSolarPanels.jpg" :alt="isEs ? 'Inspección de techo' : 'Roof Inspection'"
                     class="w-full h-full object-cover opacity-80" />
                 <div class="absolute bottom-0 left-0 w-full p-4 bg-linear-to-t from-black/80 to-transparent">
                     <p class="text-white font-bold flex items-center gap-2">

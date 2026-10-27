@@ -1,6 +1,6 @@
 ---
 title: 'Roofing Services Wilmington NC'
-description: 'Full range of residential and commercial roofing services in Wilmington NC. Roof repair, replacement, metal roofing & gutters. Free estimates. Call 910-367-7628.'
+description: 'Full range of residential and commercial roofing services in Wilmington NC. Roof repair, replacement, metal roofing & gutters. Free estimates.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Roofing Services'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing Services Wilmington NC'
     description: 'Residential & commercial roofing services in Wilmington NC. Free estimates.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Our Services'
 schemaOrg:
   - "@type": "FAQPage"

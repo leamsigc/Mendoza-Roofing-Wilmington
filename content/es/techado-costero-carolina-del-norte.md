@@ -2,7 +2,7 @@
 title: 'Techado Costero en Carolina del Norte'
 description: 'Techado costero en NC requiere materiales y métodos especializados. Proteja su hogar de huracanes, aire salado y tormentas. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techado costero Carolina del Norte - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Techado Resistente a Huracanes, Clasificado para Aire Salado — Const
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techado Costero en Carolina del Norte
+## Techado Costero en Carolina del Norte
 
 El techado en la costa de Carolina del Norte es fundamentalmente diferente al techado en cualquier otra parte del estado. Los hogares en Wilmington, el Condado de Brunswick, los Outer Banks y la Crystal Coast enfrentan una combinación de factores ambientales que los hogares del interior nunca encuentran: **vientos de fuerza de huracán, corrosión por aire salado, más de 54 pulgadas de lluvia anual, exposición UV intensa y alta humedad**.
 
@@ -128,7 +128,7 @@ Exposición directa al Atlántico, mayor impacto de viento y aire salado. Metal 
 ### Condado de Brunswick (Supply, Shallotte, Southport, Oak Island)
 Condiciones costeras similares a Wilmington con exposición ligeramente menor al Atlántico directo en porciones occidentales. Todos los materiales viables con instalación adecuada.
 
-[Techado Condado de Brunswick →](/es/brunswick-county-roofing)
+[Techado Condado de Brunswick →](/es/techos-condado-brunswick-nc)
 
 ### Outer Banks
 Exposición costera extrema, mayores velocidades de viento, máximo aire salado. Techos de metal fuertemente recomendados. Se aplican códigos de construcción especializados.

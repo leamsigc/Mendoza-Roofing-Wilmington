@@ -2,7 +2,7 @@
 title: 'Roofing Bolivia NC | Local Roofers'
 description: 'Roofing contractor in Bolivia NC. Roof repair, replacement & storm damage repair. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing contractor Bolivia NC - Mendoza Roofing'
 date: '2026-05-18'
 publishedAt: '2026-05-18'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing in Bolivia, NC | Mendoza Roofing LLC'
     description: 'Local roofing contractor serving Bolivia NC and Brunswick County. 50+ years experience. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Bolivia NC Roofing'
 schemaOrg:
   - "@type": "LocalBusiness"

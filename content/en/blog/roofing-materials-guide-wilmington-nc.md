@@ -1,8 +1,8 @@
 ---
 title: 'Roofing Materials Guide Wilmington NC'
-description: 'Compare roofing materials for Wilmington NC homes: asphalt shingles, metal, tile, flat roof systems & more. Expert guidance on cost, lifespan, and what works best in coastal NC. Free estimates!'
+description: 'Compare roofing materials for Wilmington NC homes: asphalt shingles, metal, tile, and flat systems. Costs, lifespan, and what works best in coastal NC.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing materials guide Wilmington NC'
 tags: ['Roofing Materials', 'Wilmington', 'North Carolina', 'Asphalt Shingles', 'Metal Roofing', 'Guide']
 date: '2026-02-19'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Guide to Roofing Materials in Wilmington NC'
     description: 'Compare asphalt, metal, tile & flat roof materials for coastal NC homes. Expert guidance from Mendoza Roofing.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Roofing Materials Guide'
 
 schemaOrg:

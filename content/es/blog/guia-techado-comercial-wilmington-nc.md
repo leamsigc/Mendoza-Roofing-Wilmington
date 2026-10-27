@@ -2,7 +2,7 @@
 title: 'Guía de Techado Comercial Wilmington NC'
 description: 'Guía esencial para dueños de negocios en Wilmington. Mantenimiento de techos planos, TPO, EPDM e inspecciones comerciales.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Guía techado comercial Wilmington'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Guía Techado Comercial'
     description: 'Todo lo que un dueño de negocio debe saber sobre su techo.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos Comerciales'
 ---
 
@@ -34,7 +34,7 @@ subtitle: Maximizar la Inversión en el Techo de Su Negocio
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techado Comercial en Wilmington: Protegiendo Su Inversión
+## Techado Comercial en Wilmington: Protegiendo Su Inversión
 
 Para un dueño de negocio en Wilmington, NC, el techo de su edificio es una de las mayores inversiones de capital. Un techo plano que falla puede causar miles de dólares en daños a inventario, equipo e interrupciones en la operación. En **Mendoza Roofing LLC**, nos especializamos en ayudar a las empresas locales a mantener sus techos secos y eficientes.
 

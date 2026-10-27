@@ -2,7 +2,7 @@
 title: 'Same-Day Roof Repair Wilmington NC'
 description: 'Fast roof repair in Wilmington NC for leaks, storm damage & missing shingles. Same-day emergency service available. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roof repair Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roof Repair Wilmington NC'
     description: 'Fast, reliable roof repair in Wilmington NC. All damage types. 5-star rated. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Roof Repair Wilmington'
 schemaOrg:
   - "@type": "Service"
@@ -180,6 +180,7 @@ Don't let a small leak become a major structural problem. Call Mendoza Roofing t
 For a more detailed breakdown of repair costs, see: [How Much Does Roof Repair Cost in Wilmington NC?](/blog/roof-repair-cost-wilmington-nc)
 
 **Other services:**
+- [Roof Repair Near Me](/roof-repair-near-me)
 - [Emergency Roof Repair Wilmington NC](/emergency-roof-repair-wilmington-nc)
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc)
 - [Roofing Contractors Wilmington NC](/wilmington-nc-roofing)

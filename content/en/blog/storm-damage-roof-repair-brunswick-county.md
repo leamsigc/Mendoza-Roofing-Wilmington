@@ -1,8 +1,8 @@
 ---
 title: 'Storm Damage Roof Repair Brunswick County'
-description: 'Storm damage roof repair in Brunswick County NC. Hurricane, wind & hail damage restoration. Fast emergency response, insurance claim support. 50+ years experience – call 910-367-7628!'
+description: 'Storm damage roof repair in Brunswick County NC. Hurricane, wind & hail damage restoration. Fast emergency response, insurance claim support.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Storm damage roof repair Brunswick County NC'
 tags: ['Storm Damage', 'Roof Repair', 'Brunswick County', 'Hurricane', 'Emergency']
 date: '2026-02-19'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Storm Damage Roof Repair in Brunswick County NC'
     description: 'Hurricane, wind & hail damage restoration. Fast emergency response nationwide. Call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Storm Damage Repair'
 
 schemaOrg:

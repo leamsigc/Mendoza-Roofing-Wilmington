@@ -2,7 +2,7 @@
 title: 'Storm Damage Roof Repair Wilmington NC'
 description: 'Storm damage roof repair in Wilmington NC. Hurricane, wind & hail damage restoration. Emergency tarping, insurance claim support. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Storm damage roof repair in Wilmington NC - Mendoza Roofing'
 date: '2026-05-30'
 publishedAt: '2026-05-30'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Storm Damage Roof Repair in Wilmington NC'
     description: 'Hurricane, wind & hail damage restoration. Fast emergency response. Call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Storm Damage Repair Wilmington'
 schemaOrg:
   - "@type": "Service"

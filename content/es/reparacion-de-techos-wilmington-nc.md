@@ -1,8 +1,8 @@
 ---
 title: 'Reparación de Techos en Wilmington NC'
-description: 'Reparación de techos rápida y confiable en Wilmington NC. Goteras, daños por tormenta y reparaciones de emergencia. Más de 50 años de experiencia. Estimados gratis – llame 910-367-7628!'
+description: 'Reparación de techos rápida y confiable en Wilmington NC. Goteras, daños por tormenta y reparaciones de emergencia. Más de 50 años de experiencia.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Reparación de techos Wilmington NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Reparación de Techos en Wilmington NC'
     description: 'Reparación de techos rápida en Wilmington NC. Daños por tormenta, goteras y emergencias. Llame 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Reparación de Techos'
 schemaOrg:
   - "@type": "Service"
@@ -56,7 +56,7 @@ subtitle: Respuesta Rápida para Goteras y Daños por Tormenta — Disponibles 2
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Reparación de Techos en Wilmington, NC
+## Reparación de Techos en Wilmington, NC
 
 Una gotera en el techo es una emergencia — cada hora que pasa, el agua se extiende, humedece el aislamiento y pudre la madera. **Mendoza Roofing LLC** responde rápidamente a reparaciones de techos en Wilmington NC y todo el Condado de Brunswick. Llevamos **más de 50 años** reparando techos en el clima costero de Carolina del Norte.
 

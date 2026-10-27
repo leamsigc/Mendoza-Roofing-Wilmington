@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Privacy Policy'
     description: 'How we handle your information at Mendoza Roofing.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Privacy'
 ---
 

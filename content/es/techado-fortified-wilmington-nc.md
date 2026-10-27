@@ -2,7 +2,7 @@
 title: 'Techo FORTIFIED en Wilmington NC'
 description: 'Instalación de techo FORTIFIED en Wilmington NC. Techos resistentes a huracanes con estándares IBHS. Descuentos en seguros y subvenciones. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techo FORTIFIED Wilmington NC - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Techos Resistentes a Huracanes con Estándares IBHS — Proteja Su Hog
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techo FORTIFIED en Wilmington, NC
+## Techo FORTIFIED en Wilmington, NC
 
 Vivir en la costa de Carolina del Norte significa que su techo enfrenta amenazas que los hogares del interior nunca ven: vientos de fuerza de huracán, lluvia intensa, corrosión por aire salado y granizo. Un **Techo FORTIFIED** es el estándar de oro para la protección de hogares costeros — un sistema de techado construido con estándares de ingeniería que superan los códigos de construcción normales.
 

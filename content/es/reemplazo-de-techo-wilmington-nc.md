@@ -1,8 +1,8 @@
 ---
 title: 'Reemplazo de Techo en Wilmington NC'
-description: 'Reemplazo profesional de techos en Wilmington NC. Todos los materiales: tejas asfálticas, metal, teja. Más de 50 años de experiencia. Estimados gratis — llame 910-367-7628!'
+description: 'Reemplazo profesional de techos en Wilmington NC. Todos los materiales: tejas asfálticas, metal, teja. Más de 50 años de experiencia.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Reemplazo de techo Wilmington NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Reemplazo de Techo en Wilmington NC'
     description: 'Instalación profesional de techo nuevo en Wilmington NC. Todos los materiales. 50+ años de experiencia. Estimados gratis!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Reemplazo de Techo Wilmington'
 schemaOrg:
   - "@type": "Service"
@@ -56,7 +56,7 @@ subtitle: Instalación Profesional de Techo Nuevo — Todos los Materiales, Esti
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Reemplazo de Techo en Wilmington, NC
+## Reemplazo de Techo en Wilmington, NC
 
 Cuando su techo ya no puede proteger adecuadamente su hogar, es momento de un reemplazo. **Mendoza Roofing LLC** ha estado instalando techos nuevos en Wilmington NC y el Condado de Brunswick desde **1974** — más de 50 años de experiencia instalando techos en el clima costero de Carolina del Norte.
 

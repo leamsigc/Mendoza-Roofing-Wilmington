@@ -2,7 +2,7 @@
 title: 'Techos de Metal en Wilmington NC'
 description: 'Instalación de techos de metal en Wilmington NC. Máxima resistencia contra huracanes y aire salado. ¡Estimados gratis – llame al 910-367-7628!'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techos de Metal en Wilmington NC - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: La Opción Más Resistente para la Costa — Durabilidad por Más de 5
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techos de Metal en Wilmington, NC
+## Techos de Metal en Wilmington, NC
 
 Para los propietarios en Wilmington NC que buscan la máxima protección y el mejor valor a largo plazo, los techos de metal son la elección ideal. **Mendoza Roofing LLC** es experto en la instalación de sistemas de techado de metal diseñados para resistir los vientos de fuerza de huracán y la corrosión costera.
 

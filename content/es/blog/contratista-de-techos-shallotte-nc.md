@@ -1,8 +1,8 @@
 ---
 title: 'Contratista de Techos en Shallotte NC'
-description: '¿Busca un contratista de techos confiable en Shallotte, NC? Aprenda a elegir al mejor profesional, qué esperar del proceso y cuánto cuestan típicamente los servicios de techado en la zona de Brunswick County.'
+description: '¿Busca un contratista de techos confiable en Shallotte NC? Aprenda a elegir al mejor profesional, qué esperar del proceso y cuánto cuesta el techado.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Contratista de techos profesional trabajando en una casa en Shallotte NC'
 tags: ['Contratista de Techos', 'Shallotte', 'Brunswick County', 'North Carolina', 'Reparación de Techos', 'Reemplazo de Techos', 'Techado Residencial', 'Techo Metálico']
 date: '2026-01-30'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Contratista de Techos en Shallotte, NC - Local, Confiable y Asequible'
     description: 'Descubra cómo elegir al mejor contratista de techos en Shallotte, NC, qué preguntas hacer y qué costos esperar en la zona costera de Carolina del Norte.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Su Contratista de Techos Local en Shallotte, NC'
 layout: 'blog-layout'
 schemaOrg:
@@ -33,7 +33,7 @@ schemaOrg:
       name: "Equipo Mendoza"
     datePublished: "2026-01-30"
     description: "Guía para elegir el mejor contratista de techos en Shallotte, NC, incluyendo qué buscar, cuánto puede costar y cómo evitar estafas."
-    image: "/img/roofingMendozaSolarPanels.png"
+    image: "/img/roofingMendozaSolarPanels.jpg"
     articleSection: "Contratista de Techos Shallotte NC"
     keywords:
       - "contratista de techos Shallotte NC"
@@ -67,7 +67,7 @@ subtitle: Aprenda cómo elegir al contratista de techos adecuado en Shallotte, N
 ---
 ::
 
-# Contratista de Techos en Shallotte, NC
+## Contratista de Techos en Shallotte, NC
 
 Si vive en **Shallotte, NC** o en zonas vecinas como **Ocean Isle Beach, Sunset Beach, Supply o Holden Beach**, tener a mano un **contratista de techos confiable en Shallotte, NC** puede ahorrarle muchos problemas cuando llega una tormenta o su techo empieza a fallar por la edad.
 

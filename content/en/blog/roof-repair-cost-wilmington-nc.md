@@ -2,7 +2,7 @@
 title: 'Roof Repair Cost in Wilmington NC'
 description: 'See average roof repair costs in Wilmington, NC, what affects price, and how to avoid overpaying. Get a free estimate from Mendoza Roofing LLC at 910-367-7628'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'How Much Does Roof Repair Cost in Wilmington, NC?'
 tags: ['Roof Repair', 'Residential', 'Commercial','Wilmington', 'NC']
 date: '2024-01-15'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'How Much Does Roof Repair Cost in Wilmington, NC?'
     description: 'See average roof repair costs in Wilmington, NC, what affects price, and how to avoid overpaying. Get a free estimate from Mendoza Roofing LLC at 910-367-7628'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Repair'
 
 schemaOrg:

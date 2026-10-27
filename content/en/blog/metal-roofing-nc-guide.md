@@ -1,8 +1,8 @@
 ---
 title: 'Metal Roofing in NC: Complete Guide'
-description: 'Is metal roofing right for your NC home? Compare steel, aluminum & copper options, costs, lifespan & hurricane resistance. Expert guide from Mendoza Roofing — serving NC since 1974.'
+description: 'Is metal roofing right for your NC home? Compare steel, aluminum & copper options, costs, lifespan & hurricane resistance.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Metal roofing North Carolina guide'
 tags: ['Metal Roofing', 'North Carolina', 'Coastal', 'Guide', 'Roofing Materials']
 date: '2026-02-19'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Metal Roofing in NC: A Complete Guide'
     description: 'Steel, aluminum, copper — which metal roof is right for your NC home? Expert guide with costs, lifespan & more.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Metal Roofing Guide NC'
 
 schemaOrg:

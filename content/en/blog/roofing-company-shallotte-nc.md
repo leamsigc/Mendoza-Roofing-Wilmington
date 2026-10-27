@@ -2,7 +2,7 @@
 title: 'Choosing a Roofing Company in Shallotte NC'
 description: 'How to choose the right roofing company in Shallotte, NC. Learn what to look for, what services they should offer, and local cost ranges for Brunswick County.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Roofing company crew installing a new roof in Shallotte NC'
 tags: ['Roofing Company', 'Shallotte', 'Brunswick County', 'North Carolina', 'Roof Repair', 'Roof Replacement', 'Metal Roofing']
 date: '2026-01-30'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'How to Choose a Roofing Company in Shallotte, NC [2026 Guide]'
     description: 'Find out how to choose a trustworthy roofing company in Shallotte, NC, what to ask before hiring, and what roofing services usually cost in coastal Brunswick County.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Choose a Roofing Company in Shallotte, NC'
 layout: 'blog-layout'
 schemaOrg:
@@ -33,7 +33,7 @@ schemaOrg:
       name: "Equipo Mendoza"
     datePublished: "2026-01-30"
     description: "In-depth guide to choosing the best roofing company in Shallotte, NC, including services offered, cost ranges, insurance considerations, and what to look for in a local roofer."
-    image: "/img/roofingMendozaSolarPanels.png"
+    image: "/img/roofingMendozaSolarPanels.jpg"
     articleSection: "Roofing Company Shallotte NC"
     keywords:
       - "roofing company Shallotte NC"

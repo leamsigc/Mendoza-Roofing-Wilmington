@@ -1,8 +1,8 @@
 ---
 title: 'Roofing Company Brunswick County NC'
-description: 'Looking for a roofing company near me in Brunswick County NC? Local roofers serving Supply, Shallotte, Leland, Calabash since 1974. 5-star rated. Free estimates. Call 910-367-7628.'
+description: 'Looking for a roofing company near me in Brunswick County NC? Local roofers serving Supply, Shallotte, Leland, Calabash since 1974. 5-star rated.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing contractor Brunswick County NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing Company Near Me | Brunswick County NC'
     description: 'Trusted local roofing in Brunswick County NC — Supply, Shallotte, Leland, Oak Island & more. 50+ years experience.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Brunswick County Roofers Near Me'
 schemaOrg:
   - "@type": "LocalBusiness"

@@ -2,7 +2,7 @@
 title: 'Roof Financing Options in NC'
 description: 'Roof financing options in NC. Flexible payment plans, insurance claims help & FORTIFIED grant assistance. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roof financing options North Carolina - Mendoza Roofing'
 date: '2026-05-18'
 publishedAt: '2026-05-18'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roof Financing Options in NC | Mendoza Roofing LLC'
     description: 'Affordable roof financing in North Carolina. Flexible payment plans, insurance claim assistance & FORTIFIED grant help. Call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Roof Financing NC'
 schemaOrg:
   - "@type": "LocalBusiness"

@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Desafíos del Techado Costero'
     description: 'La ciencia detrás de los techos en la costa de NC.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos vs La Costa'
 ---
 
@@ -34,7 +34,7 @@ subtitle: Por Qué su Techo en Wilmington Necesita Cuidado Especial
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# La Costa de NC: Un Entorno Hostil para su Techo
+## La Costa de NC: Un Entorno Hostil para su Techo
 
 Wilmington y las islas del Condado de Brunswick son lugares hermosos para vivir, pero son increíblemente duros con la estructura de su hogar. En **Mendoza Roofing LLC**, con más de **50 años de experiencia**, entendemos que un techo en la costa debe construirse de manera diferente.
 

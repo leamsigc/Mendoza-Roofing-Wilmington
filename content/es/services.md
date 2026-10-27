@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Nuestros Servicios'
     description: 'Gama completa de servicios de techado residencial y comercial en Wilmington y Supply, NC.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Servicios'
 ---
 

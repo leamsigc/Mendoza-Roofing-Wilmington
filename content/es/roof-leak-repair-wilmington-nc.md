@@ -2,7 +2,7 @@
 title: 'Reparación de Goteras Wilmington NC'
 description: '¿Techo con gotera en Wilmington NC? Detección y reparación el mismo día. Manchas en el techo, goteras por tormenta, flashing dañado. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Reparación de goteras Wilmington NC - Mendoza Roofing'
 date: '2026-08-25'
 publishedAt: '2026-08-25'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Reparación de Goteras en Wilmington NC'
     description: 'Detección y reparación de goteras el mismo día en Wilmington NC. ¡Llame 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: '¿Techo con Gotera? Lo Arreglamos Rápido'
 schemaOrg:
   - "@type": "Service"

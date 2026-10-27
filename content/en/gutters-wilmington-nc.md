@@ -2,7 +2,7 @@
 title: 'Gutter Installation & Repair Wilmington NC'
 description: 'Seamless gutter installation, repair & guards in Wilmington NC. Transparent per-foot pricing, local crews since 1974. Free estimate: call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Gutter installation Wilmington NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Gutter Installation & Repair Wilmington NC'
     description: 'Seamless gutters, repairs & downspouts in Wilmington NC. 50+ years experience. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Gutters Wilmington NC'
 schemaOrg:
   - "@type": "Service"

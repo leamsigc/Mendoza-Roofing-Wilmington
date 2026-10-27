@@ -1,8 +1,8 @@
 ---
 title: 'Sobre Nosotros | 50+ Años de Experiencia'
-description: 'Compañía de techado de confianza en Wilmington y el condado de Brunswick con 50 años de experiencia.'
+description: 'Conozca Mendoza Roofing LLC: empresa familiar de techos en Wilmington y el Condado de Brunswick NC desde 1974. Más de 50 años de experiencia local.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Sobre Mendoza Roofing'
 date: '2024-01-01'
 publishedAt: '2024-01-01'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Sobre Mendoza Roofing - 50+ Años'
     description: 'Compañía de techado de confianza en Wilmington y el condado de Brunswick con 50 años de experiencia.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Sobre Nosotros'
 ---
 

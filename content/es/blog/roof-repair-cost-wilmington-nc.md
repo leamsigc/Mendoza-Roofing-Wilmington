@@ -1,8 +1,8 @@
 ---
 title: '¿Cuánto Cuesta Reparar un Techo en NC?'
-description: 'Vea los costos promedio de reparación de techos en Wilmington, NC, qué afecta el precio y cómo evitar pagar de más. Obtenga una estimación gratuita de Mendoza Roofing LLC al 910-367-7628'
+description: 'Vea los costos promedio de reparación de techos en Wilmington NC, qué afecta el precio y cómo evitar pagar de más. Estimado gratis: 910-367-7628.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: '¿Cuánto Cuesta Reparar un Techo en Wilmington, NC?'
 tags: ['Roof Repair', 'Residential', 'Commercial','Wilmington', 'NC']
 date: '2024-01-15'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: '¿Cuánto Cuesta Reparar un Techo en Wilmington, NC?'
     description: 'Vea los costos promedio de reparación de techos en Wilmington, NC, qué afecta el precio y cómo evitar pagar de más. Obtenga una estimación gratuita de Mendoza Roofing LLC al 910-367-7628'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Reparación'
 layout: 'blog-layout'
 schemaOrg:

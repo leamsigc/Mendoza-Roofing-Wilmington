@@ -2,7 +2,7 @@
 title: 'Techos en Oak Island NC'
 description: 'Especialistas en techos costeros en Oak Island NC. Expertos en techos resistentes a huracanes y aire salado. ¡Estimados gratis – llame al 910-367-7628!'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techos en Oak Island NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Techos en Oak Island NC'
     description: 'Techado resistente para la costa en Oak Island, NC. Especialistas en metal y tejas resistentes al viento.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos Oak Island'
 schemaOrg:
   - "@type": "LocalBusiness"
@@ -41,7 +41,7 @@ subtitle: Protegiendo las Casas Costeras de Oak Island — Especialistas en Clim
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techos en Oak Island, NC
+## Techos en Oak Island, NC
 
 Vivir en Oak Island significa disfrutar de la playa, pero también enfrentar algunos de los climas más duros para un techo. **Mendoza Roofing LLC** se especializa en techos costeros diseñados para resistir la corrosión del aire salado y los vientos de fuerza de huracán.
 

@@ -2,7 +2,7 @@
 title: 'Roofing Company Holden Beach NC'
 description: 'Roofing contractor on Holden Beach NC. Hurricane-rated roofing for barrier island homes. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing contractor Holden Beach NC - Mendoza Roofing'
 date: '2026-05-18'
 publishedAt: '2026-05-18'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing on Holden Beach, NC | Mendoza Roofing LLC'
     description: 'Expert barrier island roofing on Holden Beach NC. Hurricane-rated materials, FORTIFIED Roof installation. 50+ years experience. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Holden Beach NC Roofing'
 schemaOrg:
   - "@type": "LocalBusiness"

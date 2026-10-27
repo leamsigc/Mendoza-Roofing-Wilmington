@@ -2,7 +2,7 @@
 title: 'Roof Maintenance Wilmington NC'
 description: 'Professional roof maintenance & inspections in Wilmington NC. Chimney repair, pressure cleaning & real estate reports. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roof Maintenance and Inspections Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roof Maintenance & Inspections'
     description: 'Keep your roof healthy with expert maintenance and certified inspection reports.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Roof Inspections'
 schemaOrg:
   - "@type": "Service"

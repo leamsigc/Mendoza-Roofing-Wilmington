@@ -1,8 +1,8 @@
 ---
 title: 'Techado para Nuevas Construcciones'
-description: 'Sí, también hacemos nuevas construcciones. Conozca nuestro riguroso proceso para nuevas viviendas.'
+description: 'Sí, también hacemos nuevas construcciones. Conozca nuestro riguroso proceso para nuevas viviendas y cómo trabajamos con constructores en Carolina del Norte.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Techado Nueva Construcción'
 tags: ['Nueva Construcción', 'Residencial', 'Comercial']
 date: '2024-01-15'
@@ -22,12 +22,12 @@ ogImage:
   props:
     title: 'Estándares de Techado para Nuevas Construcciones'
     description: 'Conozca nuestro riguroso proceso para nuevas viviendas.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Estándares'
 
 ---
 
-## ¿Construyendo una nueva casa?
+# ¿Construyendo una nueva casa?
 
 Mendoza Roofing no es solo para reparaciones. Nos especializamos en techado de nueva construcción tanto para propiedades residenciales como comerciales.
 

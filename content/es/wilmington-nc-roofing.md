@@ -1,8 +1,8 @@
 ---
 title: 'Contratistas de Techos en Wilmington NC'
-description: 'Contratistas de techos locales en Wilmington NC con más de 50 años de experiencia. Reparación, reemplazo e instalación de techos residenciales y comerciales. Estimados gratis – llame 910-367-7628!'
+description: 'Contratistas de techos locales en Wilmington NC con más de 50 años de experiencia. Reparación, reemplazo e instalación de techos residenciales y comerciales.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Contratistas de techos Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Contratistas de Techos en Wilmington NC'
     description: 'Techadores locales de confianza en Wilmington NC. Más de 50 años de experiencia. Estimados gratis!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos Wilmington NC'
 schemaOrg:
   - "@type": "LocalBusiness"
@@ -60,7 +60,7 @@ subtitle: Techadores Locales de Confianza — Sirviendo Wilmington y el Condado 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Contratistas de Techos en Wilmington, NC
+## Contratistas de Techos en Wilmington, NC
 
 Mendoza Roofing LLC es una empresa de techos con licencia, familiar y de propiedad local con sede en Supply, NC. Llevamos más de **50 años** sirviendo a propietarios de viviendas y negocios en Wilmington, el Condado de Brunswick y toda la región costera del Cabo Fear.
 

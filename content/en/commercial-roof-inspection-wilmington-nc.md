@@ -2,7 +2,7 @@
 title: 'Commercial Roof Inspection Wilmington NC'
 description: 'Professional commercial roof inspections in Wilmington NC. TPO, EPDM, metal & flat roof assessments with detailed reports. Free inspections. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Commercial roof inspection in Wilmington NC - Mendoza Roofing'
 date: '2026-05-30'
 publishedAt: '2026-05-30'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Commercial Roof Inspections in Wilmington NC'
     description: 'Thorough commercial roof inspections with written reports. Free assessments for businesses in Wilmington & Brunswick County.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Commercial Roof Inspection Wilmington'
 schemaOrg:
   - "@type": "Service"

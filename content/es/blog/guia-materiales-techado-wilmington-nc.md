@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Materiales de Techado'
     description: '¿Cuál es el mejor material para su techo en Wilmington?'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Guía de Materiales'
 ---
 
@@ -34,7 +34,7 @@ subtitle: Elegir el Mejor Techo para el Clima de Wilmington, NC
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Los Mejores Materiales de Techado para la Costa de Carolina del Norte
+## Los Mejores Materiales de Techado para la Costa de Carolina del Norte
 
 En Wilmington, no cualquier techo sirve. La combinación de sol intenso, alta humedad y vientos de fuerza de huracán significa que los materiales de su techo deben ser de alta calidad. En **Mendoza Roofing LLC**, ayudamos a nuestros clientes a elegir la mejor opción según su presupuesto y las necesidades de su hogar.
 

@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Contact Mendoza Roofing - Free Estimates'
     description: 'Get a free roofing estimate in Wilmington & Brunswick County NC. Call 910-367-7628.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Get In Touch'
 schemaOrg:
   - "@type": "FAQPage"

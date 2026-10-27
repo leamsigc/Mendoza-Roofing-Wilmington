@@ -1,8 +1,8 @@
 ---
 title: 'Roof Leak Repair Wilmington NC'
-description: 'Active roof leak in Wilmington NC? Same-day leak detection & repair. Ceiling stains, storm leaks, flashing failures. 50+ years local experience. Call 910-367-7628.'
+description: 'Active roof leak in Wilmington NC? Same-day leak detection & repair. Ceiling stains, storm leaks, flashing failures. 50+ years local experience.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roof leak repair Wilmington NC - Mendoza Roofing'
 date: '2026-08-25'
 publishedAt: '2026-08-25'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roof Leak Repair in Wilmington NC'
     description: 'Same-day roof leak detection and repair in Wilmington NC. Stop water damage fast. Call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Leaking Roof? We Fix It Fast'
 schemaOrg:
   - "@type": "Service"

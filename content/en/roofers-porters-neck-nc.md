@@ -2,7 +2,7 @@
 title: 'Roofers in Porters Neck NC'
 description: 'Roofers serving Porters Neck NC since 1974. Newer homes, HOA-ready replacements, storm repair & metal roofing. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofers in Porters Neck NC - Mendoza Roofing'
 date: '2026-08-25'
 publishedAt: '2026-08-25'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofers in Porters Neck NC'
     description: 'Trusted roofers serving Porters Neck NC since 1974. Free estimates — call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Porters Neck Roofers'
 schemaOrg:
   - "@type": "LocalBusiness"

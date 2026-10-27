@@ -1,8 +1,8 @@
 ---
 title: 'Prepare Your Roof for Hurricane Season'
-description: 'Expert checklist to prepare your Wilmington NC roof for hurricane season. Inspection tips, preventative repairs, emergency tarping, and storm damage prevention — from a roofer serving since 1974. Call 910-367-7628.'
+description: 'A practical checklist to prepare your Wilmington NC roof for hurricane season: inspections, preventative repairs, emergency tarping, and storm prevention.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Prepare roof for hurricane season Wilmington NC'
 tags: ['Hurricane Season', 'Roof Maintenance', 'Emergency', 'Wilmington', 'NC', 'Storm Damage']
 date: '2026-04-21'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Prepare Your Roof for Hurricane Season in Wilmington NC'
     description: 'Expert checklist to prepare your roof for hurricane season. Serving Wilmington since 1974. Call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Hurricane Season Prep'
 
 schemaOrg:

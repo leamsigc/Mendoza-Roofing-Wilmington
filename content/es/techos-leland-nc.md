@@ -1,8 +1,8 @@
 ---
 title: 'Techos en Leland NC'
-description: 'Expertos en techos en Leland NC. Reparación y reemplazo de techos de calidad en una de las ciudades de más rápido crecimiento de NC. ¡Estimados gratis al 910-367-7628!'
+description: 'Expertos en techos en Leland NC. Reparación y reemplazo de techos de calidad en una de las ciudades de más rápido crecimiento de NC.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techos en Leland NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Techos en Leland NC'
     description: 'Servicios de techado confiables en Leland, NC. Tejas, metal y más. Confíe en los expertos desde 1974.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos Leland NC'
 schemaOrg:
   - "@type": "LocalBusiness"
@@ -41,7 +41,7 @@ subtitle: Calidad y Confianza para los Propietarios de Leland — Expertos desde
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techos en Leland, NC
+## Techos en Leland, NC
 
 Como una de las comunidades de más rápido crecimiento en Carolina del Norte, Leland tiene una mezcla única de casas nuevas y vecindarios establecidos. **Mendoza Roofing LLC** ofrece servicios de techado de primera clase a todos los residentes de Leland, asegurando que sus hogares estén listos para cualquier clima.
 

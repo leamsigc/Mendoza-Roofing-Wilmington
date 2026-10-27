@@ -2,7 +2,7 @@
 title: 'Techado Comercial en Wilmington NC'
 description: 'Expertos en techado comercial en Wilmington NC. Sistemas de techo plano, TPO, EPDM y membranas impermeables. ¡Estimados gratis – llame al 910-367-7628!'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Techado Comercial en Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Techado Comercial en Wilmington NC'
     description: 'Soluciones de techado para empresas en Wilmington, NC. Especialistas en sistemas planos y mantenimiento.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Techos Comerciales'
 schemaOrg:
   - "@type": "Service"
@@ -44,7 +44,7 @@ subtitle: Soluciones de Techos para Negocios — Expertos en Sistemas Planos des
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techado Comercial en Wilmington, NC
+## Techado Comercial en Wilmington, NC
 
 El techo de su negocio es una inversión crítica. **Mendoza Roofing LLC** ofrece servicios completos de techado comercial en Wilmington NC y el Condado de Brunswick, asegurando que su propiedad esté protegida contra los elementos costeros mientras usted se enfoca en su negocio.
 

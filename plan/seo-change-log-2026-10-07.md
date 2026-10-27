@@ -91,3 +91,35 @@ live GSC data pulled 2026-10-07 via chrome-devtools (property
 - Test runners (vitest/playwright) not installed in repo (scripts reference
   them, devDeps lack them; only placeholder example tests exist) — flagged,
   not introduced by this change.
+
+## CTR pilot batch 1 (2026-10-07, per ctr-snippet-optimization)
+
+- Baseline (28d, recorded pre-edit): `/southport-nc-roofing` 0 clicks / 347
+  impressions / 0% CTR / pos 12.5. Top queries intent-matched (roofers st james,
+  inspection/repair/metal/replacement southport, 9 queries 9–20 impr each;
+  `wind damage repair company southport nc` 0/70 pos 5.6).
+- Diagnosis (Step 3): specificity — title `Roofing Company Southport NC` is
+  generic vs SERP competitors leading with concrete edges (family-owned since
+  2004, GAF Master Elite, free 21-point assessment). Display not rewritten
+  (live SERP shows our title verbatim). No truncation, no staleness.
+- Change (title ONLY, description untouched as second variable for later):
+  old `Roofing Company Southport NC` → new
+  `Southport NC Roofer Since 1974 | Free Quotes — Mendoza Roofing`
+  (~60 chars; query term front, differentiator = tenure beats oldest named
+  competitor claim 2004; offer = free quotes; brand at end per site pattern).
+  Truthfulness: "Since 1974" and free quotes both stated in body ✓.
+- Control (untouched, same template family): `/oak-island-nc-roofing`
+  (0/92 pos 14.0).
+- Window: allow recrawl (days–weeks), then compare equal whole-week periods,
+  4–6 weeks default. Success = clicks up vs control with position stable.
+  Revert rule: clicks or position down vs control → restore old title.
+- Deliberately NOT rewritten (with reason):
+  - `/wilmington-nc-roofing` 0/1978 pos 43.9 — ranking problem, not snippet.
+  - `/blog/mendoza-roofing-50-years-brunswick-county` 0/540 pos 12.0 —
+    INTENT MISMATCH (ranks for `roof repair near me` etc., wants a roofer not
+    a history post). Fix = get service pages indexed, not a new title.
+  - `/commercial-roof-inspection-wilmington-nc` 0/480 pos 22.6,
+    `/blog/commercial-roofing-guide-wilmington-nc` 0/371 pos 23.7 — outside
+    3–15, watchlist until they enter striking distance.
+  - `/metal-roofing-wilmington-nc` 0/14 pos 3.1 — position qualifies but 14
+    impressions is noise; watchlist.

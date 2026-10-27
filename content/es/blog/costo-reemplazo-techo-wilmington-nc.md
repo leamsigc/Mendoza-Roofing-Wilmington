@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Costo de Techo Nuevo 2026'
     description: 'Guía de precios para propietarios en Wilmington y el Condado de Brunswick.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Guía de Costos'
 ---
 
@@ -34,7 +34,7 @@ subtitle: Guía Completa de Precios para el 2026
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# ¿Cuál es el Precio Real de un Techo Nuevo en Wilmington?
+## ¿Cuál es el Precio Real de un Techo Nuevo en Wilmington?
 
 Reemplazar el techo es una de las inversiones más importantes que hará en su hogar. En **Mendoza Roofing LLC**, creemos en la transparencia. Esta guía le ayudará a entender los rangos de precios actuales en Wilmington y el Condado de Brunswick para el año 2026.
 

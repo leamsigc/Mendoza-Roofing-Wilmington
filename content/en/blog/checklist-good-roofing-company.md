@@ -1,8 +1,8 @@
 ---
 title: 'How to Choose a Roofer in Wilmington NC'
-description: 'Use Mendoza Roofing's 10-point contractor checklist before hiring a roofer in Wilmington or Brunswick County NC. Avoid scams, unlicensed crews, and hidden costs with these practical tips.'
+description: "Use Mendoza Roofing's 10-point checklist before hiring a Wilmington or Brunswick County NC roofer. Spot scams, unlicensed crews, and hidden costs."
 image:
-  src: '/img/heroImage.png'
+  src: '/img/heroImage.jpg'
   alt: 'Roofing Contractor Checklist Wilmington NC'
 tags: ['Tips', 'Trust', 'Hiring Guide', 'Wilmington NC']
 date: '2024-02-10'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'How to Choose a Roofing Contractor in Wilmington NC'
     description: 'Avoid scams and poor workmanship. The Mendoza checklist for hiring a roofer in Brunswick County.'
-    image: '/img/heroImage.png'
+    image: '/img/heroImage.jpg'
     headline: 'Hiring Guide'
 schemaOrg:
   - "@type": "BlogPosting"

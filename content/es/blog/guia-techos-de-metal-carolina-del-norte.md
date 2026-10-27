@@ -2,7 +2,7 @@
 title: 'Guía de Techos de Metal en NC'
 description: 'Todo sobre techos de metal en la costa de NC. Costos, beneficios, tipos de metal y por qué es la mejor opción contra huracanes.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Guía de techos de metal NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Guía Techos de Metal NC'
     description: 'La protección definitiva para su hogar en la costa.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Metal vs Huracán'
 ---
 
@@ -34,7 +34,7 @@ subtitle: Por Qué el Metal es la Elección Inteligente en Carolina del Norte
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Techos de Metal: Durabilidad que Dura Toda la Vida
+## Techos de Metal: Durabilidad que Dura Toda la Vida
 
 En la costa de Carolina del Norte, los techos de metal han pasado de ser una opción de lujo a una necesidad para muchos propietarios. Con los huracanes volviéndose más frecuentes e intensos, la resistencia del metal no tiene comparación.
 

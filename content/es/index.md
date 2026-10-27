@@ -1,6 +1,6 @@
 ---
 title: 'Contratistas de Techos Wilmington NC'
-description: 'Mendoza Roofing LLC: Los expertos en techos de Wilmington NC desde 1974. Reparaciones, reemplazos e instalaciones residenciales y comerciales. ¡Estimaciones gratis!'
+description: 'Mendoza Roofing LLC: Los expertos en techos de Wilmington NC desde 1974. Reparaciones, reemplazos e instalaciones residenciales y comerciales.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Mendoza Roofing Inicio'
@@ -31,9 +31,6 @@ head:
       content: 'business.business'
     - property: 'og:business:contact_info:phone_number'
       content: '+1-910-367-7628'
-  link:
-    - rel: 'canonical'
-      href: 'https://roofingmendoza.com/es'
 category: 'Inicio'
 author:
   name: 'Equipo Mendoza'
@@ -45,7 +42,7 @@ ogImage:
   props:
     title: 'Mendoza Roofing | Contratistas de Techos Wilmington NC'
     description: 'Los expertos en techos de Wilmington NC. Más de 50 años de experiencia. Estimaciones gratis.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Mendoza Roofing'
 ---
 
@@ -172,13 +169,13 @@ link: /contact
 
 ## Áreas de Servicio
 
-- [Techos en el Condado de Brunswick](/es/brunswick-county-roofing) — Supply, Shallotte, Leland, Southport, Oak Island
+- [Techos en el Condado de Brunswick](/es/techos-condado-brunswick-nc) — Supply, Shallotte, Leland, Southport, Oak Island
 - [Techos en Wilmington NC](/es/wilmington-nc-roofing) — Servicios completos en la ciudad principal
 - [Techos en Supply NC](/es/techos-supply-nc) — Nuestra base local desde 1974
-- [Techos en Shallotte NC](/es/brunswick-county-roofing) — Comunidad costera del condado
+- [Techos en Shallotte NC](/es/techos-condado-brunswick-nc) — Comunidad costera del condado
 - [Techos en Leland NC](/es/techos-leland-nc) — Ciudad de rápido crecimiento
 - [Techos en Oak Island NC](/es/techos-oak-island-nc) — Propiedades costeras premium
-- [Techos en Southport NC](/es/brunswick-county-roofing) — Ciudad histórica costera
+- [Techos en Southport NC](/es/techos-condado-brunswick-nc) — Ciudad histórica costera
 - [Techos en Calabash NC](/es/techado-calabash-nc) — Capital Mundial de los Mariscos
 - [Techos en Bolivia NC](/es/techado-bolivia-nc) — Sede del Condado de Brunswick
 - [Techos en Holden Beach NC](/es/techado-holden-beach-nc) — Techado de isla barrera

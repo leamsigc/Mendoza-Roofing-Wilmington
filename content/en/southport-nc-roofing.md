@@ -1,8 +1,8 @@
 ---
-title: 'Roofing Company Southport NC'
+title: 'Southport NC Roofer Since 1974 | Free Quotes — Mendoza Roofing'
 description: '24/7 emergency roof repair & replacement in Southport NC by licensed, insured local roofers. Free quotes. 50+ years of experience. Call 910-367-7628.'
 image:
-  src: '/img/heroImage.png'
+  src: '/img/heroImage.jpg'
   alt: 'Southport NC roofing and metal roofing for St. James Plantation'
 tags:
   - 'Southport NC'
@@ -31,7 +31,7 @@ ogImage:
   props:
     title: 'Southport NC Roofing | 24/7 Repair & Metal'
     description: 'Emergency roof repair, replacement & metal roofing for Southport NC. Free quotes from Mendoza Roofing.'
-    image: '/img/heroImage.png'
+    image: '/img/heroImage.jpg'
     headline: 'Southport NC Roofing'
 schemaOrg:
   - "@type": "LocalBusiness"

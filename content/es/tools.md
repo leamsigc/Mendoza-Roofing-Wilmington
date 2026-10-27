@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Herramientas para Propietarios'
     description: 'Calculadora de costos de techo gratis y lista de verificación de daños por tormenta para propietarios en Wilmington y Supply, NC.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Herramientas'
 ---
 

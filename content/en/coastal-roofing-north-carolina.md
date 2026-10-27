@@ -2,7 +2,7 @@
 title: 'Coastal Roofing in North Carolina'
 description: 'Coastal roofing in NC requires specialized materials and methods. Learn how to protect your home from hurricanes, salt air & storms. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Coastal roofing North Carolina - Hurricane-resistant roofing by Mendoza Roofing'
 date: '2026-05-18'
 publishedAt: '2026-05-18'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Coastal Roofing North Carolina'
     description: 'Expert coastal roofing in NC. Hurricane-resistant, salt-air rated, FORTIFIED certified. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Coastal Roofing NC'
 schemaOrg:
   - "@type": "Service"

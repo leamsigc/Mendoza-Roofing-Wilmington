@@ -2,7 +2,7 @@
 title: 'La Lista de Mendoza: Eligiendo un Roofero'
 description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un Roofero en el condado de Brunswick.'
 image:
-  src: '/img/heroImage.png'
+  src: '/img/heroImage.jpg'
   alt: 'Lista Verificación Techado'
 tags: ['Consejos', 'Confianza', 'Guía Contratación']
 date: '2024-02-10'
@@ -22,12 +22,12 @@ ogImage:
   props:
     title: 'La Lista de Mendoza: Eligiendo un Roofing'
     description: 'Evite estafas y mala mano de obra. Aquí está lo que necesita buscar antes de contratar a un Roofing.'
-    image: '/img/heroImage.png'
+    image: '/img/heroImage.jpg'
     headline: 'Guía de Contratación'
 
 ---
 
-## Eligiendo al Roofing adecuado
+# Eligiendo al Roofing adecuado
 
 Contratar a un Roofing es una gran decisión. Aquí está la lista de verificación de Mendoza Roofing para asegurar que esté protegido:
 

@@ -1,6 +1,6 @@
 ---
 title: 'Blog'
-description: 'Últimas noticias, guías y actualizaciones de techado de Mendoza Roofing en Wilmington NC.'
+description: 'Guías, costos y consejos de techado de Mendoza Roofing para Wilmington y el Condado de Brunswick NC: reparación, reemplazo, tormentas y materiales.'
 image:
   src: '/img/logoWhite.jpg'
   alt: 'Blog'

@@ -2,7 +2,7 @@
 title: '50 Años de Techos en el Condado Brunswick'
 description: 'La historia de Mendoza Roofing LLC. Desde 1974 sirviendo a Wilmington, Supply y el Condado de Brunswick con integridad y calidad.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Historia de Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: '50 Años de Mendoza Roofing'
     description: 'Nuestra historia y nuestro compromiso con la comunidad desde 1974.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Desde 1974'
 ---
 
@@ -34,7 +34,7 @@ subtitle: La Historia de Mendoza Roofing LLC y Su Comunidad
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Una Tradición Familiar en el Condado de Brunswick
+## Una Tradición Familiar en el Condado de Brunswick
 
 En 1974, **Mendoza Roofing LLC** comenzó con una misión simple: proveer soluciones de techado honestas, duraderas y de alta calidad para nuestros vecinos en la costa de Carolina del Norte. Hoy, más de **50 años después**, esa misión sigue siendo el corazón de todo lo que hacemos.
 

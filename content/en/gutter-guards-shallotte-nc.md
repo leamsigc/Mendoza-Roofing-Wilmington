@@ -2,7 +2,7 @@
 title: 'Gutter Guards Shallotte NC'
 description: 'Gutter guards & seamless gutter protection in Shallotte NC. Keep leaves, pine needles & debris out. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Gutter guards installation in Shallotte NC - Mendoza Roofing'
 date: '2026-05-30'
 publishedAt: '2026-05-30'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Gutter Guards & Protection in Shallotte NC'
     description: 'Keep gutters flowing with professional gutter guard installation in Shallotte. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Gutter Guards Shallotte'
 schemaOrg:
   - "@type": "Service"

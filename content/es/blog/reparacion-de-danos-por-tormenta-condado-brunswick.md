@@ -2,7 +2,7 @@
 title: 'Reparación de Daños por Tormenta NC'
 description: 'Guía completa para propietarios en el Condado de Brunswick tras una tormenta. Qué hacer, cómo documentar daños y reparaciones de emergencia.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Reparación de daños por tormenta Condado de Brunswick'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Daños por Tormenta en Brunswick'
     description: 'Guía paso a paso tras un huracán o tormenta fuerte.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Ayuda Post-Tormenta'
 ---
 
@@ -34,7 +34,7 @@ subtitle: Guía para Propietarios en el Condado de Brunswick tras un Huracán
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Qué Hacer Después de una Tormenta en el Condado de Brunswick
+## Qué Hacer Después de una Tormenta en el Condado de Brunswick
 
 Vivir en la costa de Carolina del Norte significa estar preparado para las tormentas. Cuando un huracán o una tormenta tropical golpea nuestra zona, el techo suele ser el primero en sufrir. En **Mendoza Roofing LLC**, hemos ayudado a nuestros vecinos en Supply, Shallotte y Leland a recuperarse de tormentas por más de **50 años**.
 

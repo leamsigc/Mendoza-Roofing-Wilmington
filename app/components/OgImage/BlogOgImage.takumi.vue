@@ -12,7 +12,7 @@
  */
 import { computed } from 'vue'
 
-const { title = 'title', description = 'description', image = "/img/HomeHeroBg.png", headline = 'headline' } = defineProps<{ title?: string, description?: string, headline?: string, image?: string }>();
+const { title = 'title', description = 'description', image = "/img/HomeHeroBg.jpg", headline = 'headline' } = defineProps<{ title?: string, description?: string, headline?: string, image?: string }>();
 
 const titleTrim = computed(() => title.slice(0, 60))
 </script>

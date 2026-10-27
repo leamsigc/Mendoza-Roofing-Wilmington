@@ -1,8 +1,8 @@
 ---
 title: 'Preguntas Frecuentes sobre Techos'
-description: 'Respuestas a preguntas comunes sobre techos en Wilmington NC — costos, tiempos, materiales, seguros y por qué elegir Mendoza Roofing. Llame 910-367-7628 para un estimado gratis!'
+description: 'Respuestas a preguntas comunes sobre techos en Wilmington NC — costos, tiempos, materiales, seguros y por qué elegir Mendoza Roofing.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'FAQ Techos Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'FAQ Techos — Mendoza Roofing LLC'
     description: 'Preguntas comunes sobre techos respondidas por expertos locales en Wilmington NC. Desde 1974.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Preguntas Frecuentes'
 schemaOrg:
   - "@type": "FAQPage"
@@ -111,7 +111,7 @@ Le recomendamos firmemente que no. Una gotera pequeña crece rápidamente — el
 ### Preguntas sobre Reemplazo
 
 **8. ¿Cuánto cuesta el reemplazo de techo en Wilmington NC?**
-Tejas asfálticas: $12,000-$18,000 para una casa de 2,000 pies cuadrados. Metal: $18,000-$35,000+. Ver nuestra [guía de costos 2026](/blog/roof-replacement-cost-wilmington-nc).
+Tejas asfálticas: $12,000-$18,000 para una casa de 2,000 pies cuadrados. Metal: $18,000-$35,000+. Ver nuestra [guía de costos 2026](/es/blog/costo-reemplazo-techo-wilmington-nc).
 
 **9. ¿Cuánto tiempo tarda el reemplazo de un techo?**
 La mayoría de las casas residenciales: 1-3 días. Casas más grandes: 3-5 días.

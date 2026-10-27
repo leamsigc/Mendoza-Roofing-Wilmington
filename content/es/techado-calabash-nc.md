@@ -2,7 +2,7 @@
 title: 'Techado en Calabash NC'
 description: 'Contratista de techos en Calabash NC. Reparación, reemplazo y reparación de daños por tormenta. Estimados gratis. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Contratista de techos Calabash NC - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Sirviendo a la Capital Mundial de los Mariscos y el Oeste del Condado 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Contratista de Techos en Calabash, NC
+## Contratista de Techos en Calabash, NC
 
 **Calabash, NC** — conocida como la "Capital Mundial de los Mariscos" — es una de las comunidades de más rápido crecimiento en el Condado de Brunswick. Ya sea que sea residente permanente, visitante estacional o inversionista de propiedades, su techo enfrenta los mismos desafíos costeros que todo propietario en el Condado de Brunswick: vientos de fuerza de huracán, aire salado de la Vía Navegable Intracostera y el Atlántico, y más de 54 pulgadas de lluvia anual.
 
@@ -99,10 +99,10 @@ Calabash se encuentra entre la Vía Navegable Intracostera y el Océano Atlánti
 - **Email:** [contact@roofingmendoza.com](mailto:contact@roofingmendoza.com)
 
 **Áreas de servicio relacionadas:**
-- [Techado Condado de Brunswick](/es/brunswick-county-roofing)
-- [Techado Shallotte NC](/es/brunswick-county-roofing)
+- [Techado Condado de Brunswick](/es/techos-condado-brunswick-nc)
+- [Techado Shallotte NC](/es/techos-condado-brunswick-nc)
 - [Techado Oak Island NC](/es/techos-oak-island-nc)
-- [Techado Southport NC](/es/brunswick-county-roofing)
+- [Techado Southport NC](/es/techos-condado-brunswick-nc)
 
 </div>
 

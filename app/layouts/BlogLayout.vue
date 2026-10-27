@@ -42,9 +42,9 @@
         <ContactSection />
 
         <UContainer class='mx-auto p-24'>
-            <NuxtLinkLocale to="/blog">
+            <LocaleLink to="/blog">
                 <UButton variant="ghost"> Back </UButton>
-            </NuxtLinkLocale>
+            </LocaleLink>
         </UContainer>
         <AppFooter />
     </div>

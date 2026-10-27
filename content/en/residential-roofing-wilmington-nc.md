@@ -2,7 +2,7 @@
 title: 'Residential Roofing Wilmington NC'
 description: 'Residential roofing in Wilmington NC. Installation, repair & replacement for all home styles. Licensed & insured. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Residential roofing Wilmington NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Residential Roofing Wilmington NC'
     description: 'Expert residential roofing in Wilmington NC. New installation, repair & replacement. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Residential Roofing'
 schemaOrg:
   - "@type": "Service"

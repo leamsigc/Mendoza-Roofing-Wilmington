@@ -2,7 +2,7 @@
 title: 'Techado en Holden Beach NC'
 description: 'Contratista de techos en Holden Beach NC. Techos clasificados para huracanes en islas barrera. Estimados gratis. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Contratista de techos Holden Beach NC - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Techos Clasificados para Huracanes para la Principal Isla Barrera del 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Contratista de Techos en Holden Beach, NC
+## Contratista de Techos en Holden Beach, NC
 
 **Holden Beach, NC** — una de las islas barrera más hermosas de Carolina del Norte — es hogar de casas de vacaciones, alquileres y residentes permanentes que todos enfrentan la misma realidad: la exposición directa al Océano Atlántico significa que su techo recibe la fuerza completa de cada tormenta que golpea la costa.
 
@@ -144,7 +144,7 @@ Respuesta de emergencia 24/7 para daños por tormenta en Holden Beach:
 
 **Áreas de servicio relacionadas:**
 - [Techado Oak Island NC](/es/techos-oak-island-nc)
-- [Techado Condado de Brunswick](/es/brunswick-county-roofing)
+- [Techado Condado de Brunswick](/es/techos-condado-brunswick-nc)
 - [Techado Costero NC](/es/techado-costero-carolina-del-norte)
 - [Techo FORTIFIED Wilmington](/es/techado-fortified-wilmington-nc)
 

@@ -1,8 +1,8 @@
 ---
 title: 'Roofing Contractors Wilmington NC'
-description: 'Wilmington NC roofing contractors since 1974. Licensed & insured, 5.0-star rated, local crews. Free estimates on repairs, replacements & metal roofs. Call today.'
+description: 'Wilmington NC roofing contractors since 1974. Licensed & insured, 5.0-star rated, local crews. Free estimates on repairs, replacements & metal roofs.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing contractors in Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing Contractors in Wilmington NC'
     description: 'Top-rated roofing contractors in Wilmington NC. 50+ years experience. Free estimates – call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Wilmington NC Roofers'
 schemaOrg:
   - "@type": "LocalBusiness"
@@ -269,6 +269,7 @@ We serve all of Wilmington NC and throughout Brunswick County. Our team typicall
 - [Roofers in Ogden, NC](/roofers-ogden-nc)
 - [Roofers in Porters Neck, NC](/roofers-porters-neck-nc)
 - [Roof Repair Wilmington NC](/roof-repair-wilmington-nc)
+- [Roof Repair Near Me](/roof-repair-near-me)
 - [Roof Leak Repair Wilmington NC](/roof-leak-repair-wilmington-nc)
 - [Roof Replacement Wilmington NC](/roof-replacement-wilmington-nc)
 - [Roof Replacement Cost Guide](/roof-replacement-cost-wilmington-nc)

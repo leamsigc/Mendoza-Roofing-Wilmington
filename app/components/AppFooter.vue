@@ -45,19 +45,19 @@ const { preference } = useColorMode()
                     <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">{{ t('nav.services') }}</h4>
                     <ul class="space-y-2 text-sm text-gray-400">
                         <li>
-                            <NuxtLinkLocale to="/residential-roofing-wilmington-nc" class="hover:text-gold-500">
+                            <LocaleLink to="/residential-roofing-wilmington-nc" class="hover:text-gold-500">
                                 Residential Roofing
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/commercial-roofing-wilmington-nc" class="hover:text-gold-500">
+                            <LocaleLink to="/commercial-roofing-wilmington-nc" class="hover:text-gold-500">
                                 Commercial Roofing
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/roof-maintenance-wilmington-nc" class="hover:text-gold-500">
+                            <LocaleLink to="/roof-maintenance-wilmington-nc" class="hover:text-gold-500">
                                 Repairs & Maintenance
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                     </ul>
                 </div>
@@ -67,54 +67,54 @@ const { preference } = useColorMode()
                     <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">Service Areas</h4>
                     <ul class="space-y-2 text-sm text-gray-400">
                         <li>
-                            <NuxtLinkLocale to="/wilmington-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/wilmington-nc-roofing" class="hover:text-gold-500">
                                 Wilmington NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/brunswick-county-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/brunswick-county-roofing" class="hover:text-gold-500">
                                 Brunswick County
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/leland-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/leland-nc-roofing" class="hover:text-gold-500">
                                 Leland NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/supply-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/supply-nc-roofing" class="hover:text-gold-500">
                                 Supply NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/oak-island-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/oak-island-nc-roofing" class="hover:text-gold-500">
                                 Oak Island NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/shallotte-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/shallotte-nc-roofing" class="hover:text-gold-500">
                                 Shallotte NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/southport-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/southport-nc-roofing" class="hover:text-gold-500">
                                 Southport NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/calabash-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/calabash-nc-roofing" class="hover:text-gold-500">
                                 Calabash NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/bolivia-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/bolivia-nc-roofing" class="hover:text-gold-500">
                                 Bolivia NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/holden-beach-nc-roofing" class="hover:text-gold-500">
+                            <LocaleLink to="/holden-beach-nc-roofing" class="hover:text-gold-500">
                                 Holden Beach NC
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                     </ul>
                 </div>
@@ -124,29 +124,29 @@ const { preference } = useColorMode()
                     <h4 class="font-oswald font-bold text-lg mb-4 text-white uppercase">Links</h4>
                     <ul class="space-y-2 text-sm text-gray-400">
                         <li>
-                            <NuxtLinkLocale to="/about" class="hover:text-gold-500">
+                            <LocaleLink to="/about" class="hover:text-gold-500">
                                 {{ t('nav.about') }}
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/services" class="hover:text-gold-500">
+                            <LocaleLink to="/services" class="hover:text-gold-500">
                                 {{ t('nav.services') }}
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/tools" class="hover:text-gold-500">
+                            <LocaleLink to="/tools" class="hover:text-gold-500">
                                 {{ t('nav.tools') }}
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/contact" class="hover:text-gold-500">
+                            <LocaleLink to="/contact" class="hover:text-gold-500">
                                 {{ t('nav.contact') }}
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                         <li>
-                            <NuxtLinkLocale to="/privacy" class="hover:text-gold-500">
+                            <LocaleLink to="/privacy" class="hover:text-gold-500">
                                 Privacy
-                            </NuxtLinkLocale>
+                            </LocaleLink>
                         </li>
                     </ul>
                 </div>

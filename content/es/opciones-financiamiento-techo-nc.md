@@ -2,7 +2,7 @@
 title: 'Financiamiento de Techos en NC'
 description: 'Opciones de financiamiento para techos en NC. Planes de pago flexibles, ayuda con seguros y asistencia con subvenciones FORTIFIED. Llame 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Opciones de financiamiento para techos Carolina del Norte - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Planes de Pago Accesibles, Ayuda con Seguros y Asistencia con Subvenci
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Opciones de Financiamiento para Techos en Carolina del Norte
+## Opciones de Financiamiento para Techos en Carolina del Norte
 
 Un techo nuevo es una de las inversiones más importantes que puede hacer en su hogar — pero entendemos que el costo inicial puede ser una preocupación. Por eso **Mendoza Roofing LLC** ofrece múltiples opciones de financiamiento para hacer que un techado de calidad sea accesible para cada propietario en Carolina del Norte.
 

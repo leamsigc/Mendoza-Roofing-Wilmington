@@ -46,9 +46,6 @@ head:
       content: 'business.business'
     - property: 'og:business:contact_info:phone_number'
       content: '+1-910-367-7628'
-  link:
-    - rel: 'canonical'
-      href: 'https://roofingmendoza.com/'
 category: 'Home'
 author:
   name: 'Mendoza Team'
@@ -60,7 +57,7 @@ ogImage:
   props:
     title: 'Mendoza Roofing | Wilmington NC'
     description: "Wilmington NC's trusted roofing experts. 50+ years experience. Free estimates."
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Mendoza Roofing'
 ---
 

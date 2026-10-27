@@ -2,7 +2,7 @@
 title: 'Roofing Leland NC | Best Roofers Near Me'
 description: 'Trusted roofing contractor in Leland NC. Roof repair, replacement & commercial roofing. 50+ years experience. Free estimates. Call 910-367-7628.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing contractor Leland NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing Contractor in Leland, NC'
     description: 'Trusted roofing contractor in Leland NC. 50+ years Brunswick County experience. Free estimates!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Leland NC Roofing'
 schemaOrg:
   - "@type": "FAQPage"

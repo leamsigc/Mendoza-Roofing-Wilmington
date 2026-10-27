@@ -2,7 +2,7 @@
 title: 'Roofing FAQ | Wilmington NC Questions'
 description: 'Answers to common roofing questions in Wilmington NC — costs, timelines, materials, insurance claims, and more. Call 910-367-7628 for a free estimate.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roofing FAQ Wilmington NC - Mendoza Roofing'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Roofing FAQ - Mendoza Roofing LLC'
     description: 'Common roofing questions answered by Mendoza Roofing LLC — Wilmington NC local experts since 1974.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Roofing FAQ'
 schemaOrg:
   - "@type": "FAQPage"

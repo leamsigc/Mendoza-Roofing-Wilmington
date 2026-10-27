@@ -1,8 +1,8 @@
 ---
 title: 'Roof Repair vs Replacement Wilmington NC'
-description: 'Roof repair or full replacement in Wilmington NC? Get the honest answer from Mendoza Roofing — over 50 years helping Wilmington homeowners make the right call. Free inspection. Call 910-367-7628.'
+description: 'Roof repair or replacement in Wilmington NC? Get the honest answer from Mendoza Roofing — 50+ years helping homeowners make the right call. Free inspection.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Roof repair vs replacement decision Wilmington NC'
 tags: ['Roof Repair', 'Roof Replacement', 'Decision Guide', 'Wilmington', 'NC', 'Cost']
 date: '2026-04-21'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Roof Repair vs Replacement Wilmington NC'
     description: 'Roof repair or full replacement? The honest answer from Wilmington roofers since 1974. Free estimates — call 910-367-7628!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Repair or Replace?'
 
 schemaOrg:

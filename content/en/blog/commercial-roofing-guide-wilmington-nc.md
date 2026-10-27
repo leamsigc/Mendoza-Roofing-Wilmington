@@ -2,7 +2,7 @@
 title: 'Wilmington NC Commercial Roofing Guide'
 description: 'TPO vs EPDM vs modified bitumen: costs, lifespans, and the repair-vs-replace rule for Wilmington NC commercial roofs. From an EDS-approved installer since 1974.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Commercial roofing guide Wilmington NC'
 tags: ['Commercial Roofing', 'Wilmington', 'Flat Roof', 'Business', 'Guide']
 date: '2026-02-19'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Commercial Roofing in Wilmington NC: A Business Guide'
     description: 'Flat roof systems, costs, maintenance & choosing a commercial roofer in Wilmington NC. Expert advice from Mendoza Roofing.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Commercial Roofing Guide'
 
 schemaOrg:

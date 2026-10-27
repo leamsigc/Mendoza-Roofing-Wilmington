@@ -1,8 +1,8 @@
 ---
 title: 'Reparación de Emergencia Wilmington NC'
-description: '¡Reparación de emergencia de techos 24/7 en Wilmington NC! Respuesta inmediata a daños por huracán, tormenta y goteras activas. Llame AHORA 910-367-7628 — disponibles toda la noche!'
+description: '¡Reparación de emergencia de techos 24/7 en Wilmington NC! Respuesta inmediata a daños por huracán, tormenta y goteras activas.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Reparación de emergencia de techo Wilmington NC'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: '¡Reparación de Emergencia de Techo 24/7 en Wilmington NC!'
     description: 'Respuesta inmediata a daños por tormenta. Disponibles toda la noche. Llame 910-367-7628 AHORA!'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Emergencia — Llame Ya'
 schemaOrg:
   - "@type": "Service"
@@ -44,7 +44,7 @@ subtitle: Respuesta 24/7 a Daños por Huracán y Tormenta en Wilmington y el Con
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# ¿Emergencia de Techo en Wilmington, NC? — Llame Ahora
+## ¿Emergencia de Techo en Wilmington, NC? — Llame Ahora
 
 <div class="bg-red-50 dark:bg-red-900/20 border-2 border-red-600 rounded-xl p-8 my-8 text-center">
 

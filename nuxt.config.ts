@@ -143,7 +143,7 @@ export default defineNuxtConfig({
       name: 'Mendoza Roofing LLC',
       alternateName: 'Mendoza Roofing Company',
       logo: 'https://roofingmendoza.com/img/logo.png',
-      image: 'https://roofingmendoza.com/img/MendozaRoofingShallotte.png',
+      image: 'https://roofingmendoza.com/img/MendozaRoofingShallotte.jpg',
       description: 'Licensed roofing contractors in Wilmington, Supply, and Brunswick County NC with 50+ years of experience. Expert roof repair, replacement, commercial roofing, and emergency services.',
       telephone: '910-367-7628',
       email: 'contact@roofingmendoza.com',

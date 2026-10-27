@@ -1,8 +1,8 @@
 ---
 title: 'Empresa de Techos en Shallotte NC'
-description: '¿Busca una empresa de techos en Shallotte, NC? Descubra cómo elegir la mejor compañía local, qué servicios debe ofrecer y cuánto cuestan normalmente las reparaciones y reemplazos de techo en la zona costera de Brunswick County.'
+description: '¿Busca una empresa de techos en Shallotte NC? Descubra cómo elegir la mejor compañía local, qué servicios debe ofrecer y cuánto cuestan las reparaciones.'
 image:
-  src: '/img/roofingMendozaSolarPanels.png'
+  src: '/img/roofingMendozaSolarPanels.jpg'
   alt: 'Equipo de una empresa de techos trabajando en una casa en Shallotte NC'
 tags: ['Empresa de Techos', 'Shallotte', 'Brunswick County', 'Carolina del Norte', 'Reparación de Techos', 'Reemplazo de Techos', 'Techo Metálico']
 date: '2026-01-30'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'Empresa de Techos en Shallotte, NC - Local, Confiable y Accesible'
     description: 'Aprenda cómo elegir una empresa de techos en Shallotte, NC, qué servicios debe ofrecer y qué costos esperar para reparaciones y reemplazos en la costa de Carolina del Norte.'
-    image: '/img/roofingMendozaSolarPanels.png'
+    image: '/img/roofingMendozaSolarPanels.jpg'
     headline: 'Su Empresa de Techos Local en Shallotte, NC'
 layout: 'blog-layout'
 schemaOrg:
@@ -33,7 +33,7 @@ schemaOrg:
       name: "Equipo Mendoza"
     datePublished: "2026-01-30"
     description: "Guía detallada para propietarios de habla hispana sobre cómo elegir la mejor empresa de techos en Shallotte, NC, incluyendo servicios, costos y reclamaciones de seguro."
-    image: "/img/roofingMendozaSolarPanels.png"
+    image: "/img/roofingMendozaSolarPanels.jpg"
     articleSection: "Empresa de Techos Shallotte NC"
     keywords:
       - "empresa de techos Shallotte NC"
@@ -72,7 +72,7 @@ subtitle: Descubra cómo elegir una empresa de techos confiable en Shallotte, NC
 ---
 ::
 
-# Empresa de Techos en Shallotte, NC
+## Empresa de Techos en Shallotte, NC
 
 Cuando busca una **empresa de techos en Shallotte, NC**, normalmente es porque:
 
@@ -305,4 +305,4 @@ Or fill out the form on our **Contact** page, and we'll schedule a convenient ti
 **Artículos relacionados:**
 
 - [Contratista de Techos en Shallotte, NC: Local, Confiable y Asequible](/es/blog/contratista-de-techos-shallotte-nc)
-- [Techos en el Condado de Brunswick NC](/es/brunswick-county-roofing)
+- [Techos en el Condado de Brunswick NC](/es/techos-condado-brunswick-nc)

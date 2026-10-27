@@ -1,8 +1,8 @@
 ---
 title: 'Costo de Reemplazo de Techo Wilmington NC'
-description: 'Costo de reemplazo de techo en Wilmington NC: $8,000-$35,000+. Vea precios reales para asfalto, metal, teja y techos planos. Estimados gratis. Llame 910-367-7628.'
+description: 'Costo de reemplazo de techo en Wilmington NC: $8,000-$35,000+. Vea precios reales para asfalto, metal, teja y techos planos. Estimados gratis.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Costo de reemplazo de techo Wilmington NC - Guía de precios Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Precios Reales para Cada Material — Sin Suposiciones, Sin Costos Ocu
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Costo de Reemplazo de Techo en Wilmington, NC
+## Costo de Reemplazo de Techo en Wilmington, NC
 
 Si se pregunta cuánto cuesta un techo nuevo en Wilmington NC, no está solo — es una de las preguntas más comunes que recibimos. La respuesta honesta: **depende del tamaño de su hogar, el material que elija y el estado de la cubierta de su techo**. Pero podemos darle números reales.
 

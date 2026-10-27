@@ -2,7 +2,7 @@
 title: 'Contratar Techador Comercial Wilmington'
 description: 'Avoid scams, downtime, and poor workmanship. Use this commercial roofing checklist before hiring a contractor in Wilmington, NC and Brunswick County.'
 image:
-  src: '/img/heroImage.png'
+  src: '/img/heroImage.jpg'
   alt: 'Commercial Roofing Checklist'
 tags: ['Commercial Roofing', 'Wilmington NC', 'Brunswick County', 'Hiring Guide', 'Tips']
 date: '2024-02-10'
@@ -22,7 +22,7 @@ ogImage:
   props:
     title: 'The Mendoza Checklist: Hiring a Commercial Roofer in Wilmington, NC'
     description: 'Avoid scams, downtime, and poor workmanship. Here is what you need to look for before hiring a commercial roofing contractor in Wilmington, NC and Brunswick County.'
-    image: '/img/heroImage.png'
+    image: '/img/heroImage.jpg'
     headline: 'Commercial Hiring Guide'
 
 ---

@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Política de Privacidad'
     description: 'Cómo manejamos su información en Mendoza Roofing.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/MendozaRoofingShallotte.jpg'
     headline: 'Privacidad'
 ---
 

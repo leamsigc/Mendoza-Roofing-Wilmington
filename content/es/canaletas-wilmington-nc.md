@@ -1,8 +1,8 @@
 ---
 title: 'Instalación de Canaletas Wilmington NC'
-description: 'Instalación y reparación de canaletas en Wilmington NC. Canaletas de aluminio sin costura para proteger su hogar de daños por agua. ¡Estimados gratis – 910-367-7628!'
+description: 'Instalación y reparación de canaletas en Wilmington NC. Canaletas de aluminio sin costura para proteger su hogar de daños por agua.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/MendozaRoofingShallotte.jpg'
   alt: 'Instalación de Canaletas en Wilmington NC - Mendoza Roofing'
 ---
 
@@ -15,7 +15,7 @@ subtitle: Protegiendo los Cimientos de Su Hogar de los Daños por Agua
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16">
 
-# Instalación de Canaletas en Wilmington, NC
+## Instalación de Canaletas en Wilmington, NC
 
 Un buen techo necesita un buen sistema de canaletas. En Wilmington NC, donde recibimos más de 50 pulgadas de lluvia al año, las canaletas son esenciales para dirigir el agua lejos de los cimientos y evitar daños estructurales y moho.
 
