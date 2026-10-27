@@ -67,6 +67,10 @@ subtitle: 2026 Pricing by System, Building Size, and Coastal Condition
 
 Those ranges are for budgeting, not bidding. The spread between a $60,000 and a $95,000 quote on the same building is usually scope, not profit: insulation, deck repairs, drainage, edge metal, and how much tear-off is included.
 
+## How much does commercial roof replacement cost in Wilmington, NC?
+
+Commercial roof replacement in Wilmington, NC typically costs $5 to $15 per square foot installed, or about $7 to $13 per square foot all-in. A 5,000 sq ft roof runs $35,000 to $65,000; 10,000 sq ft $70,000 to $130,000. System, insulation, drainage and tear-off drive the number.
+
 ## Cost per square foot by roof system
 
 | System | Installed cost | Typical use |

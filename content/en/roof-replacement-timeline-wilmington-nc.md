@@ -67,6 +67,10 @@ subtitle: Installation Days, Scheduling, and What Delays a Coastal Roof
 
 The installation is the short part. Scheduling, materials, permits, weather, and hidden deck damage are what turn a “two-day job” into a two-week project.
 
+## How long does a residential roof replacement take in Wilmington, NC?
+
+A residential roof replacement in Wilmington, NC usually takes one to three days of installation, plus one to four weeks from contract to start. Small roofs can finish in a day; large, steep or complex roofs take three to five days or more.
+
 ## Installation time by roof type
 
 | Roof | Installation time | What drives it |

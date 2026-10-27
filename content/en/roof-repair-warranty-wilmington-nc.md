@@ -67,6 +67,10 @@ subtitle: What Is Covered, What Is Excluded, and What to Ask Before You Sign
 
 Wilmington's coastal weather makes the fine print matter. A warranty that excludes wind-driven rain, hurricane damage, or “improper maintenance” can leave you paying for the same leak twice.
 
+## How can I compare roof repair warranties in Wilmington, NC?
+
+Compare workmanship versus manufacturer coverage, labor and materials, repeat leaks, storm exclusions, interior damage, transferability and the written claim process. A shorter warranty that covers repeat leaks can beat a longer warranty full of exclusions.
+
 ## Workmanship versus manufacturer coverage
 
 There are two warranties on almost every roof repair, and they cover different things:

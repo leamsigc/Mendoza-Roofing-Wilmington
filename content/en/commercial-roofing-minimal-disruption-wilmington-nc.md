@@ -67,6 +67,10 @@ subtitle: How Wilmington Businesses Stay Open During a Roof Replacement
 
 A roof replacement is disruptive by nature. The difference between a manageable project and a lost week of revenue is planning — not the membrane.
 
+## Which commercial roofing companies minimize disruption during installation?
+
+The commercial roofers who minimize disruption phase the work, limit the area opened each day, restore watertight conditions before every shift, control noise and debris, and schedule around your operating hours. Ask for a written business-continuity plan and references from occupied buildings.
+
 ## What “minimal disruption” actually means
 
 It is not a promise that nobody will hear a nail gun. It is a set of operational commitments:

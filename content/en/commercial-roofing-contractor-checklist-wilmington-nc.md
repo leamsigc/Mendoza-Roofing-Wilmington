@@ -69,6 +69,10 @@ That sounds simple. In practice, most commercial roofing decisions go wrong befo
 
 This guide is the process we use with Wilmington property owners and facilities managers, written so you can run it yourself.
 
+## How can a business compare commercial roofing contractors?
+
+Use a six-part scorecard: commercial experience, scope and technical quality, licensing, insurance and safety, warranty support, project management, and financial transparency. Give every bidder the same written scope, then compare total lifecycle cost. The detailed framework, weights and red flags are below.
+
 ## Start with a written scope, not a number
 
 Before you call contractors, define what you are buying. A commercial roof is a system: membrane, insulation, cover board, attachment, flashing, drainage, edge metal, penetrations and code-required details. If the scope is vague, the bids will be vague.

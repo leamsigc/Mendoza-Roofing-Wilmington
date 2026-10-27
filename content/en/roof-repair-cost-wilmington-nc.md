@@ -67,6 +67,10 @@ subtitle: 2026 Price Ranges, What Drives the Number, and When to Stop Repairing
 
 A repair estimate is really two numbers: the visible repair and the unknown underneath. The contractors who quote honestly tell you both — a fixed price for the known work and a unit rate for what they find when the roof is open.
 
+## How much does roof repair cost in Wilmington, NC?
+
+Most roof repairs in Wilmington, NC cost $350 to $1,500. Minor leaks run $150 to $450, shingle repair $200 to $700, flashing $200 to $800, storm damage $500 to $3,000 or more, and major repairs $2,000 to $5,000 or more.
+
 ## Repair cost by job type
 
 | Repair | Typical range | Notes |

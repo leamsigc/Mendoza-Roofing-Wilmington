@@ -67,6 +67,10 @@ subtitle: TPO, PVC, EPDM, Modified Bitumen and Metal Compared for Coastal NC
 
 The membrane is only half the decision. Attachment, insulation, drainage, flashing and edge metal determine whether a “good” membrane survives a hurricane season.
 
+## What is the best flat roofing system for a Wilmington business?
+
+TPO is usually the best flat roofing system for a Wilmington business: reflective, heat-welded, 20 to 30 years of service life, and moderate cost. Choose PVC for restaurants, EPDM for proven flexibility, modified bitumen for heavy foot traffic, or metal for long service life. The full comparison is below.
+
 ## The five systems, compared
 
 | System | Best for | Service life | Relative cost | Watch-outs |
